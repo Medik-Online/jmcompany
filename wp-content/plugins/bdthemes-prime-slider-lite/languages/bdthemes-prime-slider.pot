@@ -1,0 +1,5608 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Prime Slider\n"
+"POT-Creation-Date: 2021-10-06 11:53+0600\n"
+"PO-Revision-Date: 2020-12-20 15:33+0600\n"
+"Last-Translator: Selim Rana <selim@bdthemes.com>\n"
+"Language-Team: Selim Rana <selim@bdthemes.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: bdthemes-prime-slider.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+"X-Poedit-SearchPathExcluded-1: node_modules\n"
+"X-Poedit-SearchPathExcluded-2: assets\n"
+
+#: base/prime-slider-module-base.php:33 base/prime-slider-module-base.php:44
+#: loader.php:55 loader.php:66
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: bdthemes-prime-slider.php:120
+msgid ""
+"Ops! Prime Slider not working because you need to activate the Elementor "
+"plugin first."
+msgstr ""
+
+#: bdthemes-prime-slider.php:121
+msgid "Activate Elementor Now"
+msgstr ""
+
+#: bdthemes-prime-slider.php:127
+msgid ""
+"Ops! Prime Slider not working because you need to install the Elementor "
+"plugin"
+msgstr ""
+
+#: bdthemes-prime-slider.php:128
+msgid "Install Elementor Now"
+msgstr ""
+
+#: includes/admin-settings.php:50
+msgid "Dashboard"
+msgstr ""
+
+#: includes/admin-settings.php:62 includes/admin-settings.php:77
+msgid "Core Widgets"
+msgstr ""
+
+#: includes/admin-settings.php:89
+msgid "Custom Slider"
+msgstr ""
+
+#: includes/admin-settings.php:103 modules/general/module.info.php:5
+#: modules/general/widgets/general.php:33
+msgid "General"
+msgstr ""
+
+#: includes/admin-settings.php:116 modules/flogia/module.info.php:5
+#: modules/flogia/widgets/flogia.php:28
+msgid "Flogia"
+msgstr ""
+
+#: includes/admin-settings.php:129 modules/dragon/module.info.php:5
+#: modules/dragon/widgets/dragon.php:22
+msgid "Dragon"
+msgstr ""
+
+#: includes/admin-settings.php:142 modules/isolate/module.info.php:5
+#: modules/isolate/widgets/isolate.php:29
+msgid "Isolate"
+msgstr ""
+
+#: includes/admin-settings.php:155 modules/blog/module.info.php:5
+#: modules/blog/widgets/blog.php:38
+msgid "Blog"
+msgstr ""
+
+#: includes/admin-settings.php:169 modules/fluent/module.info.php:5
+#: modules/fluent/widgets/fluent.php:31
+msgid "Fluent"
+msgstr ""
+
+#: includes/admin-settings.php:183 modules/fiestar/module.info.php:5
+#: modules/fiestar/widgets/fiestar.php:35
+msgid "Fiestar"
+msgstr ""
+
+#: includes/admin-settings.php:196
+#: modules/woocommerce/widgets/woocommerce.php:24
+msgid "WooCommerce"
+msgstr ""
+
+#: includes/admin-settings.php:210
+msgid "WooStand"
+msgstr ""
+
+#: includes/admin-settings.php:224 modules/woolamp/module.info.php:5
+#: modules/woolamp/widgets/woolamp.php:26
+msgid "Woolamp"
+msgstr ""
+
+#: includes/admin-settings.php:238 modules/wooexpand/module.info.php:5
+#: modules/wooexpand/widgets/wooexpand.php:22
+msgid "Wooexpand"
+msgstr ""
+
+#: includes/admin-settings.php:252 modules/multiscroll/module.info.php:5
+#: modules/multiscroll/widgets/multiscroll.php:26
+msgid "Multiscroll"
+msgstr ""
+
+#: includes/admin-settings.php:265 modules/pagepiling/module.info.php:5
+#: modules/pagepiling/widgets/pagepiling.php:23
+msgid "Pagepiling"
+msgstr ""
+
+#: includes/admin-settings.php:278 modules/sequester/widgets/sequester.php:23
+msgid "Sequester"
+msgstr ""
+
+#: includes/admin-settings.php:291 modules/storker/module.info.php:5
+#: modules/storker/widgets/storker.php:35
+msgid "Storker"
+msgstr ""
+
+#: includes/admin-settings.php:305 modules/knily/module.info.php:5
+#: modules/knily/widgets/knily.php:38
+msgid "Knily"
+msgstr ""
+
+#: includes/admin-settings.php:320 modules/marble/module.info.php:5
+#: modules/marble/widgets/marble.php:34
+msgid "Marble"
+msgstr ""
+
+#: includes/admin-settings.php:334 modules/mercury/module.info.php:5
+#: modules/mercury/widgets/mercury.php:34
+msgid "Mercury"
+msgstr ""
+
+#: includes/admin-settings.php:347 modules/mount/module.info.php:5
+#: modules/mount/widgets/mount.php:25
+msgid "Mount"
+msgstr ""
+
+#: includes/admin-settings.php:361 modules/monster/module.info.php:5
+msgid "Monster"
+msgstr ""
+
+#: includes/admin-settings.php:376 modules/flexure/module.info.php:5
+#: modules/flexure/widgets/flexure.php:26
+msgid "Flexure"
+msgstr ""
+
+#: includes/admin-settings.php:391 modules/event-calendar/module.info.php:5
+#: modules/event-calendar/widgets/event-calendar.php:26
+msgid "Event Calendar"
+msgstr ""
+
+#: includes/admin-settings.php:859
+msgid "Please wait, Saving settings..."
+msgstr ""
+
+#: includes/admin-settings.php:867
+msgid "Settings Saved Successfully."
+msgstr ""
+
+#: includes/admin-settings.php:874
+msgid "Unknown error, make sure access is correct!"
+msgstr ""
+
+#: includes/admin-settings.php:907
+msgid "Thank you for purchase Prime Slider. Please <a href=\""
+msgstr ""
+
+#: includes/admin.php:59
+msgid "Go for Get Support"
+msgstr ""
+
+#: includes/admin.php:59
+msgid "Get Support"
+msgstr ""
+
+#: includes/admin.php:60
+msgid "View Prime Slider Video Tutorials"
+msgstr ""
+
+#: includes/admin.php:60
+msgid "Video Tutorials"
+msgstr ""
+
+#: includes/admin.php:71
+msgid "Settings"
+msgstr ""
+
+#: includes/admin.php:123
+msgid ""
+"<b>Win Prime Slider Pro Lifetime License</b> by give us an honest review. "
+"Please go to <a href=\"https://wordpress.org/plugins/bdthemes-prime-slider-"
+"lite/\">Prime Slider</a> WordPress repository and submit your review. We "
+"will select one random user from the review page every month. When you "
+"complete your review just fill-up <a href=\"https://bdthemes.com/giveaway-"
+"form/\">this form</a> to join our giveaway program."
+msgstr ""
+
+#: includes/class-settings-api.php:518
+msgid "Choose File"
+msgstr ""
+
+#: includes/helper.php:190
+msgid "Template Not Found!"
+msgstr ""
+
+#: includes/helper.php:192 modules/custom/widgets/custom.php:173
+msgid "Select Template"
+msgstr ""
+
+#: includes/helper.php:208
+msgid "Edit Template"
+msgstr ""
+
+#: includes/helper.php:226
+msgid "No sidebars were found"
+msgstr ""
+
+#: includes/helper.php:228
+msgid "Select Sidebar"
+msgstr ""
+
+#: includes/helper.php:246 modules/blog/widgets/blog.php:121
+#: modules/blog/widgets/blog.php:1138 modules/blog/widgets/blog.php:2445
+#: modules/dragon/widgets/dragon.php:294 modules/dragon/widgets/dragon.php:509
+#: modules/event-calendar/widgets/event-calendar.php:197
+#: modules/event-calendar/widgets/event-calendar.php:579
+#: modules/flexure/widgets/flexure.php:164
+#: modules/flogia/widgets/flogia.php:105 modules/flogia/widgets/flogia.php:502
+#: modules/fluent/widgets/fluent.php:112 modules/fluent/widgets/fluent.php:652
+#: modules/general/widgets/general.php:932
+#: modules/general/widgets/general.php:1346
+#: modules/general/widgets/general.php:2744
+#: modules/isolate/widgets/isolate.php:909
+#: modules/isolate/widgets/isolate.php:1268
+#: modules/isolate/widgets/isolate.php:2404 modules/mount/widgets/mount.php:268
+#: modules/mount/widgets/mount.php:506
+#: modules/pagepiling/widgets/pagepiling.php:195
+#: modules/woocommerce/widgets/woocommerce.php:117
+#: modules/woocommerce/widgets/woocommerce.php:666
+#: modules/wooexpand/widgets/wooexpand.php:128
+#: modules/woostand/widgets/woostand.php:100
+#: modules/woostand/widgets/woostand.php:1327
+msgid "None"
+msgstr ""
+
+#: includes/helper.php:247 modules/custom/widgets/custom.php:640
+#: modules/general/widgets/general.php:1667
+#: modules/mercury/widgets/mercury.php:336
+#: modules/monster/widgets/monster.php:541
+msgid "Fade"
+msgstr ""
+
+#: includes/helper.php:248
+msgid "Scale Up"
+msgstr ""
+
+#: includes/helper.php:249
+msgid "Scale Down"
+msgstr ""
+
+#: includes/helper.php:250
+msgid "Slide Top"
+msgstr ""
+
+#: includes/helper.php:251
+msgid "Slide Bottom"
+msgstr ""
+
+#: includes/helper.php:252
+msgid "Slide Left"
+msgstr ""
+
+#: includes/helper.php:253
+msgid "Slide Right"
+msgstr ""
+
+#: includes/helper.php:254
+msgid "Slide Top Small"
+msgstr ""
+
+#: includes/helper.php:255
+msgid "Slide Bottom Small"
+msgstr ""
+
+#: includes/helper.php:256
+msgid "Slide Left Small"
+msgstr ""
+
+#: includes/helper.php:257
+msgid "Slide Right Small"
+msgstr ""
+
+#: includes/helper.php:258
+msgid "Slide Top Medium"
+msgstr ""
+
+#: includes/helper.php:259
+msgid "Slide Bottom Medium"
+msgstr ""
+
+#: includes/helper.php:260
+msgid "Slide Left Medium"
+msgstr ""
+
+#: includes/helper.php:261
+msgid "Slide Right Medium"
+msgstr ""
+
+#: includes/helper.php:270
+msgid "Multiply"
+msgstr ""
+
+#: includes/helper.php:271
+msgid "Screen"
+msgstr ""
+
+#: includes/helper.php:272 modules/blog/widgets/blog.php:1123
+#: modules/blog/widgets/blog.php:2441 modules/dragon/widgets/dragon.php:505
+#: modules/flogia/widgets/flogia.php:498 modules/fluent/widgets/fluent.php:648
+#: modules/general/widgets/general.php:917
+#: modules/general/widgets/general.php:2740
+#: modules/isolate/widgets/isolate.php:894
+#: modules/isolate/widgets/isolate.php:2400 modules/mount/widgets/mount.php:502
+#: modules/woocommerce/widgets/woocommerce.php:662
+#: modules/woostand/widgets/woostand.php:1323
+msgid "Overlay"
+msgstr ""
+
+#: includes/helper.php:273
+msgid "Darken"
+msgstr ""
+
+#: includes/helper.php:274
+msgid "Lighten"
+msgstr ""
+
+#: includes/helper.php:275
+msgid "Color-Dodge"
+msgstr ""
+
+#: includes/helper.php:276
+msgid "Color-Burn"
+msgstr ""
+
+#: includes/helper.php:277
+msgid "Hard-Light"
+msgstr ""
+
+#: includes/helper.php:278
+msgid "Soft-Light"
+msgstr ""
+
+#: includes/helper.php:279
+msgid "Difference"
+msgstr ""
+
+#: includes/helper.php:280
+msgid "Exclusion"
+msgstr ""
+
+#: includes/helper.php:281
+msgid "Hue"
+msgstr ""
+
+#: includes/helper.php:282
+msgid "Saturation"
+msgstr ""
+
+#: includes/helper.php:283 modules/blog/widgets/blog.php:1810
+#: modules/blog/widgets/blog.php:1895 modules/blog/widgets/blog.php:1967
+#: modules/blog/widgets/blog.php:2168 modules/blog/widgets/blog.php:2251
+#: modules/blog/widgets/blog.php:2316 modules/blog/widgets/blog.php:2390
+#: modules/blog/widgets/blog.php:2527 modules/blog/widgets/blog.php:2611
+#: modules/blog/widgets/blog.php:2699 modules/blog/widgets/blog.php:2781
+#: modules/blog/widgets/blog.php:2846 modules/blog/widgets/blog.php:2986
+#: modules/blog/widgets/blog.php:3048 modules/blog/widgets/blog.php:3078
+#: modules/blog/widgets/blog.php:3117 modules/blog/widgets/blog.php:3198
+#: modules/blog/widgets/blog.php:3280 modules/blog/widgets/blog.php:3360
+#: modules/blog/widgets/blog.php:3454 modules/blog/widgets/blog.php:3494
+#: modules/blog/widgets/blog.php:3571 modules/custom/widgets/custom.php:717
+#: modules/custom/widgets/custom.php:828 modules/custom/widgets/custom.php:891
+#: modules/custom/widgets/custom.php:1069
+#: modules/custom/widgets/custom.php:1172
+#: modules/custom/widgets/custom.php:1307
+#: modules/custom/widgets/custom.php:1324
+#: modules/custom/widgets/custom.php:1394
+#: modules/custom/widgets/custom.php:1481
+#: modules/custom/widgets/custom.php:1521 modules/dragon/widgets/dragon.php:612
+#: modules/dragon/widgets/dragon.php:681 modules/dragon/widgets/dragon.php:733
+#: modules/dragon/widgets/dragon.php:1029
+#: modules/event-calendar/widgets/event-calendar.php:793
+#: modules/event-calendar/widgets/event-calendar.php:854
+#: modules/event-calendar/widgets/event-calendar.php:897
+#: modules/event-calendar/widgets/event-calendar.php:956
+#: modules/event-calendar/widgets/event-calendar.php:1063
+#: modules/event-calendar/widgets/event-calendar.php:1124
+#: modules/event-calendar/widgets/event-calendar.php:1191
+#: modules/event-calendar/widgets/event-calendar.php:1295
+#: modules/fiestar/widgets/fiestar.php:429
+#: modules/fiestar/widgets/fiestar.php:508
+#: modules/fiestar/widgets/fiestar.php:602
+#: modules/fiestar/widgets/fiestar.php:659
+#: modules/fiestar/widgets/fiestar.php:747
+#: modules/flexure/widgets/flexure.php:512
+#: modules/flexure/widgets/flexure.php:577
+#: modules/flexure/widgets/flexure.php:639
+#: modules/flexure/widgets/flexure.php:714
+#: modules/flexure/widgets/flexure.php:808
+#: modules/flexure/widgets/flexure.php:866
+#: modules/flexure/widgets/flexure.php:970
+#: modules/flexure/widgets/flexure.php:1059
+#: modules/flogia/widgets/flogia.php:593 modules/flogia/widgets/flogia.php:662
+#: modules/flogia/widgets/flogia.php:741 modules/flogia/widgets/flogia.php:834
+#: modules/flogia/widgets/flogia.php:872 modules/fluent/widgets/fluent.php:743
+#: modules/fluent/widgets/fluent.php:798 modules/fluent/widgets/fluent.php:837
+#: modules/fluent/widgets/fluent.php:893 modules/fluent/widgets/fluent.php:986
+#: modules/fluent/widgets/fluent.php:1018
+#: modules/fluent/widgets/fluent.php:1079
+#: modules/fluent/widgets/fluent.php:1108
+#: modules/fluent/widgets/fluent.php:1180
+#: modules/fluent/widgets/fluent.php:1311
+#: modules/general/widgets/general.php:1233
+#: modules/general/widgets/general.php:1255
+#: modules/general/widgets/general.php:2095
+#: modules/general/widgets/general.php:2179
+#: modules/general/widgets/general.php:2251
+#: modules/general/widgets/general.php:2452
+#: modules/general/widgets/general.php:2549
+#: modules/general/widgets/general.php:2614
+#: modules/general/widgets/general.php:2688
+#: modules/general/widgets/general.php:2832
+#: modules/general/widgets/general.php:2974
+#: modules/general/widgets/general.php:3026
+#: modules/general/widgets/general.php:3190
+#: modules/general/widgets/general.php:3303
+#: modules/general/widgets/general.php:3434
+#: modules/general/widgets/general.php:3501
+#: modules/general/widgets/general.php:3568
+#: modules/general/widgets/general.php:3732
+#: modules/general/widgets/general.php:3795
+#: modules/general/widgets/general.php:3825
+#: modules/isolate/widgets/isolate.php:1765
+#: modules/isolate/widgets/isolate.php:1850
+#: modules/isolate/widgets/isolate.php:1922
+#: modules/isolate/widgets/isolate.php:2126
+#: modules/isolate/widgets/isolate.php:2209
+#: modules/isolate/widgets/isolate.php:2274
+#: modules/isolate/widgets/isolate.php:2348
+#: modules/isolate/widgets/isolate.php:2574
+#: modules/isolate/widgets/isolate.php:2651
+#: modules/isolate/widgets/isolate.php:2706
+#: modules/isolate/widgets/isolate.php:2758
+#: modules/isolate/widgets/isolate.php:2860
+#: modules/isolate/widgets/isolate.php:2958
+#: modules/isolate/widgets/isolate.php:3086
+#: modules/isolate/widgets/isolate.php:3148
+#: modules/isolate/widgets/isolate.php:3236
+#: modules/isolate/widgets/isolate.php:3351
+#: modules/isolate/widgets/isolate.php:3414
+#: modules/isolate/widgets/isolate.php:3498 modules/knily/widgets/knily.php:556
+#: modules/knily/widgets/knily.php:627 modules/knily/widgets/knily.php:699
+#: modules/knily/widgets/knily.php:787 modules/knily/widgets/knily.php:867
+#: modules/knily/widgets/knily.php:943 modules/knily/widgets/knily.php:1037
+#: modules/knily/widgets/knily.php:1096 modules/knily/widgets/knily.php:1188
+#: modules/knily/widgets/knily.php:1404 modules/knily/widgets/knily.php:1497
+#: modules/knily/widgets/knily.php:1574 modules/knily/widgets/knily.php:1696
+#: modules/marble/widgets/marble.php:410 modules/marble/widgets/marble.php:489
+#: modules/marble/widgets/marble.php:583 modules/marble/widgets/marble.php:642
+#: modules/marble/widgets/marble.php:687 modules/marble/widgets/marble.php:738
+#: modules/marble/widgets/marble.php:814
+#: modules/mercury/widgets/mercury.php:474
+#: modules/mercury/widgets/mercury.php:545
+#: modules/mercury/widgets/mercury.php:617
+#: modules/mercury/widgets/mercury.php:705
+#: modules/mercury/widgets/mercury.php:817
+#: modules/mercury/widgets/mercury.php:874
+#: modules/mercury/widgets/mercury.php:962
+#: modules/monster/widgets/monster.php:926
+#: modules/monster/widgets/monster.php:989
+#: modules/monster/widgets/monster.php:1113
+#: modules/monster/widgets/monster.php:1207
+#: modules/monster/widgets/monster.php:1265
+#: modules/monster/widgets/monster.php:1368 modules/mount/widgets/mount.php:601
+#: modules/mount/widgets/mount.php:758 modules/mount/widgets/mount.php:842
+#: modules/mount/widgets/mount.php:936
+#: modules/multiscroll/widgets/multiscroll.php:161
+#: modules/multiscroll/widgets/multiscroll.php:175
+#: modules/multiscroll/widgets/multiscroll.php:209
+#: modules/multiscroll/widgets/multiscroll.php:223
+#: modules/multiscroll/widgets/multiscroll.php:660
+#: modules/multiscroll/widgets/multiscroll.php:712
+#: modules/multiscroll/widgets/multiscroll.php:755
+#: modules/multiscroll/widgets/multiscroll.php:807
+#: modules/multiscroll/widgets/multiscroll.php:913
+#: modules/multiscroll/widgets/multiscroll.php:992
+#: modules/multiscroll/widgets/multiscroll.php:1135
+#: modules/pagepiling/widgets/pagepiling.php:645
+#: modules/pagepiling/widgets/pagepiling.php:726
+#: modules/pagepiling/widgets/pagepiling.php:778
+#: modules/pagepiling/widgets/pagepiling.php:992
+#: modules/pagepiling/widgets/pagepiling.php:1066
+#: modules/pagepiling/widgets/pagepiling.php:1103
+#: modules/pagepiling/widgets/pagepiling.php:1163
+#: modules/pagepiling/widgets/pagepiling.php:1213
+#: modules/sequester/widgets/sequester.php:542
+#: modules/sequester/widgets/sequester.php:614
+#: modules/sequester/widgets/sequester.php:666
+#: modules/sequester/widgets/sequester.php:754
+#: modules/sequester/widgets/sequester.php:835
+#: modules/sequester/widgets/sequester.php:866
+#: modules/sequester/widgets/sequester.php:912
+#: modules/sequester/widgets/sequester.php:960
+#: modules/sequester/widgets/sequester.php:1065
+#: modules/storker/widgets/storker.php:497
+#: modules/storker/widgets/storker.php:568
+#: modules/storker/widgets/storker.php:640
+#: modules/storker/widgets/storker.php:727
+#: modules/storker/widgets/storker.php:807
+#: modules/storker/widgets/storker.php:883
+#: modules/storker/widgets/storker.php:977
+#: modules/storker/widgets/storker.php:1118
+#: modules/storker/widgets/storker.php:1147
+#: modules/storker/widgets/storker.php:1259
+#: modules/storker/widgets/storker.php:1356
+#: modules/storker/widgets/storker.php:1480
+#: modules/storker/widgets/storker.php:1602
+#: modules/woocommerce/widgets/woocommerce.php:759
+#: modules/woocommerce/widgets/woocommerce.php:825
+#: modules/woocommerce/widgets/woocommerce.php:917
+#: modules/woocommerce/widgets/woocommerce.php:962
+#: modules/woocommerce/widgets/woocommerce.php:1049
+#: modules/woocommerce/widgets/woocommerce.php:1090
+#: modules/woocommerce/widgets/woocommerce.php:1161
+#: modules/woocommerce/widgets/woocommerce.php:1254
+#: modules/woocommerce/widgets/woocommerce.php:1288
+#: modules/woocommerce/widgets/woocommerce.php:1386
+#: modules/woocommerce/widgets/woocommerce.php:1480
+#: modules/woocommerce/widgets/woocommerce.php:1541
+#: modules/woocommerce/widgets/woocommerce.php:1571
+#: modules/wooexpand/widgets/wooexpand.php:546
+#: modules/wooexpand/widgets/wooexpand.php:604
+#: modules/wooexpand/widgets/wooexpand.php:688
+#: modules/wooexpand/widgets/wooexpand.php:754
+#: modules/wooexpand/widgets/wooexpand.php:795
+#: modules/wooexpand/widgets/wooexpand.php:852
+#: modules/wooexpand/widgets/wooexpand.php:924
+#: modules/wooexpand/widgets/wooexpand.php:1066
+#: modules/woolamp/widgets/woolamp.php:514
+#: modules/woolamp/widgets/woolamp.php:580
+#: modules/woolamp/widgets/woolamp.php:663
+#: modules/woolamp/widgets/woolamp.php:697
+#: modules/woolamp/widgets/woolamp.php:763
+#: modules/woolamp/widgets/woolamp.php:804
+#: modules/woolamp/widgets/woolamp.php:875
+#: modules/woolamp/widgets/woolamp.php:968
+#: modules/woolamp/widgets/woolamp.php:1002
+#: modules/woolamp/widgets/woolamp.php:1100
+#: modules/woolamp/widgets/woolamp.php:1200
+#: modules/woolamp/widgets/woolamp.php:1252
+#: modules/woostand/widgets/woostand.php:613
+#: modules/woostand/widgets/woostand.php:679
+#: modules/woostand/widgets/woostand.php:772
+#: modules/woostand/widgets/woostand.php:834
+#: modules/woostand/widgets/woostand.php:875
+#: modules/woostand/widgets/woostand.php:946
+#: modules/woostand/widgets/woostand.php:1041
+#: modules/woostand/widgets/woostand.php:1075
+#: modules/woostand/widgets/woostand.php:1181
+#: modules/woostand/widgets/woostand.php:1218
+#: modules/woostand/widgets/woostand.php:1255
+#: traits/global-widget-controls.php:28 traits/global-widget-controls.php:131
+#: traits/global-widget-controls.php:174
+msgid "Color"
+msgstr ""
+
+#: includes/helper.php:284
+msgid "Luminosity"
+msgstr ""
+
+#: includes/helper.php:293 modules/blog/widgets/blog.php:1023
+#: modules/blog/widgets/blog.php:1936 modules/custom/widgets/custom.php:1136
+#: modules/flexure/widgets/flexure.php:924
+#: modules/general/widgets/general.php:817
+#: modules/general/widgets/general.php:1739
+#: modules/general/widgets/general.php:2220
+#: modules/isolate/widgets/isolate.php:794
+#: modules/isolate/widgets/isolate.php:1891
+msgid "Default"
+msgstr ""
+
+#: includes/helper.php:294 includes/helper.php:311 includes/helper.php:326
+#: includes/helper.php:341 includes/helper.php:359
+#: modules/custom/widgets/custom.php:355 modules/custom/widgets/custom.php:447
+#: modules/custom/widgets/custom.php:516
+msgid "Top Left"
+msgstr ""
+
+#: includes/helper.php:295 includes/helper.php:312 includes/helper.php:327
+#: includes/helper.php:342 includes/helper.php:360
+msgid "Top Center"
+msgstr ""
+
+#: includes/helper.php:296 includes/helper.php:313 includes/helper.php:328
+#: includes/helper.php:343 includes/helper.php:361
+#: modules/custom/widgets/custom.php:356 modules/custom/widgets/custom.php:448
+#: modules/custom/widgets/custom.php:517
+msgid "Top Right"
+msgstr ""
+
+#: includes/helper.php:297 includes/helper.php:329
+#: modules/blog/widgets/blog.php:489 modules/blog/widgets/blog.php:517
+#: modules/blog/widgets/blog.php:741 modules/blog/widgets/blog.php:764
+#: modules/event-calendar/widgets/event-calendar.php:95
+#: modules/fiestar/widgets/fiestar.php:162
+#: modules/flexure/widgets/flexure.php:402
+#: modules/flogia/widgets/flogia.php:325 modules/flogia/widgets/flogia.php:350
+#: modules/flogia/widgets/flogia.php:942 modules/fluent/widgets/fluent.php:346
+#: modules/fluent/widgets/fluent.php:371
+#: modules/general/widgets/general.php:125
+#: modules/general/widgets/general.php:507
+#: modules/general/widgets/general.php:530
+#: modules/isolate/widgets/isolate.php:239
+#: modules/isolate/widgets/isolate.php:510
+#: modules/isolate/widgets/isolate.php:533 modules/knily/widgets/knily.php:128
+#: modules/knily/widgets/knily.php:1792 modules/marble/widgets/marble.php:136
+#: modules/mercury/widgets/mercury.php:134
+#: modules/monster/widgets/monster.php:208 modules/mount/widgets/mount.php:154
+#: modules/multiscroll/widgets/multiscroll.php:390
+#: modules/pagepiling/widgets/pagepiling.php:435
+#: modules/sequester/widgets/sequester.php:170
+#: modules/storker/widgets/storker.php:125
+#: modules/storker/widgets/storker.php:1698
+#: modules/woocommerce/widgets/woocommerce.php:327
+#: modules/wooexpand/widgets/wooexpand.php:93
+#: modules/woolamp/widgets/woolamp.php:101
+#: modules/woostand/widgets/woostand.php:292
+msgid "Center"
+msgstr ""
+
+#: includes/helper.php:298 includes/helper.php:314
+#: modules/custom/widgets/custom.php:357 modules/custom/widgets/custom.php:449
+#: modules/custom/widgets/custom.php:518
+msgid "Center Left"
+msgstr ""
+
+#: includes/helper.php:299 includes/helper.php:315
+#: modules/custom/widgets/custom.php:358 modules/custom/widgets/custom.php:450
+#: modules/custom/widgets/custom.php:519
+msgid "Center Right"
+msgstr ""
+
+#: includes/helper.php:300 includes/helper.php:316 includes/helper.php:330
+#: includes/helper.php:344 includes/helper.php:355
+#: modules/custom/widgets/custom.php:359 modules/custom/widgets/custom.php:451
+#: modules/custom/widgets/custom.php:520
+msgid "Bottom Left"
+msgstr ""
+
+#: includes/helper.php:301 includes/helper.php:317 includes/helper.php:331
+#: includes/helper.php:345 includes/helper.php:356
+#: modules/custom/widgets/custom.php:522
+msgid "Bottom Center"
+msgstr ""
+
+#: includes/helper.php:302 includes/helper.php:318 includes/helper.php:332
+#: includes/helper.php:346 includes/helper.php:357
+#: modules/custom/widgets/custom.php:360 modules/custom/widgets/custom.php:452
+#: modules/custom/widgets/custom.php:521
+msgid "Bottom Right"
+msgstr ""
+
+#: includes/helper.php:358
+msgid "Bottom Justify"
+msgstr ""
+
+#: includes/helper.php:362
+msgid "Top Justify"
+msgstr ""
+
+#: includes/helper.php:363
+msgid "Left Top"
+msgstr ""
+
+#: includes/helper.php:364
+msgid "Left Center"
+msgstr ""
+
+#: includes/helper.php:365
+msgid "Left Bottom"
+msgstr ""
+
+#: includes/helper.php:366
+msgid "Right Top"
+msgstr ""
+
+#: includes/helper.php:367
+msgid "Right Center"
+msgstr ""
+
+#: includes/helper.php:368
+msgid "Right Bottom"
+msgstr ""
+
+#: includes/helper.php:377
+msgid "Extra Small"
+msgstr ""
+
+#: includes/helper.php:378
+msgid "Small"
+msgstr ""
+
+#: includes/helper.php:379
+msgid "Medium"
+msgstr ""
+
+#: includes/helper.php:380
+msgid "Large"
+msgstr ""
+
+#: includes/helper.php:381
+msgid "Extra Large"
+msgstr ""
+
+#: includes/helper.php:390 includes/helper.php:404
+msgid "H1"
+msgstr ""
+
+#: includes/helper.php:391 includes/helper.php:405
+msgid "H2"
+msgstr ""
+
+#: includes/helper.php:392 includes/helper.php:406
+msgid "H3"
+msgstr ""
+
+#: includes/helper.php:393 includes/helper.php:407
+msgid "H4"
+msgstr ""
+
+#: includes/helper.php:394 includes/helper.php:408
+msgid "H5"
+msgstr ""
+
+#: includes/helper.php:395 includes/helper.php:409
+msgid "H6"
+msgstr ""
+
+#: includes/helper.php:410
+msgid "div"
+msgstr ""
+
+#: includes/helper.php:411
+msgid "span"
+msgstr ""
+
+#: includes/helper.php:412
+msgid "p"
+msgstr ""
+
+#: includes/helper.php:435
+msgid "ago"
+msgstr ""
+
+#: includes/helper.php:605 modules/blog/widgets/blog.php:722
+#: modules/general/widgets/general.php:487
+#: modules/isolate/widgets/isolate.php:490
+msgid "Select Menu"
+msgstr ""
+
+#: modules/blog/skins/skin-coral.php:18
+msgid "Coral"
+msgstr ""
+
+#: modules/blog/skins/skin-folio.php:18
+msgid "Folio"
+msgstr ""
+
+#: modules/blog/skins/skin-folio.php:46
+msgid "Written by&nbsp;"
+msgstr ""
+
+#: modules/blog/skins/skin-folio.php:47
+msgid "On&nbsp;"
+msgstr ""
+
+#: modules/blog/skins/skin-folio.php:67 modules/blog/widgets/blog.php:4527
+msgid "Published on"
+msgstr ""
+
+#: modules/blog/skins/skin-folio.php:89 modules/blog/widgets/blog.php:4550
+msgid "Comments By"
+msgstr ""
+
+#: modules/blog/skins/skin-zinest.php:18
+msgid "Zinest"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:76 modules/custom/widgets/custom.php:52
+#: modules/dragon/widgets/dragon.php:54
+#: modules/event-calendar/widgets/event-calendar.php:63
+#: modules/fiestar/widgets/fiestar.php:71 modules/flogia/widgets/flogia.php:60
+#: modules/fluent/widgets/fluent.php:67 modules/general/widgets/general.php:86
+#: modules/isolate/widgets/isolate.php:70 modules/knily/widgets/knily.php:74
+#: modules/marble/widgets/marble.php:70 modules/mercury/widgets/mercury.php:70
+#: modules/monster/widgets/monster.php:57
+#: modules/monster/widgets/monster.php:388 modules/mount/widgets/mount.php:57
+#: modules/pagepiling/widgets/pagepiling.php:305
+#: modules/sequester/widgets/sequester.php:55
+#: modules/storker/widgets/storker.php:71
+#: modules/woocommerce/widgets/woocommerce.php:56
+#: modules/wooexpand/widgets/wooexpand.php:50
+#: modules/woolamp/widgets/woolamp.php:62
+#: modules/woostand/widgets/woostand.php:55
+msgid "Layout"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:83 modules/custom/widgets/custom.php:59
+#: modules/dragon/widgets/dragon.php:61 modules/flogia/widgets/flogia.php:67
+#: modules/fluent/widgets/fluent.php:74 modules/general/widgets/general.php:93
+#: modules/isolate/widgets/isolate.php:77 modules/mount/widgets/mount.php:64
+#: modules/sequester/widgets/sequester.php:62
+#: modules/woocommerce/widgets/woocommerce.php:63
+#: modules/woolamp/widgets/woolamp.php:69
+#: modules/woostand/widgets/woostand.php:62
+msgid "Size Ratio"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:93 modules/custom/widgets/custom.php:69
+#: modules/dragon/widgets/dragon.php:71 modules/flogia/widgets/flogia.php:77
+#: modules/fluent/widgets/fluent.php:84 modules/general/widgets/general.php:103
+#: modules/isolate/widgets/isolate.php:87
+#: modules/monster/widgets/monster.php:100 modules/mount/widgets/mount.php:74
+#: modules/pagepiling/widgets/pagepiling.php:409
+#: modules/sequester/widgets/sequester.php:72
+#: modules/woocommerce/widgets/woocommerce.php:73
+#: modules/woolamp/widgets/woolamp.php:79
+#: modules/woostand/widgets/woostand.php:72
+msgid "Minimum Height"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:108 modules/blog/widgets/blog.php:639
+#: modules/dragon/widgets/dragon.php:282
+#: modules/event-calendar/widgets/event-calendar.php:186
+#: modules/flexure/widgets/flexure.php:152 modules/flogia/widgets/flogia.php:92
+#: modules/fluent/widgets/fluent.php:99 modules/general/widgets/general.php:405
+#: modules/general/widgets/general.php:1333
+#: modules/isolate/widgets/isolate.php:404
+#: modules/isolate/widgets/isolate.php:1256
+#: modules/monster/widgets/monster.php:315 modules/mount/widgets/mount.php:256
+#: modules/multiscroll/widgets/multiscroll.php:330
+#: modules/pagepiling/widgets/pagepiling.php:381
+#: modules/sequester/widgets/sequester.php:306
+#: modules/woocommerce/widgets/woocommerce.php:105
+#: modules/wooexpand/widgets/wooexpand.php:115
+#: modules/woolamp/widgets/woolamp.php:119
+#: modules/woostand/widgets/woostand.php:87
+msgid "Image Size"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:119 modules/flogia/widgets/flogia.php:103
+#: modules/fluent/widgets/fluent.php:110
+#: modules/woostand/widgets/woostand.php:98
+msgid "Background Settings"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:122 modules/custom/module.info.php:5
+#: modules/custom/widgets/custom.php:24 modules/dragon/widgets/dragon.php:295
+#: modules/event-calendar/widgets/event-calendar.php:198
+#: modules/event-calendar/widgets/event-calendar.php:476
+#: modules/event-calendar/widgets/event-calendar.php:503
+#: modules/flexure/widgets/flexure.php:165
+#: modules/flogia/widgets/flogia.php:106 modules/fluent/widgets/fluent.php:113
+#: modules/general/widgets/general.php:1347
+#: modules/general/widgets/general.php:1740
+#: modules/isolate/widgets/isolate.php:1269 modules/mount/widgets/mount.php:269
+#: modules/pagepiling/widgets/pagepiling.php:196
+#: modules/woocommerce/widgets/woocommerce.php:118
+#: modules/wooexpand/widgets/wooexpand.php:129
+#: modules/woostand/widgets/woostand.php:101
+#: traits/query-controls/group-query/group-control-query.php:261
+msgid "Custom"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:132 modules/dragon/widgets/dragon.php:306
+#: modules/event-calendar/widgets/event-calendar.php:208
+#: modules/flexure/widgets/flexure.php:175
+#: modules/flogia/widgets/flogia.php:116 modules/fluent/widgets/fluent.php:123
+#: modules/general/widgets/general.php:1357 modules/mount/widgets/mount.php:280
+#: modules/pagepiling/widgets/pagepiling.php:207
+#: modules/woocommerce/widgets/woocommerce.php:128
+#: modules/wooexpand/widgets/wooexpand.php:139
+#: modules/woostand/widgets/woostand.php:111
+msgctxt "bdthemes-prime-slider"
+msgid "Position"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:136 modules/blog/widgets/blog.php:164
+#: modules/blog/widgets/blog.php:185 modules/blog/widgets/blog.php:208
+#: modules/dragon/widgets/dragon.php:310 modules/dragon/widgets/dragon.php:338
+#: modules/dragon/widgets/dragon.php:359 modules/dragon/widgets/dragon.php:382
+#: modules/event-calendar/widgets/event-calendar.php:212
+#: modules/event-calendar/widgets/event-calendar.php:240
+#: modules/event-calendar/widgets/event-calendar.php:261
+#: modules/event-calendar/widgets/event-calendar.php:284
+#: modules/flexure/widgets/flexure.php:179
+#: modules/flexure/widgets/flexure.php:207
+#: modules/flexure/widgets/flexure.php:228
+#: modules/flexure/widgets/flexure.php:251
+#: modules/flogia/widgets/flogia.php:120 modules/flogia/widgets/flogia.php:148
+#: modules/flogia/widgets/flogia.php:169 modules/flogia/widgets/flogia.php:192
+#: modules/fluent/widgets/fluent.php:127 modules/fluent/widgets/fluent.php:155
+#: modules/fluent/widgets/fluent.php:176 modules/fluent/widgets/fluent.php:199
+#: modules/general/widgets/general.php:1361
+#: modules/general/widgets/general.php:1389
+#: modules/general/widgets/general.php:1410
+#: modules/general/widgets/general.php:1433 modules/mount/widgets/mount.php:284
+#: modules/mount/widgets/mount.php:312 modules/mount/widgets/mount.php:333
+#: modules/mount/widgets/mount.php:356
+#: modules/pagepiling/widgets/pagepiling.php:211
+#: modules/pagepiling/widgets/pagepiling.php:239
+#: modules/pagepiling/widgets/pagepiling.php:260
+#: modules/pagepiling/widgets/pagepiling.php:283
+#: modules/woocommerce/widgets/woocommerce.php:132
+#: modules/woocommerce/widgets/woocommerce.php:160
+#: modules/woocommerce/widgets/woocommerce.php:181
+#: modules/woocommerce/widgets/woocommerce.php:204
+#: modules/wooexpand/widgets/wooexpand.php:143
+#: modules/wooexpand/widgets/wooexpand.php:171
+#: modules/wooexpand/widgets/wooexpand.php:192
+#: modules/wooexpand/widgets/wooexpand.php:215
+#: modules/woostand/widgets/woostand.php:115
+#: modules/woostand/widgets/woostand.php:143
+#: modules/woostand/widgets/woostand.php:164
+#: modules/woostand/widgets/woostand.php:187
+msgctxt "bdthemes-prime-slider"
+msgid "Default"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:137 modules/dragon/widgets/dragon.php:311
+#: modules/event-calendar/widgets/event-calendar.php:213
+#: modules/flexure/widgets/flexure.php:180
+#: modules/flogia/widgets/flogia.php:121 modules/fluent/widgets/fluent.php:128
+#: modules/general/widgets/general.php:1362 modules/mount/widgets/mount.php:285
+#: modules/pagepiling/widgets/pagepiling.php:212
+#: modules/woocommerce/widgets/woocommerce.php:133
+#: modules/wooexpand/widgets/wooexpand.php:144
+#: modules/woostand/widgets/woostand.php:116
+msgctxt "bdthemes-prime-slider"
+msgid "Center Center"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:138 modules/dragon/widgets/dragon.php:312
+#: modules/event-calendar/widgets/event-calendar.php:214
+#: modules/flexure/widgets/flexure.php:181
+#: modules/flogia/widgets/flogia.php:122 modules/fluent/widgets/fluent.php:129
+#: modules/general/widgets/general.php:1363 modules/mount/widgets/mount.php:286
+#: modules/pagepiling/widgets/pagepiling.php:213
+#: modules/woocommerce/widgets/woocommerce.php:134
+#: modules/wooexpand/widgets/wooexpand.php:145
+#: modules/woostand/widgets/woostand.php:117
+msgctxt "bdthemes-prime-slider"
+msgid "Center Left"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:139 modules/dragon/widgets/dragon.php:313
+#: modules/event-calendar/widgets/event-calendar.php:215
+#: modules/flexure/widgets/flexure.php:182
+#: modules/flogia/widgets/flogia.php:123 modules/fluent/widgets/fluent.php:130
+#: modules/general/widgets/general.php:1364 modules/mount/widgets/mount.php:287
+#: modules/pagepiling/widgets/pagepiling.php:214
+#: modules/woocommerce/widgets/woocommerce.php:135
+#: modules/wooexpand/widgets/wooexpand.php:146
+#: modules/woostand/widgets/woostand.php:118
+msgctxt "bdthemes-prime-slider"
+msgid "Center Right"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:140 modules/dragon/widgets/dragon.php:314
+#: modules/event-calendar/widgets/event-calendar.php:216
+#: modules/flexure/widgets/flexure.php:183
+#: modules/flogia/widgets/flogia.php:124 modules/fluent/widgets/fluent.php:131
+#: modules/general/widgets/general.php:1365 modules/mount/widgets/mount.php:288
+#: modules/pagepiling/widgets/pagepiling.php:215
+#: modules/woocommerce/widgets/woocommerce.php:136
+#: modules/wooexpand/widgets/wooexpand.php:147
+#: modules/woostand/widgets/woostand.php:119
+msgctxt "bdthemes-prime-slider"
+msgid "Top Center"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:141 modules/dragon/widgets/dragon.php:315
+#: modules/event-calendar/widgets/event-calendar.php:217
+#: modules/flexure/widgets/flexure.php:184
+#: modules/flogia/widgets/flogia.php:125 modules/fluent/widgets/fluent.php:132
+#: modules/general/widgets/general.php:1366 modules/mount/widgets/mount.php:289
+#: modules/pagepiling/widgets/pagepiling.php:216
+#: modules/woocommerce/widgets/woocommerce.php:137
+#: modules/wooexpand/widgets/wooexpand.php:148
+#: modules/woostand/widgets/woostand.php:120
+msgctxt "bdthemes-prime-slider"
+msgid "Top Left"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:142 modules/dragon/widgets/dragon.php:316
+#: modules/event-calendar/widgets/event-calendar.php:218
+#: modules/flexure/widgets/flexure.php:185
+#: modules/flogia/widgets/flogia.php:126 modules/fluent/widgets/fluent.php:133
+#: modules/general/widgets/general.php:1367 modules/mount/widgets/mount.php:290
+#: modules/pagepiling/widgets/pagepiling.php:217
+#: modules/woocommerce/widgets/woocommerce.php:138
+#: modules/wooexpand/widgets/wooexpand.php:149
+#: modules/woostand/widgets/woostand.php:121
+msgctxt "bdthemes-prime-slider"
+msgid "Top Right"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:143 modules/dragon/widgets/dragon.php:317
+#: modules/event-calendar/widgets/event-calendar.php:219
+#: modules/flexure/widgets/flexure.php:186
+#: modules/flogia/widgets/flogia.php:127 modules/fluent/widgets/fluent.php:134
+#: modules/general/widgets/general.php:1368 modules/mount/widgets/mount.php:291
+#: modules/pagepiling/widgets/pagepiling.php:218
+#: modules/woocommerce/widgets/woocommerce.php:139
+#: modules/wooexpand/widgets/wooexpand.php:150
+#: modules/woostand/widgets/woostand.php:122
+msgctxt "bdthemes-prime-slider"
+msgid "Bottom Center"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:144 modules/dragon/widgets/dragon.php:318
+#: modules/event-calendar/widgets/event-calendar.php:220
+#: modules/flexure/widgets/flexure.php:187
+#: modules/flogia/widgets/flogia.php:128 modules/fluent/widgets/fluent.php:135
+#: modules/general/widgets/general.php:1369 modules/mount/widgets/mount.php:292
+#: modules/pagepiling/widgets/pagepiling.php:219
+#: modules/woocommerce/widgets/woocommerce.php:140
+#: modules/wooexpand/widgets/wooexpand.php:151
+#: modules/woostand/widgets/woostand.php:123
+msgctxt "bdthemes-prime-slider"
+msgid "Bottom Left"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:145 modules/dragon/widgets/dragon.php:319
+#: modules/event-calendar/widgets/event-calendar.php:221
+#: modules/flexure/widgets/flexure.php:188
+#: modules/flogia/widgets/flogia.php:129 modules/fluent/widgets/fluent.php:136
+#: modules/general/widgets/general.php:1370 modules/mount/widgets/mount.php:293
+#: modules/pagepiling/widgets/pagepiling.php:220
+#: modules/woocommerce/widgets/woocommerce.php:141
+#: modules/wooexpand/widgets/wooexpand.php:152
+#: modules/woostand/widgets/woostand.php:124
+msgctxt "bdthemes-prime-slider"
+msgid "Bottom Right"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:160 modules/dragon/widgets/dragon.php:334
+#: modules/event-calendar/widgets/event-calendar.php:236
+#: modules/flexure/widgets/flexure.php:203
+#: modules/flogia/widgets/flogia.php:144 modules/fluent/widgets/fluent.php:151
+#: modules/general/widgets/general.php:1385 modules/mount/widgets/mount.php:308
+#: modules/pagepiling/widgets/pagepiling.php:235
+#: modules/woocommerce/widgets/woocommerce.php:156
+#: modules/wooexpand/widgets/wooexpand.php:167
+#: modules/woostand/widgets/woostand.php:139
+msgctxt "bdthemes-prime-slider"
+msgid "Attachment"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:165 modules/dragon/widgets/dragon.php:339
+#: modules/event-calendar/widgets/event-calendar.php:241
+#: modules/flexure/widgets/flexure.php:208
+#: modules/flogia/widgets/flogia.php:149 modules/fluent/widgets/fluent.php:156
+#: modules/general/widgets/general.php:1390 modules/mount/widgets/mount.php:313
+#: modules/pagepiling/widgets/pagepiling.php:240
+#: modules/woocommerce/widgets/woocommerce.php:161
+#: modules/wooexpand/widgets/wooexpand.php:172
+#: modules/woostand/widgets/woostand.php:144
+msgctxt "bdthemes-prime-slider"
+msgid "Scroll"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:166 modules/dragon/widgets/dragon.php:340
+#: modules/event-calendar/widgets/event-calendar.php:242
+#: modules/flexure/widgets/flexure.php:209
+#: modules/flogia/widgets/flogia.php:150 modules/fluent/widgets/fluent.php:157
+#: modules/general/widgets/general.php:1391 modules/mount/widgets/mount.php:314
+#: modules/pagepiling/widgets/pagepiling.php:241
+#: modules/woocommerce/widgets/woocommerce.php:162
+#: modules/wooexpand/widgets/wooexpand.php:173
+#: modules/woostand/widgets/woostand.php:145
+msgctxt "bdthemes-prime-slider"
+msgid "Fixed"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:181 modules/blog/widgets/blog.php:187
+#: modules/dragon/widgets/dragon.php:355 modules/dragon/widgets/dragon.php:361
+#: modules/event-calendar/widgets/event-calendar.php:257
+#: modules/event-calendar/widgets/event-calendar.php:263
+#: modules/flexure/widgets/flexure.php:224
+#: modules/flexure/widgets/flexure.php:230
+#: modules/flogia/widgets/flogia.php:165 modules/flogia/widgets/flogia.php:171
+#: modules/fluent/widgets/fluent.php:172 modules/fluent/widgets/fluent.php:178
+#: modules/general/widgets/general.php:1406
+#: modules/general/widgets/general.php:1412 modules/mount/widgets/mount.php:329
+#: modules/mount/widgets/mount.php:335
+#: modules/pagepiling/widgets/pagepiling.php:256
+#: modules/pagepiling/widgets/pagepiling.php:262
+#: modules/woocommerce/widgets/woocommerce.php:177
+#: modules/woocommerce/widgets/woocommerce.php:183
+#: modules/wooexpand/widgets/wooexpand.php:188
+#: modules/wooexpand/widgets/wooexpand.php:194
+#: modules/woostand/widgets/woostand.php:160
+#: modules/woostand/widgets/woostand.php:166
+msgctxt "bdthemes-prime-slider"
+msgid "Repeat"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:186 modules/dragon/widgets/dragon.php:360
+#: modules/event-calendar/widgets/event-calendar.php:262
+#: modules/flexure/widgets/flexure.php:229
+#: modules/flogia/widgets/flogia.php:170 modules/fluent/widgets/fluent.php:177
+#: modules/general/widgets/general.php:1411 modules/mount/widgets/mount.php:334
+#: modules/pagepiling/widgets/pagepiling.php:261
+#: modules/woocommerce/widgets/woocommerce.php:182
+#: modules/wooexpand/widgets/wooexpand.php:193
+#: modules/woostand/widgets/woostand.php:165
+msgctxt "bdthemes-prime-slider"
+msgid "No-repeat"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:188 modules/dragon/widgets/dragon.php:362
+#: modules/event-calendar/widgets/event-calendar.php:264
+#: modules/flexure/widgets/flexure.php:231
+#: modules/flogia/widgets/flogia.php:172 modules/fluent/widgets/fluent.php:179
+#: modules/general/widgets/general.php:1413 modules/mount/widgets/mount.php:336
+#: modules/pagepiling/widgets/pagepiling.php:263
+#: modules/woocommerce/widgets/woocommerce.php:184
+#: modules/wooexpand/widgets/wooexpand.php:195
+#: modules/woostand/widgets/woostand.php:167
+msgctxt "bdthemes-prime-slider"
+msgid "Repeat-x"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:189 modules/dragon/widgets/dragon.php:363
+#: modules/event-calendar/widgets/event-calendar.php:265
+#: modules/flexure/widgets/flexure.php:232
+#: modules/flogia/widgets/flogia.php:173 modules/fluent/widgets/fluent.php:180
+#: modules/general/widgets/general.php:1414 modules/mount/widgets/mount.php:337
+#: modules/pagepiling/widgets/pagepiling.php:264
+#: modules/woocommerce/widgets/woocommerce.php:185
+#: modules/wooexpand/widgets/wooexpand.php:196
+#: modules/woostand/widgets/woostand.php:168
+msgctxt "bdthemes-prime-slider"
+msgid "Repeat-y"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:204 modules/dragon/widgets/dragon.php:378
+#: modules/event-calendar/widgets/event-calendar.php:280
+#: modules/flexure/widgets/flexure.php:247
+#: modules/flogia/widgets/flogia.php:188 modules/fluent/widgets/fluent.php:195
+#: modules/general/widgets/general.php:1429 modules/mount/widgets/mount.php:352
+#: modules/pagepiling/widgets/pagepiling.php:279
+#: modules/woocommerce/widgets/woocommerce.php:200
+#: modules/wooexpand/widgets/wooexpand.php:211
+#: modules/woostand/widgets/woostand.php:183
+msgctxt "bdthemes-prime-slider"
+msgid "Size"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:209 modules/dragon/widgets/dragon.php:383
+#: modules/event-calendar/widgets/event-calendar.php:285
+#: modules/flexure/widgets/flexure.php:252
+#: modules/flogia/widgets/flogia.php:193 modules/fluent/widgets/fluent.php:200
+#: modules/general/widgets/general.php:1434 modules/mount/widgets/mount.php:357
+#: modules/pagepiling/widgets/pagepiling.php:284
+#: modules/woocommerce/widgets/woocommerce.php:205
+#: modules/wooexpand/widgets/wooexpand.php:216
+#: modules/woostand/widgets/woostand.php:188
+msgctxt "bdthemes-prime-slider"
+msgid "Auto"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:210 modules/dragon/widgets/dragon.php:384
+#: modules/event-calendar/widgets/event-calendar.php:286
+#: modules/flexure/widgets/flexure.php:253
+#: modules/flogia/widgets/flogia.php:194 modules/fluent/widgets/fluent.php:201
+#: modules/general/widgets/general.php:1435 modules/mount/widgets/mount.php:358
+#: modules/pagepiling/widgets/pagepiling.php:285
+#: modules/woocommerce/widgets/woocommerce.php:206
+#: modules/wooexpand/widgets/wooexpand.php:217
+#: modules/woostand/widgets/woostand.php:189
+msgctxt "bdthemes-prime-slider"
+msgid "Cover"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:211 modules/dragon/widgets/dragon.php:385
+#: modules/event-calendar/widgets/event-calendar.php:287
+#: modules/flexure/widgets/flexure.php:254
+#: modules/flogia/widgets/flogia.php:195 modules/fluent/widgets/fluent.php:202
+#: modules/general/widgets/general.php:1436 modules/mount/widgets/mount.php:359
+#: modules/pagepiling/widgets/pagepiling.php:286
+#: modules/woocommerce/widgets/woocommerce.php:207
+#: modules/wooexpand/widgets/wooexpand.php:218
+#: modules/woostand/widgets/woostand.php:190
+msgctxt "bdthemes-prime-slider"
+msgid "Contain"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:228 modules/general/widgets/general.php:149
+#: modules/isolate/widgets/isolate.php:101
+msgid "Show Logo"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:238 modules/general/widgets/general.php:158
+#: modules/isolate/widgets/isolate.php:110
+msgid "Show Menu"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:247 modules/general/widgets/general.php:167
+#: modules/isolate/widgets/isolate.php:119
+msgid "Show Offcanvas"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:256 modules/dragon/widgets/dragon.php:85
+#: modules/event-calendar/widgets/event-calendar.php:112
+#: modules/fiestar/widgets/fiestar.php:188
+#: modules/flexure/widgets/flexure.php:330
+#: modules/flogia/widgets/flogia.php:212 modules/fluent/widgets/fluent.php:219
+#: modules/general/widgets/general.php:204
+#: modules/isolate/widgets/isolate.php:128 modules/knily/widgets/knily.php:184
+#: modules/marble/widgets/marble.php:162
+#: modules/mercury/widgets/mercury.php:190
+#: modules/monster/widgets/monster.php:117 modules/mount/widgets/mount.php:88
+#: modules/multiscroll/widgets/multiscroll.php:428
+#: modules/pagepiling/widgets/pagepiling.php:313
+#: modules/sequester/widgets/sequester.php:86
+#: modules/storker/widgets/storker.php:189
+#: modules/woocommerce/widgets/woocommerce.php:224
+#: modules/wooexpand/widgets/wooexpand.php:235
+#: modules/woolamp/widgets/woolamp.php:129
+#: modules/woostand/widgets/woostand.php:207
+msgid "Show Title"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:266 modules/flogia/widgets/flogia.php:222
+#: modules/fluent/widgets/fluent.php:242 modules/knily/widgets/knily.php:207
+#: modules/mercury/widgets/mercury.php:213
+#: modules/storker/widgets/storker.php:212
+msgid "Show Text"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:275 modules/flogia/widgets/flogia.php:231
+#: modules/fluent/widgets/fluent.php:250 modules/knily/widgets/knily.php:217
+#: modules/mercury/widgets/mercury.php:223
+#: modules/storker/widgets/storker.php:222
+msgid "Text Limit"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:276 modules/flogia/widgets/flogia.php:232
+#: modules/fluent/widgets/fluent.php:251 modules/knily/widgets/knily.php:218
+#: modules/mercury/widgets/mercury.php:224
+#: modules/storker/widgets/storker.php:223
+msgid ""
+"It's just work for main content, but not working with excerpt. If you set 0 "
+"so you will get full main content."
+msgstr ""
+
+#: modules/blog/widgets/blog.php:288 modules/flogia/widgets/flogia.php:244
+#: modules/fluent/widgets/fluent.php:263 modules/knily/widgets/knily.php:230
+#: modules/mercury/widgets/mercury.php:236
+#: modules/storker/widgets/storker.php:235
+msgid "Strip Shortcode"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:300 modules/dragon/widgets/dragon.php:103
+#: modules/general/widgets/general.php:226
+#: modules/isolate/widgets/isolate.php:146 modules/knily/widgets/knily.php:317
+#: modules/multiscroll/widgets/multiscroll.php:446
+#: modules/pagepiling/widgets/pagepiling.php:331
+#: modules/sequester/widgets/sequester.php:104
+#: modules/storker/widgets/storker.php:322
+msgid "Show Button"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:312 modules/blog/widgets/blog.php:939
+#: modules/blog/widgets/blog.php:1503 modules/dragon/widgets/dragon.php:207
+#: modules/general/widgets/general.php:710
+#: modules/general/widgets/general.php:1193
+#: modules/general/widgets/general.php:1577
+#: modules/isolate/widgets/isolate.php:712
+#: modules/isolate/widgets/isolate.php:1169
+#: modules/isolate/widgets/isolate.php:1457 modules/knily/widgets/knily.php:327
+#: modules/multiscroll/widgets/multiscroll.php:119
+#: modules/pagepiling/widgets/pagepiling.php:104
+#: modules/sequester/widgets/sequester.php:234
+#: modules/storker/widgets/storker.php:332
+#: modules/woocommerce/widgets/woocommerce.php:566
+msgid "Button Text"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:314 modules/blog/widgets/blog.php:315
+msgid "Read More"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:326 modules/custom/widgets/custom.php:104
+#: modules/dragon/widgets/dragon.php:121 modules/fluent/widgets/fluent.php:302
+#: modules/general/widgets/general.php:264
+#: modules/isolate/widgets/isolate.php:176
+msgid "Show Social Icon"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:338 modules/fluent/widgets/fluent.php:329
+#: modules/general/widgets/general.php:276
+#: modules/isolate/widgets/isolate.php:188
+#: modules/woocommerce/widgets/woocommerce.php:279
+msgid "Show Scroll Button"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:350 modules/fiestar/widgets/fiestar.php:211
+#: modules/flogia/widgets/flogia.php:256 modules/fluent/widgets/fluent.php:275
+#: modules/knily/widgets/knily.php:242 modules/marble/widgets/marble.php:185
+#: modules/mercury/widgets/mercury.php:248
+#: modules/storker/widgets/storker.php:247
+#: modules/woocommerce/widgets/woocommerce.php:234
+#: modules/woolamp/widgets/woolamp.php:152
+#: modules/woostand/widgets/woostand.php:217
+msgid "Show Category"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:366
+msgid "Show Meta"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:375 modules/blog/widgets/blog.php:388
+#: modules/knily/widgets/knily.php:252 modules/mercury/widgets/mercury.php:258
+#: modules/storker/widgets/storker.php:257
+msgid "Show Author"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:401
+#: modules/event-calendar/widgets/event-calendar.php:122
+#: modules/fluent/widgets/fluent.php:293
+msgid "Show Date"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:413
+msgid "Show Comments"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:432
+msgid "Show Featured Post"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:444 modules/custom/widgets/custom.php:86
+#: modules/flexure/widgets/flexure.php:366
+#: modules/general/widgets/general.php:285
+#: modules/isolate/widgets/isolate.php:200
+#: modules/monster/widgets/monster.php:144 modules/mount/widgets/mount.php:115
+#: modules/sequester/widgets/sequester.php:131
+#: modules/woocommerce/widgets/woocommerce.php:288
+#: modules/woostand/widgets/woostand.php:253
+msgid "Show Arrows"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:456 modules/custom/widgets/custom.php:95
+#: modules/dragon/widgets/dragon.php:130
+#: modules/general/widgets/general.php:294
+#: modules/isolate/widgets/isolate.php:209 modules/mount/widgets/mount.php:124
+#: modules/sequester/widgets/sequester.php:140
+#: modules/woocommerce/widgets/woocommerce.php:297
+#: modules/woolamp/widgets/woolamp.php:188
+#: modules/woostand/widgets/woostand.php:244
+msgid "Show Dots"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:468 modules/dragon/widgets/dragon.php:139
+#: modules/fiestar/widgets/fiestar.php:198
+#: modules/flexure/widgets/flexure.php:384
+#: modules/flexure/widgets/flexure.php:428
+#: modules/flogia/widgets/flogia.php:304 modules/fluent/widgets/fluent.php:229
+#: modules/general/widgets/general.php:213
+#: modules/isolate/widgets/isolate.php:218 modules/knily/widgets/knily.php:194
+#: modules/marble/widgets/marble.php:172
+#: modules/mercury/widgets/mercury.php:200
+#: modules/monster/widgets/monster.php:187 modules/mount/widgets/mount.php:133
+#: modules/multiscroll/widgets/multiscroll.php:480
+#: modules/pagepiling/widgets/pagepiling.php:367
+#: modules/sequester/widgets/sequester.php:149
+#: modules/storker/widgets/storker.php:199
+#: modules/woocommerce/widgets/woocommerce.php:306
+#: modules/wooexpand/widgets/wooexpand.php:245
+#: modules/woolamp/widgets/woolamp.php:139
+#: modules/woostand/widgets/woostand.php:271
+msgid "Title HTML Tag"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:481
+#: modules/event-calendar/widgets/event-calendar.php:87
+#: modules/fiestar/widgets/fiestar.php:154
+#: modules/flogia/widgets/flogia.php:317 modules/flogia/widgets/flogia.php:934
+#: modules/fluent/widgets/fluent.php:338
+#: modules/general/widgets/general.php:117
+#: modules/isolate/widgets/isolate.php:231 modules/knily/widgets/knily.php:120
+#: modules/knily/widgets/knily.php:1784 modules/marble/widgets/marble.php:128
+#: modules/mercury/widgets/mercury.php:126
+#: modules/monster/widgets/monster.php:200 modules/mount/widgets/mount.php:146
+#: modules/multiscroll/widgets/multiscroll.php:382
+#: modules/pagepiling/widgets/pagepiling.php:427
+#: modules/sequester/widgets/sequester.php:162
+#: modules/storker/widgets/storker.php:117
+#: modules/storker/widgets/storker.php:1690
+#: modules/woocommerce/widgets/woocommerce.php:319
+#: modules/wooexpand/widgets/wooexpand.php:85
+#: modules/woolamp/widgets/woolamp.php:93
+#: modules/woostand/widgets/woostand.php:284
+msgid "Alignment"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:485 modules/blog/widgets/blog.php:513
+#: modules/blog/widgets/blog.php:737 modules/blog/widgets/blog.php:760
+#: modules/custom/widgets/custom.php:1046
+#: modules/event-calendar/widgets/event-calendar.php:91
+#: modules/fiestar/widgets/fiestar.php:158
+#: modules/flogia/widgets/flogia.php:321 modules/flogia/widgets/flogia.php:346
+#: modules/flogia/widgets/flogia.php:938 modules/fluent/widgets/fluent.php:342
+#: modules/fluent/widgets/fluent.php:367
+#: modules/general/widgets/general.php:121
+#: modules/general/widgets/general.php:503
+#: modules/general/widgets/general.php:526
+#: modules/general/widgets/general.php:725
+#: modules/isolate/widgets/isolate.php:235
+#: modules/isolate/widgets/isolate.php:259
+#: modules/isolate/widgets/isolate.php:506
+#: modules/isolate/widgets/isolate.php:529 modules/knily/widgets/knily.php:124
+#: modules/marble/widgets/marble.php:132
+#: modules/mercury/widgets/mercury.php:130
+#: modules/monster/widgets/monster.php:204 modules/mount/widgets/mount.php:150
+#: modules/multiscroll/widgets/multiscroll.php:386
+#: modules/multiscroll/widgets/multiscroll.php:460
+#: modules/multiscroll/widgets/multiscroll.php:535
+#: modules/pagepiling/widgets/pagepiling.php:431
+#: modules/pagepiling/widgets/pagepiling.php:552
+#: modules/sequester/widgets/sequester.php:166
+#: modules/storker/widgets/storker.php:121
+#: modules/woocommerce/widgets/woocommerce.php:323
+#: modules/wooexpand/widgets/wooexpand.php:89
+#: modules/woolamp/widgets/woolamp.php:97
+#: modules/woostand/widgets/woostand.php:288
+#: modules/woostand/widgets/woostand.php:312
+msgid "Left"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:493 modules/blog/widgets/blog.php:521
+#: modules/blog/widgets/blog.php:745 modules/blog/widgets/blog.php:768
+#: modules/custom/widgets/custom.php:1047
+#: modules/event-calendar/widgets/event-calendar.php:99
+#: modules/fiestar/widgets/fiestar.php:166
+#: modules/flogia/widgets/flogia.php:329 modules/flogia/widgets/flogia.php:354
+#: modules/flogia/widgets/flogia.php:946 modules/fluent/widgets/fluent.php:350
+#: modules/fluent/widgets/fluent.php:375
+#: modules/general/widgets/general.php:129
+#: modules/general/widgets/general.php:511
+#: modules/general/widgets/general.php:534
+#: modules/general/widgets/general.php:730
+#: modules/isolate/widgets/isolate.php:243
+#: modules/isolate/widgets/isolate.php:263
+#: modules/isolate/widgets/isolate.php:514
+#: modules/isolate/widgets/isolate.php:537 modules/knily/widgets/knily.php:132
+#: modules/marble/widgets/marble.php:140
+#: modules/mercury/widgets/mercury.php:138
+#: modules/monster/widgets/monster.php:212 modules/mount/widgets/mount.php:158
+#: modules/multiscroll/widgets/multiscroll.php:394
+#: modules/multiscroll/widgets/multiscroll.php:459
+#: modules/multiscroll/widgets/multiscroll.php:534
+#: modules/pagepiling/widgets/pagepiling.php:439
+#: modules/sequester/widgets/sequester.php:174
+#: modules/storker/widgets/storker.php:129
+#: modules/woocommerce/widgets/woocommerce.php:331
+#: modules/wooexpand/widgets/wooexpand.php:97
+#: modules/woolamp/widgets/woolamp.php:105
+#: modules/woostand/widgets/woostand.php:296
+#: modules/woostand/widgets/woostand.php:316
+msgid "Right"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:509 modules/flogia/widgets/flogia.php:342
+#: modules/fluent/widgets/fluent.php:363
+msgid "Meta Alignment"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:540 modules/blog/widgets/blog.php:1647
+#: modules/general/widgets/general.php:305
+#: modules/general/widgets/general.php:1917
+#: modules/isolate/widgets/isolate.php:304
+#: modules/isolate/widgets/isolate.php:1602
+msgid "Header"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:569 modules/blog/widgets/blog.php:1689
+#: modules/general/widgets/general.php:335
+#: modules/general/widgets/general.php:1974
+#: modules/isolate/widgets/isolate.php:334
+#: modules/isolate/widgets/isolate.php:1644
+msgid "Logo"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:579 modules/general/widgets/general.php:345
+#: modules/isolate/widgets/isolate.php:344
+msgid "Select Logo Type"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:583 modules/blog/widgets/blog.php:3351
+#: modules/blog/widgets/blog.php:3485 modules/fluent/widgets/fluent.php:827
+#: modules/general/widgets/general.php:349
+#: modules/isolate/widgets/isolate.php:348 modules/knily/widgets/knily.php:616
+#: modules/mercury/widgets/mercury.php:534
+#: modules/storker/widgets/storker.php:557
+#: modules/wooexpand/widgets/wooexpand.php:678
+msgid "Text"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:588 modules/dragon/widgets/dragon.php:242
+#: modules/general/widgets/general.php:354
+#: modules/general/widgets/general.php:1237
+#: modules/general/widgets/general.php:1270
+#: modules/isolate/widgets/isolate.php:353
+#: modules/isolate/widgets/isolate.php:1204
+#: modules/monster/widgets/monster.php:270
+#: modules/monster/widgets/monster.php:804 modules/mount/widgets/mount.php:216
+#: modules/multiscroll/widgets/multiscroll.php:144
+#: modules/multiscroll/widgets/multiscroll.php:165
+#: modules/multiscroll/widgets/multiscroll.php:189
+#: modules/multiscroll/widgets/multiscroll.php:213
+#: modules/multiscroll/widgets/multiscroll.php:237
+#: modules/sequester/widgets/sequester.php:269
+msgid "Image"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:603 modules/general/widgets/general.php:369
+#: modules/isolate/widgets/isolate.php:368
+msgid "Logo Text"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:608 modules/general/widgets/general.php:374
+#: modules/isolate/widgets/isolate.php:373
+msgid "Brand"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:609 modules/general/widgets/general.php:375
+#: modules/isolate/widgets/isolate.php:374
+msgid "Your Brand Name"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:620 modules/general/widgets/general.php:386
+#: modules/isolate/widgets/isolate.php:385
+msgid "Choose Image"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:652 modules/general/widgets/general.php:418
+#: modules/isolate/widgets/isolate.php:417
+msgid "Logo Image Width"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:677 modules/general/widgets/general.php:439
+#: modules/isolate/widgets/isolate.php:442
+msgid "Show Custom Link"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:689 modules/general/widgets/general.php:451
+#: modules/isolate/widgets/isolate.php:454
+msgid "URL"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:707 modules/blog/widgets/blog.php:1791
+#: modules/general/widgets/general.php:469
+#: modules/general/widgets/general.php:2076
+#: modules/isolate/widgets/isolate.php:472
+#: modules/isolate/widgets/isolate.php:1746
+msgid "Menu"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:714 modules/general/widgets/general.php:479
+#: modules/isolate/widgets/isolate.php:482
+msgid "Dynamic Menu"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:733 modules/general/widgets/general.php:499
+#: modules/isolate/widgets/isolate.php:502
+msgid "Dropdown Alignment"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:756 modules/general/widgets/general.php:522
+#: modules/isolate/widgets/isolate.php:525
+msgid "Item Alignment"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:782 modules/general/widgets/general.php:548
+#: modules/isolate/widgets/isolate.php:551
+msgid "Dropdown Padding"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:795 modules/general/widgets/general.php:561
+#: modules/isolate/widgets/isolate.php:564
+msgid "Dropdown Width"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:814 modules/general/widgets/general.php:580
+#: modules/isolate/widgets/isolate.php:583
+msgid "Delay Show"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:829 modules/general/widgets/general.php:595
+#: modules/isolate/widgets/isolate.php:598
+msgid "Delay Hide"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:845 modules/general/widgets/general.php:611
+#: modules/isolate/widgets/isolate.php:614
+msgid "Dropdown Duration"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:861 modules/general/widgets/general.php:627
+#: modules/isolate/widgets/isolate.php:630
+msgid "Dropdown Offset"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:878 modules/general/widgets/general.php:644
+#: modules/isolate/widgets/isolate.php:647
+msgid "Title & Content"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:888 modules/blog/widgets/blog.php:1406
+#: modules/custom/widgets/custom.php:228 modules/dragon/widgets/dragon.php:424
+#: modules/flexure/widgets/flexure.php:466
+#: modules/fluent/widgets/fluent.php:463
+#: modules/general/widgets/general.php:654
+#: modules/general/widgets/general.php:1477
+#: modules/isolate/widgets/isolate.php:657
+#: modules/isolate/widgets/isolate.php:1362
+#: modules/monster/widgets/monster.php:347 modules/mount/widgets/mount.php:398
+#: modules/pagepiling/widgets/pagepiling.php:488
+#: modules/sequester/widgets/sequester.php:350
+#: modules/woocommerce/widgets/woocommerce.php:490
+msgid "Link"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:901 modules/general/widgets/general.php:667
+#: modules/isolate/widgets/isolate.php:670
+msgid "Menu Items"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:906 modules/general/widgets/general.php:672
+#: modules/isolate/widgets/isolate.php:675
+msgid "About"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:910 modules/general/widgets/general.php:676
+#: modules/isolate/widgets/isolate.php:679
+msgid "Projects"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:914 modules/general/widgets/general.php:680
+#: modules/isolate/widgets/isolate.php:683
+msgid "Services"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:918 modules/general/widgets/general.php:684
+#: modules/isolate/widgets/isolate.php:687
+msgid "Contacts"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:932 modules/blog/widgets/blog.php:942
+#: modules/blog/widgets/blog.php:1019 modules/blog/widgets/blog.php:2012
+#: modules/general/widgets/general.php:700
+#: modules/general/widgets/general.php:713
+#: modules/general/widgets/general.php:813
+#: modules/general/widgets/general.php:2296
+#: modules/isolate/widgets/isolate.php:702
+#: modules/isolate/widgets/isolate.php:715
+#: modules/isolate/widgets/isolate.php:790
+#: modules/isolate/widgets/isolate.php:1968
+msgid "Offcanvas"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:949 modules/blog/widgets/blog.php:1188
+#: modules/blog/widgets/blog.php:1488 modules/fluent/widgets/fluent.php:416
+#: modules/general/widgets/general.php:745
+#: modules/general/widgets/general.php:985
+#: modules/general/widgets/general.php:1562
+#: modules/isolate/widgets/isolate.php:722
+#: modules/isolate/widgets/isolate.php:962
+#: modules/isolate/widgets/isolate.php:1442
+#: modules/woocommerce/widgets/woocommerce.php:551
+#: traits/global-widget-controls.php:57
+msgid "Offset"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:966 modules/general/widgets/general.php:762
+#: modules/isolate/widgets/isolate.php:739
+msgid "Button Icon"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:980 modules/fluent/widgets/fluent.php:1277
+#: modules/general/widgets/general.php:774
+#: modules/isolate/widgets/isolate.php:751
+msgid "Icon Position"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:984 modules/general/widgets/general.php:778
+#: modules/isolate/widgets/isolate.php:755
+#: traits/query-controls/group-query/group-control-query.php:273
+msgid "Before"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:985 modules/general/widgets/general.php:779
+#: modules/isolate/widgets/isolate.php:756
+#: traits/query-controls/group-query/group-control-query.php:286
+msgid "After"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:996 modules/blog/widgets/blog.php:2926
+#: modules/custom/widgets/custom.php:1016
+#: modules/fluent/widgets/fluent.php:1261
+#: modules/general/widgets/general.php:790
+#: modules/general/widgets/general.php:3662
+#: modules/general/widgets/general.php:3681
+#: modules/isolate/widgets/isolate.php:767
+#: modules/isolate/widgets/isolate.php:3317
+#: modules/pagepiling/widgets/pagepiling.php:892
+#: modules/pagepiling/widgets/pagepiling.php:1015
+#: modules/woocommerce/widgets/woocommerce.php:1439
+msgid "Icon Spacing"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:1024
+#: modules/event-calendar/widgets/event-calendar.php:161
+#: modules/general/widgets/general.php:818
+#: modules/isolate/widgets/isolate.php:795
+msgid "Custom Link"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:1032 modules/general/widgets/general.php:826
+#: modules/isolate/widgets/isolate.php:803
+msgid "Offcanvas Selector"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:1033 modules/general/widgets/general.php:827
+#: modules/isolate/widgets/isolate.php:804
+msgid ""
+"Set your offcanvas selector here. For example: <b>.custom-link</b> or "
+"<b>#customLink</b>. Set this selector where you want to link this offcanvas."
+msgstr ""
+
+#: modules/blog/widgets/blog.php:1035 modules/general/widgets/general.php:829
+#: modules/isolate/widgets/isolate.php:806
+msgid "#bdt-custom-offcanvas"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:1045 modules/general/widgets/general.php:839
+#: modules/isolate/widgets/isolate.php:816
+msgid "Select Source"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:1049 modules/general/widgets/general.php:843
+#: modules/isolate/widgets/isolate.php:820
+msgid "Sidebar"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:1050 modules/general/widgets/general.php:844
+#: modules/isolate/widgets/isolate.php:821
+msgid "Elementor Template"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:1058 modules/general/widgets/general.php:852
+#: modules/isolate/widgets/isolate.php:829
+msgid "Choose Template"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:1070 modules/general/widgets/general.php:864
+#: modules/isolate/widgets/isolate.php:841
+msgid "Choose Sidebar"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:1082 modules/flexure/widgets/flexure.php:588
+#: modules/general/widgets/general.php:876
+#: modules/isolate/widgets/isolate.php:853 modules/knily/widgets/knily.php:1258
+#: modules/pagepiling/widgets/pagepiling.php:1235
+msgid "Width"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:1107 modules/blog/widgets/blog.php:1304
+#: modules/blog/widgets/blog.php:1314 modules/general/widgets/general.php:901
+#: modules/general/widgets/general.php:1103
+#: modules/general/widgets/general.php:1113
+#: modules/isolate/widgets/isolate.php:878
+#: modules/isolate/widgets/isolate.php:1080
+#: modules/isolate/widgets/isolate.php:1090
+msgid "Custom Content Before"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:1115 modules/blog/widgets/blog.php:1326
+#: modules/blog/widgets/blog.php:1336 modules/general/widgets/general.php:909
+#: modules/general/widgets/general.php:1126
+#: modules/general/widgets/general.php:1137
+#: modules/isolate/widgets/isolate.php:886
+#: modules/isolate/widgets/isolate.php:1103
+#: modules/isolate/widgets/isolate.php:1114
+msgid "Custom Content After"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:1131 modules/general/widgets/general.php:925
+#: modules/isolate/widgets/isolate.php:902
+msgid "Animations"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:1135 modules/custom/widgets/custom.php:639
+#: modules/general/skins/skin-slide.php:16
+#: modules/general/widgets/general.php:929
+#: modules/general/widgets/general.php:1666
+#: modules/isolate/widgets/isolate.php:906
+#: modules/mercury/widgets/mercury.php:337
+#: modules/monster/widgets/monster.php:540
+msgid "Slide"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:1136 modules/custom/widgets/custom.php:642
+#: modules/general/widgets/general.php:930
+#: modules/general/widgets/general.php:1669
+#: modules/isolate/widgets/isolate.php:907
+msgid "Push"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:1137 modules/general/widgets/general.php:931
+#: modules/isolate/widgets/isolate.php:908
+msgid "Reveal"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:1146 modules/general/widgets/general.php:940
+#: modules/isolate/widgets/isolate.php:917
+msgid "Flip"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:1154 modules/general/widgets/general.php:948
+#: modules/isolate/widgets/isolate.php:925
+msgid "Close Button"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:1167 modules/general/widgets/general.php:963
+#: modules/isolate/widgets/isolate.php:940
+msgid "Enable Sticky"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:1170 modules/general/widgets/general.php:966
+#: modules/isolate/widgets/isolate.php:943
+msgid "Set sticky options by enable this option."
+msgstr ""
+
+#: modules/blog/widgets/blog.php:1180 modules/general/widgets/general.php:977
+#: modules/isolate/widgets/isolate.php:954
+msgid "Sticky"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:1202 modules/general/widgets/general.php:999
+#: modules/isolate/widgets/isolate.php:976
+msgid "Active Background Color"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:1216 modules/general/widgets/general.php:1013
+#: modules/isolate/widgets/isolate.php:990
+msgid "Active Padding"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:1231 modules/general/widgets/general.php:1028
+#: modules/isolate/widgets/isolate.php:1005
+msgid "Active Box Shadow"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:1243 modules/blog/widgets/blog.php:1526
+#: modules/dragon/widgets/dragon.php:457 modules/flogia/widgets/flogia.php:406
+#: modules/fluent/widgets/fluent.php:557
+#: modules/general/widgets/general.php:1040
+#: modules/general/widgets/general.php:1601
+#: modules/isolate/widgets/isolate.php:1017
+#: modules/isolate/widgets/isolate.php:1481
+#: modules/isolate/widgets/isolate.php:3030 modules/mount/widgets/mount.php:432
+#: modules/sequester/widgets/sequester.php:384
+#: modules/woocommerce/widgets/woocommerce.php:590
+#: modules/woolamp/widgets/woolamp.php:394
+#: modules/woostand/widgets/woostand.php:455
+msgid "Animation"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:1255 modules/general/widgets/general.php:1052
+#: modules/isolate/widgets/isolate.php:1029
+msgid "Scroll Until"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:1256 modules/general/widgets/general.php:1053
+#: modules/isolate/widgets/isolate.php:1030
+msgid ""
+"If you don't want to scroll after specific section so set that section ID/"
+"CLASS here. for example: #section1 or .section1 it's support ID/CLASS"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:1267 modules/general/widgets/general.php:1064
+#: modules/isolate/widgets/isolate.php:1041
+msgid "Sticky on Scroll Up"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:1270 modules/general/widgets/general.php:1067
+#: modules/isolate/widgets/isolate.php:1044
+msgid "Set sticky options when you scroll up your mouse."
+msgstr ""
+
+#: modules/blog/widgets/blog.php:1280 modules/general/widgets/general.php:1078
+#: modules/isolate/widgets/isolate.php:1055
+msgid "Turn Off"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:1284 modules/general/widgets/general.php:1082
+#: modules/isolate/widgets/isolate.php:1059
+msgid "On Tablet"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:1288 modules/general/widgets/general.php:1086
+#: modules/isolate/widgets/isolate.php:1063
+msgid "On Mobile"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:1317 modules/general/widgets/general.php:1116
+#: modules/isolate/widgets/isolate.php:1093
+msgid "This is your custom content for before of your offcanvas."
+msgstr ""
+
+#: modules/blog/widgets/blog.php:1339 modules/general/widgets/general.php:1140
+#: modules/isolate/widgets/isolate.php:1117
+msgid "This is your custom content for after of your offcanvas."
+msgstr ""
+
+#: modules/blog/widgets/blog.php:1349
+#: modules/event-calendar/widgets/event-calendar.php:432
+#: modules/fiestar/widgets/fiestar.php:224
+#: modules/flogia/widgets/flogia.php:371 modules/fluent/widgets/fluent.php:513
+#: modules/knily/widgets/knily.php:157 modules/marble/widgets/marble.php:207
+#: modules/mercury/widgets/mercury.php:163
+#: modules/storker/widgets/storker.php:154
+#: modules/woocommerce/widgets/woocommerce.php:346
+#: modules/wooexpand/widgets/wooexpand.php:367
+#: modules/woolamp/widgets/woolamp.php:271
+#: modules/woostand/widgets/woostand.php:331
+msgid "Query"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:1370 modules/flogia/widgets/flogia.php:384
+#: modules/fluent/widgets/fluent.php:534
+msgid "Query (deprecated)"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:1385 modules/blog/widgets/blog.php:2825
+#: modules/custom/widgets/custom.php:207 modules/custom/widgets/custom.php:871
+#: modules/dragon/widgets/dragon.php:934 modules/fluent/widgets/fluent.php:443
+#: modules/fluent/widgets/fluent.php:1151
+#: modules/general/widgets/general.php:1455
+#: modules/general/widgets/general.php:3547
+#: modules/isolate/widgets/isolate.php:1341
+#: modules/isolate/widgets/isolate.php:3187
+msgid "Social Icon"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:1398 modules/blog/widgets/blog.php:2484
+#: modules/blog/widgets/blog.php:3445 modules/custom/widgets/custom.php:219
+#: modules/dragon/widgets/dragon.php:183 modules/dragon/widgets/dragon.php:416
+#: modules/dragon/widgets/dragon.php:570
+#: modules/event-calendar/widgets/event-calendar.php:537
+#: modules/event-calendar/widgets/event-calendar.php:773
+#: modules/fiestar/widgets/fiestar.php:418
+#: modules/flexure/widgets/flexure.php:63
+#: modules/flexure/widgets/flexure.php:458
+#: modules/flexure/widgets/flexure.php:501
+#: modules/flogia/widgets/flogia.php:554 modules/fluent/widgets/fluent.php:455
+#: modules/fluent/widgets/fluent.php:704 modules/fluent/widgets/fluent.php:1101
+#: modules/general/widgets/general.php:1169
+#: modules/general/widgets/general.php:1468
+#: modules/general/widgets/general.php:1707
+#: modules/general/widgets/general.php:2790
+#: modules/isolate/widgets/isolate.php:1145
+#: modules/isolate/widgets/isolate.php:1354
+#: modules/isolate/widgets/isolate.php:2532 modules/knily/widgets/knily.php:545
+#: modules/marble/widgets/marble.php:399
+#: modules/mercury/widgets/mercury.php:463
+#: modules/monster/widgets/monster.php:246
+#: modules/monster/widgets/monster.php:339
+#: modules/monster/widgets/monster.php:915 modules/mount/widgets/mount.php:192
+#: modules/mount/widgets/mount.php:390 modules/mount/widgets/mount.php:559
+#: modules/multiscroll/widgets/multiscroll.php:83
+#: modules/multiscroll/widgets/multiscroll.php:640
+#: modules/pagepiling/widgets/pagepiling.php:79
+#: modules/pagepiling/widgets/pagepiling.php:480
+#: modules/pagepiling/widgets/pagepiling.php:623
+#: modules/sequester/widgets/sequester.php:209
+#: modules/sequester/widgets/sequester.php:341
+#: modules/sequester/widgets/sequester.php:500
+#: modules/storker/widgets/storker.php:486
+#: modules/woocommerce/widgets/woocommerce.php:481
+#: modules/woocommerce/widgets/woocommerce.php:717
+#: modules/wooexpand/widgets/wooexpand.php:524
+#: modules/woolamp/widgets/woolamp.php:492
+#: modules/woostand/widgets/woostand.php:591
+#: traits/global-widget-controls.php:253
+#: traits/query-controls/group-query/group-control-query.php:303
+msgid "Title"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:1414 modules/custom/widgets/custom.php:237
+#: modules/fluent/widgets/fluent.php:471
+#: modules/general/widgets/general.php:1486
+#: modules/isolate/widgets/isolate.php:1370
+msgid "Choose Icon"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:1428 modules/custom/widgets/custom.php:230
+#: modules/custom/widgets/custom.php:251 modules/dragon/widgets/dragon.php:436
+#: modules/flexure/widgets/flexure.php:468
+#: modules/flexure/widgets/flexure.php:479
+#: modules/fluent/widgets/fluent.php:483
+#: modules/general/widgets/general.php:1479
+#: modules/general/widgets/general.php:1502
+#: modules/isolate/widgets/isolate.php:1382
+#: modules/monster/widgets/monster.php:349
+#: modules/monster/widgets/monster.php:360 modules/mount/widgets/mount.php:400
+#: modules/mount/widgets/mount.php:411
+#: modules/pagepiling/widgets/pagepiling.php:490
+#: modules/pagepiling/widgets/pagepiling.php:501
+#: modules/sequester/widgets/sequester.php:352
+#: modules/sequester/widgets/sequester.php:363
+#: modules/woocommerce/widgets/woocommerce.php:492
+#: modules/woocommerce/widgets/woocommerce.php:503
+msgid "http://www.facebook.com/bdthemes/"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:1436 modules/custom/widgets/custom.php:259
+#: modules/dragon/widgets/dragon.php:440
+#: modules/flexure/widgets/flexure.php:483
+#: modules/fluent/widgets/fluent.php:488
+#: modules/general/widgets/general.php:1510
+#: modules/isolate/widgets/isolate.php:1390
+#: modules/monster/widgets/monster.php:364 modules/mount/widgets/mount.php:415
+#: modules/pagepiling/widgets/pagepiling.php:505
+#: modules/sequester/widgets/sequester.php:367
+#: modules/woocommerce/widgets/woocommerce.php:507
+msgid "http://www.twitter.com/bdthemes/"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:1444 modules/custom/widgets/custom.php:267
+#: modules/dragon/widgets/dragon.php:444
+#: modules/flexure/widgets/flexure.php:487
+#: modules/fluent/widgets/fluent.php:498
+#: modules/general/widgets/general.php:1518
+#: modules/isolate/widgets/isolate.php:1398
+#: modules/monster/widgets/monster.php:368 modules/mount/widgets/mount.php:419
+#: modules/pagepiling/widgets/pagepiling.php:509
+#: modules/sequester/widgets/sequester.php:371
+#: modules/woocommerce/widgets/woocommerce.php:511
+msgid "http://www.instagram.com/bdthemes/"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:1461 modules/blog/widgets/blog.php:1506
+#: modules/blog/widgets/blog.php:1507 modules/blog/widgets/blog.php:3027
+#: modules/fluent/widgets/fluent.php:390 modules/fluent/widgets/fluent.php:1353
+#: modules/general/widgets/general.php:1535
+#: modules/general/widgets/general.php:1580
+#: modules/general/widgets/general.php:1581
+#: modules/general/widgets/general.php:3774
+#: modules/isolate/widgets/isolate.php:1415
+#: modules/isolate/widgets/isolate.php:1460
+#: modules/isolate/widgets/isolate.php:1461
+#: modules/isolate/widgets/isolate.php:3393
+#: modules/woocommerce/widgets/woocommerce.php:525
+#: modules/woocommerce/widgets/woocommerce.php:569
+#: modules/woocommerce/widgets/woocommerce.php:570
+#: modules/woocommerce/widgets/woocommerce.php:1521
+msgid "Scroll Down"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:1472 modules/fluent/widgets/fluent.php:400
+#: modules/general/widgets/general.php:1546
+#: modules/isolate/widgets/isolate.php:1426
+#: modules/woocommerce/widgets/woocommerce.php:535
+msgid "Duration"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:1514 modules/custom/widgets/custom.php:120
+#: modules/fluent/widgets/fluent.php:431
+#: modules/general/widgets/general.php:1588
+#: modules/isolate/widgets/isolate.php:1468
+#: modules/woocommerce/widgets/woocommerce.php:577
+msgid "Section ID"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:1517 modules/fluent/widgets/fluent.php:434
+#: modules/general/widgets/general.php:1591
+#: modules/isolate/widgets/isolate.php:1471
+#: modules/woocommerce/widgets/woocommerce.php:580
+msgid ""
+"By clicking this scroll button, to which section in your page you want to "
+"go? Just write that's section ID here such 'my-header'. N.B: No need to add "
+"'#'."
+msgstr ""
+
+#: modules/blog/widgets/blog.php:1533 modules/custom/widgets/custom.php:581
+#: modules/event-calendar/widgets/event-calendar.php:696
+#: modules/fiestar/widgets/fiestar.php:326
+#: modules/flogia/widgets/flogia.php:413 modules/fluent/widgets/fluent.php:564
+#: modules/general/widgets/general.php:1608
+#: modules/isolate/widgets/isolate.php:1488 modules/knily/widgets/knily.php:449
+#: modules/marble/widgets/marble.php:309
+#: modules/mercury/widgets/mercury.php:383
+#: modules/monster/widgets/monster.php:627 modules/mount/widgets/mount.php:439
+#: modules/sequester/widgets/sequester.php:391
+#: modules/storker/widgets/storker.php:390
+#: modules/woocommerce/widgets/woocommerce.php:597
+#: modules/woolamp/widgets/woolamp.php:401
+#: modules/woostand/widgets/woostand.php:462
+msgid "Loop"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:1542 modules/custom/widgets/custom.php:590
+#: modules/dragon/widgets/dragon.php:464
+#: modules/event-calendar/widgets/event-calendar.php:649
+#: modules/fiestar/widgets/fiestar.php:251
+#: modules/flogia/widgets/flogia.php:422 modules/fluent/widgets/fluent.php:573
+#: modules/general/widgets/general.php:1617
+#: modules/isolate/widgets/isolate.php:1497 modules/knily/widgets/knily.php:411
+#: modules/marble/widgets/marble.php:234
+#: modules/mercury/widgets/mercury.php:345
+#: modules/monster/widgets/monster.php:561 modules/mount/widgets/mount.php:447
+#: modules/sequester/widgets/sequester.php:400
+#: modules/storker/widgets/storker.php:352
+#: modules/woocommerce/widgets/woocommerce.php:606
+#: modules/woolamp/widgets/woolamp.php:410
+#: modules/woostand/widgets/woostand.php:471
+msgid "Autoplay"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:1551 modules/dragon/widgets/dragon.php:473
+#: modules/flogia/widgets/flogia.php:431 modules/fluent/widgets/fluent.php:582
+#: modules/general/widgets/general.php:1626 modules/mount/widgets/mount.php:456
+#: modules/woocommerce/widgets/woocommerce.php:615
+#: modules/woolamp/widgets/woolamp.php:419
+#: modules/woostand/widgets/woostand.php:480
+msgid "Autoplay Interval (ms)"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:1563 modules/custom/widgets/custom.php:611
+#: modules/dragon/widgets/dragon.php:485
+#: modules/event-calendar/widgets/event-calendar.php:671
+#: modules/fiestar/widgets/fiestar.php:273
+#: modules/flogia/widgets/flogia.php:443 modules/fluent/widgets/fluent.php:594
+#: modules/general/widgets/general.php:1638
+#: modules/isolate/widgets/isolate.php:1518 modules/knily/widgets/knily.php:433
+#: modules/marble/widgets/marble.php:256
+#: modules/mercury/widgets/mercury.php:367
+#: modules/monster/widgets/monster.php:583 modules/mount/widgets/mount.php:468
+#: modules/sequester/widgets/sequester.php:421
+#: modules/storker/widgets/storker.php:374
+#: modules/woocommerce/widgets/woocommerce.php:627
+#: modules/woolamp/widgets/woolamp.php:431
+#: modules/woostand/widgets/woostand.php:492
+msgid "Pause on Hover"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:1571 modules/custom/widgets/custom.php:619
+#: modules/flogia/widgets/flogia.php:451 modules/fluent/widgets/fluent.php:602
+#: modules/general/widgets/general.php:1646
+#: modules/isolate/widgets/isolate.php:1526 modules/mount/widgets/mount.php:476
+#: modules/sequester/widgets/sequester.php:429
+#: modules/woocommerce/widgets/woocommerce.php:635
+#: modules/woolamp/widgets/woolamp.php:439
+#: modules/woostand/widgets/woostand.php:500
+msgid "Animation Speed"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:1586 modules/flogia/widgets/flogia.php:466
+#: modules/fluent/widgets/fluent.php:617
+#: modules/general/widgets/general.php:1856
+#: modules/isolate/widgets/isolate.php:1541
+#: modules/woostand/widgets/woostand.php:515
+msgid "Kenburns Animation"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:1595 modules/flogia/widgets/flogia.php:475
+#: modules/fluent/widgets/fluent.php:626
+#: modules/general/widgets/general.php:1865
+#: modules/isolate/widgets/isolate.php:1550
+#: modules/woostand/widgets/woostand.php:524
+msgid "Kenburn Reverse"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:1606 modules/general/widgets/general.php:1876
+#: modules/isolate/widgets/isolate.php:1561
+msgid "Show Logo Animation"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:1619 modules/general/widgets/general.php:1889
+#: modules/isolate/widgets/isolate.php:1574
+msgid "Show Menu Animation"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:1631 modules/general/widgets/general.php:1901
+#: modules/isolate/widgets/isolate.php:1586
+msgid "Show Offcanvas Animation"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:1675 modules/blog/widgets/blog.php:1823
+#: modules/blog/widgets/blog.php:1907 modules/blog/widgets/blog.php:1937
+#: modules/blog/widgets/blog.php:1990 modules/blog/widgets/blog.php:2179
+#: modules/blog/widgets/blog.php:2262 modules/blog/widgets/blog.php:2327
+#: modules/blog/widgets/blog.php:2402 modules/blog/widgets/blog.php:2446
+#: modules/blog/widgets/blog.php:2713 modules/blog/widgets/blog.php:2794
+#: modules/blog/widgets/blog.php:3128 modules/blog/widgets/blog.php:3209
+#: modules/blog/widgets/blog.php:3293 modules/blog/widgets/blog.php:3645
+#: modules/blog/widgets/blog.php:3757 modules/custom/widgets/custom.php:664
+#: modules/custom/widgets/custom.php:729 modules/custom/widgets/custom.php:840
+#: modules/custom/widgets/custom.php:1189
+#: modules/custom/widgets/custom.php:1340 modules/dragon/widgets/dragon.php:510
+#: modules/dragon/widgets/dragon.php:745 modules/dragon/widgets/dragon.php:759
+#: modules/flexure/widgets/flexure.php:985
+#: modules/flexure/widgets/flexure.php:1074
+#: modules/flogia/widgets/flogia.php:503 modules/flogia/widgets/flogia.php:752
+#: modules/fluent/widgets/fluent.php:653 modules/fluent/widgets/fluent.php:904
+#: modules/general/widgets/general.php:1227
+#: modules/general/widgets/general.php:1945
+#: modules/general/widgets/general.php:2107
+#: modules/general/widgets/general.php:2191
+#: modules/general/widgets/general.php:2221
+#: modules/general/widgets/general.php:2274
+#: modules/general/widgets/general.php:2463
+#: modules/general/widgets/general.php:2560
+#: modules/general/widgets/general.php:2625
+#: modules/general/widgets/general.php:2700
+#: modules/general/widgets/general.php:2745
+#: modules/general/widgets/general.php:2887
+#: modules/general/widgets/general.php:3893
+#: modules/general/widgets/general.php:4042
+#: modules/isolate/widgets/isolate.php:1630
+#: modules/isolate/widgets/isolate.php:1778
+#: modules/isolate/widgets/isolate.php:1862
+#: modules/isolate/widgets/isolate.php:1892
+#: modules/isolate/widgets/isolate.php:1945
+#: modules/isolate/widgets/isolate.php:2137
+#: modules/isolate/widgets/isolate.php:2220
+#: modules/isolate/widgets/isolate.php:2285
+#: modules/isolate/widgets/isolate.php:2360
+#: modules/isolate/widgets/isolate.php:2405
+#: modules/isolate/widgets/isolate.php:2474
+#: modules/isolate/widgets/isolate.php:2769
+#: modules/isolate/widgets/isolate.php:2874
+#: modules/isolate/widgets/isolate.php:2889
+#: modules/isolate/widgets/isolate.php:2971
+#: modules/isolate/widgets/isolate.php:2986
+#: modules/isolate/widgets/isolate.php:3097
+#: modules/isolate/widgets/isolate.php:3425
+#: modules/isolate/widgets/isolate.php:3509
+#: modules/isolate/widgets/isolate.php:3594
+#: modules/isolate/widgets/isolate.php:3721
+#: modules/monster/widgets/monster.php:683
+#: modules/monster/widgets/monster.php:743
+#: modules/monster/widgets/monster.php:812 modules/mount/widgets/mount.php:507
+#: modules/mount/widgets/mount.php:670
+#: modules/multiscroll/widgets/multiscroll.php:584
+#: modules/pagepiling/widgets/pagepiling.php:1114
+#: modules/sequester/widgets/sequester.php:768
+#: modules/sequester/widgets/sequester.php:846
+#: modules/sequester/widgets/sequester.php:879
+#: modules/sequester/widgets/sequester.php:923
+#: modules/sequester/widgets/sequester.php:1137
+#: modules/sequester/widgets/sequester.php:1259
+#: modules/woocommerce/widgets/woocommerce.php:667
+#: modules/woocommerce/widgets/woocommerce.php:836
+#: modules/woocommerce/widgets/woocommerce.php:1172
+#: modules/woocommerce/widgets/woocommerce.php:1299
+#: modules/woocommerce/widgets/woocommerce.php:1622
+#: modules/woocommerce/widgets/woocommerce.php:1710
+#: modules/woolamp/widgets/woolamp.php:674
+#: modules/woolamp/widgets/woolamp.php:886
+#: modules/woolamp/widgets/woolamp.php:957
+#: modules/woolamp/widgets/woolamp.php:1013
+#: modules/woostand/widgets/woostand.php:690
+#: modules/woostand/widgets/woostand.php:783
+#: modules/woostand/widgets/woostand.php:957
+#: modules/woostand/widgets/woostand.php:1030
+#: modules/woostand/widgets/woostand.php:1086
+#: modules/woostand/widgets/woostand.php:1328
+msgid "Background"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:1699 modules/general/widgets/general.php:1984
+#: modules/isolate/widgets/isolate.php:1654
+msgid "Logo Color"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:1715 modules/general/widgets/general.php:2000
+#: modules/isolate/widgets/isolate.php:1670
+msgid "Logo Hover Color"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:1743 modules/blog/widgets/blog.php:2101
+#: modules/blog/widgets/blog.php:2191 modules/blog/widgets/blog.php:2339
+#: modules/custom/widgets/custom.php:749 modules/custom/widgets/custom.php:1449
+#: modules/event-calendar/widgets/event-calendar.php:984
+#: modules/event-calendar/widgets/event-calendar.php:1211
+#: modules/flogia/widgets/flogia.php:764 modules/flogia/widgets/flogia.php:906
+#: modules/fluent/widgets/fluent.php:916
+#: modules/general/widgets/general.php:2028
+#: modules/general/widgets/general.php:2385
+#: modules/general/widgets/general.php:2489
+#: modules/general/widgets/general.php:2637
+#: modules/isolate/widgets/isolate.php:1698
+#: modules/isolate/widgets/isolate.php:2057
+#: modules/isolate/widgets/isolate.php:2149
+#: modules/isolate/widgets/isolate.php:2297
+#: modules/mercury/widgets/mercury.php:725
+#: modules/multiscroll/widgets/multiscroll.php:827
+#: modules/multiscroll/widgets/multiscroll.php:1004
+#: modules/woocommerce/widgets/woocommerce.php:848
+#: modules/woocommerce/widgets/woocommerce.php:1184
+#: modules/woolamp/widgets/woolamp.php:898
+#: modules/woostand/widgets/woostand.php:702
+#: modules/woostand/widgets/woostand.php:977
+#: modules/woostand/widgets/woostand.php:1106
+#: traits/global-widget-controls.php:49
+msgid "Border"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:1757 modules/blog/widgets/blog.php:2112
+#: modules/blog/widgets/blog.php:2201 modules/blog/widgets/blog.php:2349
+#: modules/custom/widgets/custom.php:1239
+#: modules/event-calendar/widgets/event-calendar.php:1016
+#: modules/flogia/widgets/flogia.php:772 modules/fluent/widgets/fluent.php:924
+#: modules/general/widgets/general.php:2042
+#: modules/general/widgets/general.php:2396
+#: modules/general/widgets/general.php:2499
+#: modules/general/widgets/general.php:2647
+#: modules/isolate/widgets/isolate.php:1712
+#: modules/isolate/widgets/isolate.php:2068
+#: modules/isolate/widgets/isolate.php:2159
+#: modules/isolate/widgets/isolate.php:2307
+#: modules/multiscroll/widgets/multiscroll.php:858
+#: modules/woostand/widgets/woostand.php:988
+#: modules/woostand/widgets/woostand.php:1117
+#: traits/global-widget-controls.php:91
+msgid "Radius"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:1773 modules/blog/widgets/blog.php:1854
+#: modules/blog/widgets/blog.php:2076 modules/blog/widgets/blog.php:2124
+#: modules/blog/widgets/blog.php:2213 modules/blog/widgets/blog.php:2361
+#: modules/blog/widgets/blog.php:2744 modules/blog/widgets/blog.php:2877
+#: modules/blog/widgets/blog.php:3159 modules/custom/widgets/custom.php:673
+#: modules/custom/widgets/custom.php:772 modules/custom/widgets/custom.php:923
+#: modules/custom/widgets/custom.php:1257 modules/dragon/widgets/dragon.php:556
+#: modules/event-calendar/widgets/event-calendar.php:1034
+#: modules/event-calendar/widgets/event-calendar.php:1231
+#: modules/event-calendar/widgets/event-calendar.php:1449
+#: modules/fiestar/widgets/fiestar.php:396
+#: modules/fiestar/widgets/fiestar.php:547
+#: modules/flexure/widgets/flexure.php:743
+#: modules/flexure/widgets/flexure.php:1022
+#: modules/flogia/widgets/flogia.php:784 modules/fluent/widgets/fluent.php:936
+#: modules/fluent/widgets/fluent.php:1212
+#: modules/general/widgets/general.php:2058
+#: modules/general/widgets/general.php:2138
+#: modules/general/widgets/general.php:2360
+#: modules/general/widgets/general.php:2408
+#: modules/general/widgets/general.php:2511
+#: modules/general/widgets/general.php:2659
+#: modules/general/widgets/general.php:2947
+#: modules/general/widgets/general.php:3232
+#: modules/general/widgets/general.php:3625
+#: modules/isolate/widgets/isolate.php:1728
+#: modules/isolate/widgets/isolate.php:1809
+#: modules/isolate/widgets/isolate.php:2032
+#: modules/isolate/widgets/isolate.php:2080
+#: modules/isolate/widgets/isolate.php:2171
+#: modules/isolate/widgets/isolate.php:2319
+#: modules/isolate/widgets/isolate.php:2921
+#: modules/isolate/widgets/isolate.php:3268
+#: modules/isolate/widgets/isolate.php:3465 modules/knily/widgets/knily.php:826
+#: modules/knily/widgets/knily.php:982 modules/knily/widgets/knily.php:1135
+#: modules/knily/widgets/knily.php:1320 modules/marble/widgets/marble.php:528
+#: modules/mercury/widgets/mercury.php:762
+#: modules/monster/widgets/monster.php:823
+#: modules/monster/widgets/monster.php:1016
+#: modules/monster/widgets/monster.php:1142 modules/mount/widgets/mount.php:731
+#: modules/mount/widgets/mount.php:871
+#: modules/multiscroll/widgets/multiscroll.php:626
+#: modules/multiscroll/widgets/multiscroll.php:875
+#: modules/sequester/widgets/sequester.php:807
+#: modules/sequester/widgets/sequester.php:1000
+#: modules/storker/widgets/storker.php:766
+#: modules/storker/widgets/storker.php:922
+#: modules/storker/widgets/storker.php:1097
+#: modules/storker/widgets/storker.php:1186
+#: modules/storker/widgets/storker.php:1292
+#: modules/storker/widgets/storker.php:1389
+#: modules/woocommerce/widgets/woocommerce.php:868
+#: modules/woocommerce/widgets/woocommerce.php:1206
+#: modules/woocommerce/widgets/woocommerce.php:1332
+#: modules/woocommerce/widgets/woocommerce.php:1427
+#: modules/woolamp/widgets/woolamp.php:614
+#: modules/woolamp/widgets/woolamp.php:920
+#: modules/woolamp/widgets/woolamp.php:1046
+#: modules/woolamp/widgets/woolamp.php:1141
+#: modules/woostand/widgets/woostand.php:722
+#: modules/woostand/widgets/woostand.php:1000
+#: modules/woostand/widgets/woostand.php:1129
+#: traits/global-widget-controls.php:80
+msgid "Padding"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:1801 modules/blog/widgets/blog.php:2159
+#: modules/blog/widgets/blog.php:2307 modules/blog/widgets/blog.php:2690
+#: modules/blog/widgets/blog.php:2839 modules/blog/widgets/blog.php:3041
+#: modules/blog/widgets/blog.php:3110 modules/blog/widgets/blog.php:3396
+#: modules/blog/widgets/blog.php:3622 modules/custom/widgets/custom.php:710
+#: modules/custom/widgets/custom.php:884 modules/custom/widgets/custom.php:1162
+#: modules/custom/widgets/custom.php:1384 modules/dragon/widgets/dragon.php:842
+#: modules/dragon/widgets/dragon.php:947
+#: modules/event-calendar/widgets/event-calendar.php:949
+#: modules/event-calendar/widgets/event-calendar.php:1184
+#: modules/fiestar/widgets/fiestar.php:501
+#: modules/fiestar/widgets/fiestar.php:652
+#: modules/flexure/widgets/flexure.php:707
+#: modules/flexure/widgets/flexure.php:960
+#: modules/flogia/widgets/flogia.php:970 modules/fluent/widgets/fluent.php:1173
+#: modules/fluent/widgets/fluent.php:1401
+#: modules/general/widgets/general.php:2086
+#: modules/general/widgets/general.php:2443
+#: modules/general/widgets/general.php:2605
+#: modules/general/widgets/general.php:3561
+#: modules/general/widgets/general.php:3788
+#: modules/general/widgets/general.php:3869
+#: modules/isolate/widgets/isolate.php:1756
+#: modules/isolate/widgets/isolate.php:2117
+#: modules/isolate/widgets/isolate.php:2265
+#: modules/isolate/widgets/isolate.php:2851
+#: modules/isolate/widgets/isolate.php:3079
+#: modules/isolate/widgets/isolate.php:3229
+#: modules/isolate/widgets/isolate.php:3407
+#: modules/isolate/widgets/isolate.php:3571 modules/knily/widgets/knily.php:780
+#: modules/knily/widgets/knily.php:936 modules/knily/widgets/knily.php:1089
+#: modules/knily/widgets/knily.php:1282 modules/knily/widgets/knily.php:1567
+#: modules/marble/widgets/marble.php:482 modules/marble/widgets/marble.php:635
+#: modules/marble/widgets/marble.php:731
+#: modules/mercury/widgets/mercury.php:698
+#: modules/mercury/widgets/mercury.php:867
+#: modules/monster/widgets/monster.php:676
+#: modules/monster/widgets/monster.php:1106 modules/mount/widgets/mount.php:835
+#: modules/multiscroll/widgets/multiscroll.php:800
+#: modules/multiscroll/widgets/multiscroll.php:985
+#: modules/pagepiling/widgets/pagepiling.php:830
+#: modules/pagepiling/widgets/pagepiling.php:985
+#: modules/pagepiling/widgets/pagepiling.php:1096
+#: modules/sequester/widgets/sequester.php:745
+#: modules/sequester/widgets/sequester.php:953
+#: modules/sequester/widgets/sequester.php:1115
+#: modules/storker/widgets/storker.php:720
+#: modules/storker/widgets/storker.php:876
+#: modules/storker/widgets/storker.php:1062
+#: modules/storker/widgets/storker.php:1473
+#: modules/woocommerce/widgets/woocommerce.php:817
+#: modules/woocommerce/widgets/woocommerce.php:1154
+#: modules/woocommerce/widgets/woocommerce.php:1379
+#: modules/woocommerce/widgets/woocommerce.php:1534
+#: modules/woocommerce/widgets/woocommerce.php:1599
+#: modules/woolamp/widgets/woolamp.php:572
+#: modules/woolamp/widgets/woolamp.php:868
+#: modules/woolamp/widgets/woolamp.php:1093
+#: modules/woostand/widgets/woostand.php:671
+#: modules/woostand/widgets/woostand.php:939
+#: traits/global-widget-controls.php:21
+msgid "Normal"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:1842 modules/blog/widgets/blog.php:2732
+#: modules/blog/widgets/blog.php:2889 modules/blog/widgets/blog.php:3147
+#: modules/blog/widgets/blog.php:3309 modules/blog/widgets/blog.php:3668
+#: modules/custom/widgets/custom.php:760 modules/custom/widgets/custom.php:935
+#: modules/custom/widgets/custom.php:1212
+#: modules/custom/widgets/custom.php:1457
+#: modules/event-calendar/widgets/event-calendar.php:993
+#: modules/event-calendar/widgets/event-calendar.php:1219
+#: modules/event-calendar/widgets/event-calendar.php:1461
+#: modules/fiestar/widgets/fiestar.php:384
+#: modules/fiestar/widgets/fiestar.php:535
+#: modules/fiestar/widgets/fiestar.php:686
+#: modules/flexure/widgets/flexure.php:755
+#: modules/flexure/widgets/flexure.php:1010
+#: modules/flogia/widgets/flogia.php:914 modules/fluent/widgets/fluent.php:1224
+#: modules/general/widgets/general.php:2126
+#: modules/general/widgets/general.php:2921
+#: modules/general/widgets/general.php:3220
+#: modules/general/widgets/general.php:3339
+#: modules/general/widgets/general.php:3613
+#: modules/general/widgets/general.php:3918
+#: modules/isolate/widgets/isolate.php:1797
+#: modules/isolate/widgets/isolate.php:2909
+#: modules/isolate/widgets/isolate.php:3116
+#: modules/isolate/widgets/isolate.php:3280
+#: modules/isolate/widgets/isolate.php:3450
+#: modules/isolate/widgets/isolate.php:3617 modules/knily/widgets/knily.php:814
+#: modules/knily/widgets/knily.php:970 modules/knily/widgets/knily.php:1123
+#: modules/knily/widgets/knily.php:1308 modules/knily/widgets/knily.php:1664
+#: modules/knily/widgets/knily.php:1769 modules/marble/widgets/marble.php:516
+#: modules/marble/widgets/marble.php:765
+#: modules/mercury/widgets/mercury.php:750
+#: modules/mercury/widgets/mercury.php:901
+#: modules/monster/widgets/monster.php:710
+#: modules/monster/widgets/monster.php:847
+#: modules/monster/widgets/monster.php:1028
+#: modules/monster/widgets/monster.php:1154 modules/mount/widgets/mount.php:705
+#: modules/mount/widgets/mount.php:883
+#: modules/multiscroll/widgets/multiscroll.php:614
+#: modules/multiscroll/widgets/multiscroll.php:835
+#: modules/multiscroll/widgets/multiscroll.php:1023
+#: modules/pagepiling/widgets/pagepiling.php:880
+#: modules/pagepiling/widgets/pagepiling.php:1133
+#: modules/pagepiling/widgets/pagepiling.php:1267
+#: modules/sequester/widgets/sequester.php:787
+#: modules/sequester/widgets/sequester.php:1012
+#: modules/storker/widgets/storker.php:754
+#: modules/storker/widgets/storker.php:910
+#: modules/storker/widgets/storker.php:1085
+#: modules/storker/widgets/storker.php:1174
+#: modules/storker/widgets/storker.php:1570
+#: modules/storker/widgets/storker.php:1675
+#: modules/woocommerce/widgets/woocommerce.php:856
+#: modules/woocommerce/widgets/woocommerce.php:1194
+#: modules/woocommerce/widgets/woocommerce.php:1320
+#: modules/woocommerce/widgets/woocommerce.php:1415
+#: modules/woocommerce/widgets/woocommerce.php:1643
+#: modules/woolamp/widgets/woolamp.php:602
+#: modules/woolamp/widgets/woolamp.php:908
+#: modules/woolamp/widgets/woolamp.php:1034
+#: modules/woolamp/widgets/woolamp.php:1129
+#: modules/woostand/widgets/woostand.php:710
+msgid "Border Radius"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:1866 modules/general/widgets/general.php:2150
+#: modules/general/widgets/general.php:3244
+#: modules/isolate/widgets/isolate.php:1821 modules/knily/widgets/knily.php:638
+#: modules/knily/widgets/knily.php:1147 modules/mercury/widgets/mercury.php:556
+#: modules/monster/widgets/monster.php:835
+#: modules/storker/widgets/storker.php:579
+#: modules/storker/widgets/storker.php:1037
+#: modules/woocommerce/widgets/woocommerce.php:1060
+#: modules/woocommerce/widgets/woocommerce.php:1101
+#: modules/wooexpand/widgets/wooexpand.php:765
+#: modules/wooexpand/widgets/wooexpand.php:806
+#: modules/woolamp/widgets/woolamp.php:774
+#: modules/woolamp/widgets/woolamp.php:815
+#: modules/woostand/widgets/woostand.php:845
+#: modules/woostand/widgets/woostand.php:886
+msgid "Margin"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:1886 modules/blog/widgets/blog.php:2242
+#: modules/blog/widgets/blog.php:2381 modules/blog/widgets/blog.php:2772
+#: modules/blog/widgets/blog.php:2979 modules/blog/widgets/blog.php:3071
+#: modules/blog/widgets/blog.php:3191 modules/blog/widgets/blog.php:3516
+#: modules/blog/widgets/blog.php:3734 modules/custom/widgets/custom.php:821
+#: modules/custom/widgets/custom.php:1062
+#: modules/custom/widgets/custom.php:1297
+#: modules/custom/widgets/custom.php:1471 modules/dragon/widgets/dragon.php:895
+#: modules/dragon/widgets/dragon.php:997
+#: modules/event-calendar/widgets/event-calendar.php:1056
+#: modules/event-calendar/widgets/event-calendar.php:1288
+#: modules/fiestar/widgets/fiestar.php:595
+#: modules/fiestar/widgets/fiestar.php:740
+#: modules/flexure/widgets/flexure.php:322
+#: modules/flexure/widgets/flexure.php:801
+#: modules/flexure/widgets/flexure.php:1049
+#: modules/flogia/widgets/flogia.php:1012
+#: modules/fluent/widgets/fluent.php:1304
+#: modules/fluent/widgets/fluent.php:1453
+#: modules/general/widgets/general.php:2170
+#: modules/general/widgets/general.php:2540
+#: modules/general/widgets/general.php:2679
+#: modules/general/widgets/general.php:3725
+#: modules/general/widgets/general.php:3818
+#: modules/general/widgets/general.php:4016
+#: modules/isolate/widgets/isolate.php:1841
+#: modules/isolate/widgets/isolate.php:2200
+#: modules/isolate/widgets/isolate.php:2339
+#: modules/isolate/widgets/isolate.php:2949
+#: modules/isolate/widgets/isolate.php:3141
+#: modules/isolate/widgets/isolate.php:3344
+#: modules/isolate/widgets/isolate.php:3491
+#: modules/isolate/widgets/isolate.php:3698 modules/knily/widgets/knily.php:857
+#: modules/knily/widgets/knily.php:1030 modules/knily/widgets/knily.php:1178
+#: modules/knily/widgets/knily.php:1426 modules/marble/widgets/marble.php:576
+#: modules/marble/widgets/marble.php:807
+#: modules/mercury/widgets/mercury.php:810
+#: modules/mercury/widgets/mercury.php:955
+#: modules/monster/widgets/monster.php:736
+#: modules/monster/widgets/monster.php:1200 modules/mount/widgets/mount.php:929
+#: modules/multiscroll/widgets/multiscroll.php:906
+#: modules/pagepiling/widgets/pagepiling.php:912
+#: modules/pagepiling/widgets/pagepiling.php:1059
+#: modules/pagepiling/widgets/pagepiling.php:1156
+#: modules/sequester/widgets/sequester.php:857
+#: modules/sequester/widgets/sequester.php:1058
+#: modules/sequester/widgets/sequester.php:1237
+#: modules/storker/widgets/storker.php:797
+#: modules/storker/widgets/storker.php:970
+#: modules/storker/widgets/storker.php:1209
+#: modules/woocommerce/widgets/woocommerce.php:908
+#: modules/woocommerce/widgets/woocommerce.php:1236
+#: modules/woocommerce/widgets/woocommerce.php:1473
+#: modules/woocommerce/widgets/woocommerce.php:1564
+#: modules/woocommerce/widgets/woocommerce.php:1687
+#: modules/wooexpand/widgets/wooexpand.php:317
+#: modules/woolamp/widgets/woolamp.php:654
+#: modules/woolamp/widgets/woolamp.php:950
+#: modules/woolamp/widgets/woolamp.php:1193
+#: modules/woostand/widgets/woostand.php:763
+#: modules/woostand/widgets/woostand.php:1023
+#: traits/global-widget-controls.php:124
+msgid "Hover"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:1918 modules/blog/widgets/blog.php:2273
+#: modules/blog/widgets/blog.php:2413 modules/blog/widgets/blog.php:2805
+#: modules/blog/widgets/blog.php:3007 modules/blog/widgets/blog.php:3220
+#: modules/blog/widgets/blog.php:3769 modules/custom/widgets/custom.php:851
+#: modules/custom/widgets/custom.php:1091
+#: modules/custom/widgets/custom.php:1352
+#: modules/custom/widgets/custom.php:1495
+#: modules/custom/widgets/custom.php:1536
+#: modules/event-calendar/widgets/event-calendar.php:1093
+#: modules/event-calendar/widgets/event-calendar.php:1314
+#: modules/fiestar/widgets/fiestar.php:621
+#: modules/fiestar/widgets/fiestar.php:766
+#: modules/flexure/widgets/flexure.php:827
+#: modules/flexure/widgets/flexure.php:1089
+#: modules/fluent/widgets/fluent.php:1333
+#: modules/general/widgets/general.php:2202
+#: modules/general/widgets/general.php:2571
+#: modules/general/widgets/general.php:2711
+#: modules/general/widgets/general.php:3469
+#: modules/general/widgets/general.php:3526
+#: modules/general/widgets/general.php:3754
+#: modules/general/widgets/general.php:4054
+#: modules/isolate/widgets/isolate.php:1873
+#: modules/isolate/widgets/isolate.php:2231
+#: modules/isolate/widgets/isolate.php:2371
+#: modules/isolate/widgets/isolate.php:2998
+#: modules/isolate/widgets/isolate.php:3170
+#: modules/isolate/widgets/isolate.php:3373
+#: modules/isolate/widgets/isolate.php:3523
+#: modules/isolate/widgets/isolate.php:3665
+#: modules/isolate/widgets/isolate.php:3733 modules/knily/widgets/knily.php:886
+#: modules/knily/widgets/knily.php:1056 modules/knily/widgets/knily.php:1207
+#: modules/knily/widgets/knily.php:1433 modules/marble/widgets/marble.php:602
+#: modules/marble/widgets/marble.php:833
+#: modules/mercury/widgets/mercury.php:836
+#: modules/mercury/widgets/mercury.php:981
+#: modules/monster/widgets/monster.php:754
+#: modules/monster/widgets/monster.php:1226 modules/mount/widgets/mount.php:955
+#: modules/multiscroll/widgets/multiscroll.php:933
+#: modules/multiscroll/widgets/multiscroll.php:1012
+#: modules/multiscroll/widgets/multiscroll.php:1146
+#: modules/pagepiling/widgets/pagepiling.php:952
+#: modules/pagepiling/widgets/pagepiling.php:1185
+#: modules/sequester/widgets/sequester.php:890
+#: modules/sequester/widgets/sequester.php:1085
+#: modules/sequester/widgets/sequester.php:1149
+#: modules/sequester/widgets/sequester.php:1205
+#: modules/sequester/widgets/sequester.php:1271
+#: modules/storker/widgets/storker.php:826
+#: modules/storker/widgets/storker.php:996
+#: modules/storker/widgets/storker.php:1224
+#: modules/storker/widgets/storker.php:1278
+#: modules/storker/widgets/storker.php:1321
+#: modules/storker/widgets/storker.php:1375
+#: modules/woocommerce/widgets/woocommerce.php:939
+#: modules/woocommerce/widgets/woocommerce.php:1265
+#: modules/woocommerce/widgets/woocommerce.php:1501
+#: modules/woocommerce/widgets/woocommerce.php:1722
+#: modules/wooexpand/widgets/wooexpand.php:1013
+#: modules/woolamp/widgets/woolamp.php:979
+#: modules/woolamp/widgets/woolamp.php:1221
+#: modules/woostand/widgets/woostand.php:794
+#: modules/woostand/widgets/woostand.php:1052
+#: traits/global-widget-controls.php:142 traits/global-widget-controls.php:185
+msgid "Border Color"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:1932 modules/general/widgets/general.php:2216
+#: modules/isolate/widgets/isolate.php:1887
+msgid "Select Menu Style"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:1938 modules/general/widgets/general.php:2222
+#: modules/isolate/widgets/isolate.php:1893
+msgid "Line"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:1939 modules/general/widgets/general.php:2223
+#: modules/isolate/widgets/isolate.php:1894
+msgid "DotLine"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:1947 modules/general/widgets/general.php:2231
+#: modules/isolate/widgets/isolate.php:1902
+msgid "Menu Style Color"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:1958 modules/general/widgets/general.php:2242
+#: modules/isolate/widgets/isolate.php:1913
+msgid "Dropdown Menu"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:1979 modules/dragon/widgets/dragon.php:1058
+#: modules/flexure/widgets/flexure.php:534
+#: modules/flexure/widgets/flexure.php:880
+#: modules/general/widgets/general.php:2263
+#: modules/isolate/widgets/isolate.php:1934
+#: modules/monster/widgets/monster.php:1382
+#: modules/pagepiling/widgets/pagepiling.php:1224
+#: modules/woolamp/widgets/woolamp.php:1274
+#: modules/woostand/widgets/woostand.php:1232
+#: modules/woostand/widgets/woostand.php:1269
+msgid "Active Color"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:2002 modules/blog/widgets/blog.php:2234
+#: modules/blog/widgets/blog.php:2553 modules/blog/widgets/blog.php:2623
+#: modules/blog/widgets/blog.php:3061 modules/blog/widgets/blog.php:3181
+#: modules/blog/widgets/blog.php:3372 modules/blog/widgets/blog.php:3466
+#: modules/blog/widgets/blog.php:3506 modules/dragon/widgets/dragon.php:638
+#: modules/dragon/widgets/dragon.php:693 modules/dragon/widgets/dragon.php:775
+#: modules/event-calendar/widgets/event-calendar.php:816
+#: modules/event-calendar/widgets/event-calendar.php:909
+#: modules/fiestar/widgets/fiestar.php:452
+#: modules/fiestar/widgets/fiestar.php:585
+#: modules/flexure/widgets/flexure.php:1035
+#: modules/flogia/widgets/flogia.php:619 modules/flogia/widgets/flogia.php:674
+#: modules/flogia/widgets/flogia.php:797 modules/flogia/widgets/flogia.php:846
+#: modules/fluent/widgets/fluent.php:758 modules/fluent/widgets/fluent.php:949
+#: modules/fluent/widgets/fluent.php:998 modules/fluent/widgets/fluent.php:1030
+#: modules/fluent/widgets/fluent.php:1091
+#: modules/fluent/widgets/fluent.php:1120
+#: modules/general/widgets/general.php:2286
+#: modules/general/widgets/general.php:2532
+#: modules/general/widgets/general.php:2847
+#: modules/general/widgets/general.php:2986
+#: modules/general/widgets/general.php:3114
+#: modules/general/widgets/general.php:3808
+#: modules/isolate/widgets/isolate.php:1957
+#: modules/isolate/widgets/isolate.php:2192
+#: modules/isolate/widgets/isolate.php:2718
+#: modules/isolate/widgets/isolate.php:2784
+#: modules/isolate/widgets/isolate.php:3481 modules/knily/widgets/knily.php:596
+#: modules/knily/widgets/knily.php:668 modules/knily/widgets/knily.php:757
+#: modules/knily/widgets/knily.php:847 modules/knily/widgets/knily.php:1020
+#: modules/knily/widgets/knily.php:1168 modules/knily/widgets/knily.php:1387
+#: modules/knily/widgets/knily.php:1416 modules/knily/widgets/knily.php:1531
+#: modules/marble/widgets/marble.php:433 modules/marble/widgets/marble.php:566
+#: modules/marble/widgets/marble.php:670
+#: modules/mercury/widgets/mercury.php:514
+#: modules/mercury/widgets/mercury.php:586
+#: modules/mercury/widgets/mercury.php:657
+#: modules/mercury/widgets/mercury.php:800 modules/mount/widgets/mount.php:616
+#: modules/multiscroll/widgets/multiscroll.php:896
+#: modules/pagepiling/widgets/pagepiling.php:683
+#: modules/pagepiling/widgets/pagepiling.php:738
+#: modules/pagepiling/widgets/pagepiling.php:790
+#: modules/pagepiling/widgets/pagepiling.php:1146
+#: modules/sequester/widgets/sequester.php:571
+#: modules/sequester/widgets/sequester.php:626
+#: modules/sequester/widgets/sequester.php:678
+#: modules/storker/widgets/storker.php:537
+#: modules/storker/widgets/storker.php:609
+#: modules/storker/widgets/storker.php:697
+#: modules/storker/widgets/storker.php:787
+#: modules/storker/widgets/storker.php:960
+#: modules/storker/widgets/storker.php:1130
+#: modules/storker/widgets/storker.php:1199
+#: modules/woocommerce/widgets/woocommerce.php:774
+#: modules/woocommerce/widgets/woocommerce.php:974
+#: modules/woocommerce/widgets/woocommerce.php:1073
+#: modules/woocommerce/widgets/woocommerce.php:1114
+#: modules/woocommerce/widgets/woocommerce.php:1554
+#: modules/wooexpand/widgets/wooexpand.php:561
+#: modules/wooexpand/widgets/wooexpand.php:633
+#: modules/wooexpand/widgets/wooexpand.php:703
+#: modules/wooexpand/widgets/wooexpand.php:778
+#: modules/wooexpand/widgets/wooexpand.php:819
+#: modules/wooexpand/widgets/wooexpand.php:881
+#: modules/wooexpand/widgets/wooexpand.php:1078
+#: modules/wooexpand/widgets/wooexpand.php:1129
+#: modules/woolamp/widgets/woolamp.php:529
+#: modules/woolamp/widgets/woolamp.php:712
+#: modules/woolamp/widgets/woolamp.php:787
+#: modules/woolamp/widgets/woolamp.php:828
+#: modules/woostand/widgets/woostand.php:628
+#: modules/woostand/widgets/woostand.php:735
+#: modules/woostand/widgets/woostand.php:858
+#: modules/woostand/widgets/woostand.php:899
+#: modules/woostand/widgets/woostand.php:1013
+#: modules/woostand/widgets/woostand.php:1142
+#: traits/global-widget-controls.php:114
+msgid "Typography"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:2022 modules/blog/widgets/blog.php:2942
+#: modules/blog/widgets/blog.php:3542 modules/dragon/widgets/dragon.php:851
+#: modules/dragon/widgets/dragon.php:904 modules/dragon/widgets/dragon.php:954
+#: modules/dragon/widgets/dragon.php:1004
+#: modules/flexure/widgets/flexure.php:651
+#: modules/flexure/widgets/flexure.php:686
+#: modules/general/widgets/general.php:2306
+#: modules/general/widgets/general.php:3580
+#: modules/isolate/widgets/isolate.php:1978
+#: modules/monster/widgets/monster.php:1085 modules/mount/widgets/mount.php:814
+#: modules/multiscroll/widgets/multiscroll.php:286
+#: modules/pagepiling/widgets/pagepiling.php:839
+#: modules/pagepiling/widgets/pagepiling.php:921
+#: modules/wooexpand/widgets/wooexpand.php:938
+msgid "Text Color"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:2033 modules/general/widgets/general.php:2317
+#: modules/isolate/widgets/isolate.php:1989
+msgid "Link Color"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:2045 modules/general/widgets/general.php:2329
+#: modules/isolate/widgets/isolate.php:2001
+msgid "Link Hover Color"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:2056
+#: modules/event-calendar/widgets/event-calendar.php:1362
+#: modules/flogia/widgets/flogia.php:883 modules/fluent/widgets/fluent.php:1056
+#: modules/general/widgets/general.php:2340
+#: modules/isolate/widgets/isolate.php:2012
+#: modules/isolate/widgets/isolate.php:3159
+#: modules/isolate/widgets/isolate.php:3199
+#: modules/pagepiling/widgets/pagepiling.php:1174
+msgid "Background Color"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:2089 modules/general/widgets/general.php:2373
+#: modules/isolate/widgets/isolate.php:2045
+msgid "WIDGET"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:2136 modules/custom/widgets/custom.php:530
+#: modules/custom/widgets/custom.php:999
+#: modules/fiestar/widgets/fiestar.php:137
+#: modules/general/widgets/general.php:2420
+#: modules/general/widgets/general.php:3374
+#: modules/isolate/widgets/isolate.php:2092
+#: modules/knily/widgets/knily.php:1358 modules/marble/widgets/marble.php:111
+msgid "Vertical Spacing"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:2148 modules/general/widgets/general.php:2432
+#: modules/isolate/widgets/isolate.php:2106
+msgid "OFFCANVAS BUTTON"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:2287 modules/general/widgets/general.php:2585
+#: modules/isolate/widgets/isolate.php:2245
+msgid "Button Animation"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:2296 modules/general/widgets/general.php:2594
+#: modules/isolate/widgets/isolate.php:2254
+msgid "CLOSE BUTTON"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:2433 modules/custom/widgets/custom.php:154
+#: modules/dragon/widgets/dragon.php:164 modules/dragon/widgets/dragon.php:497
+#: modules/fiestar/widgets/fiestar.php:365
+#: modules/flexure/widgets/flexure.php:54 modules/flogia/widgets/flogia.php:490
+#: modules/fluent/widgets/fluent.php:640
+#: modules/general/widgets/general.php:1149
+#: modules/general/widgets/general.php:2732
+#: modules/isolate/widgets/isolate.php:1126
+#: modules/isolate/widgets/isolate.php:2392 modules/knily/widgets/knily.php:500
+#: modules/marble/widgets/marble.php:348
+#: modules/monster/widgets/monster.php:227
+#: modules/monster/widgets/monster.php:666 modules/mount/widgets/mount.php:173
+#: modules/mount/widgets/mount.php:494
+#: modules/pagepiling/widgets/pagepiling.php:59
+#: modules/pagepiling/widgets/pagepiling.php:613
+#: modules/sequester/widgets/sequester.php:189
+#: modules/sequester/widgets/sequester.php:447
+#: modules/storker/widgets/storker.php:441
+#: modules/woocommerce/widgets/woocommerce.php:654
+#: modules/wooexpand/widgets/wooexpand.php:491
+#: modules/woolamp/widgets/woolamp.php:457
+#: modules/woostand/widgets/woostand.php:539
+msgid "Sliders"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:2447 modules/dragon/widgets/dragon.php:511
+#: modules/flogia/widgets/flogia.php:504 modules/fluent/widgets/fluent.php:654
+#: modules/general/widgets/general.php:2746
+#: modules/isolate/widgets/isolate.php:2406 modules/mount/widgets/mount.php:508
+#: modules/woocommerce/widgets/woocommerce.php:668
+#: modules/woostand/widgets/woostand.php:1329
+msgid "Blend"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:2455 modules/dragon/widgets/dragon.php:520
+#: modules/event-calendar/widgets/event-calendar.php:743
+#: modules/flogia/widgets/flogia.php:513 modules/flogia/widgets/flogia.php:894
+#: modules/fluent/widgets/fluent.php:663
+#: modules/general/widgets/general.php:2754
+#: modules/isolate/widgets/isolate.php:2417 modules/knily/widgets/knily.php:508
+#: modules/knily/widgets/knily.php:1289 modules/mount/widgets/mount.php:517
+#: modules/sequester/widgets/sequester.php:463
+#: modules/storker/widgets/storker.php:449
+#: modules/woocommerce/widgets/woocommerce.php:676
+#: modules/wooexpand/widgets/wooexpand.php:499
+#: modules/woostand/widgets/woostand.php:1338
+msgid "Overlay Color"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:2469 modules/dragon/widgets/dragon.php:534
+#: modules/flogia/widgets/flogia.php:527 modules/fluent/widgets/fluent.php:677
+#: modules/general/widgets/general.php:2768
+#: modules/isolate/widgets/isolate.php:2432 modules/mount/widgets/mount.php:531
+#: modules/woocommerce/widgets/woocommerce.php:690
+#: modules/woostand/widgets/woostand.php:1352
+msgid "Blend Type"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:2494 modules/dragon/widgets/dragon.php:580
+#: modules/flogia/widgets/flogia.php:561 modules/fluent/widgets/fluent.php:711
+#: modules/general/widgets/general.php:2800
+#: modules/isolate/widgets/isolate.php:2542 modules/mount/widgets/mount.php:569
+#: modules/sequester/widgets/sequester.php:510
+#: modules/woocommerce/widgets/woocommerce.php:727
+msgid "Title Width"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:2515 modules/dragon/widgets/dragon.php:600
+#: modules/event-calendar/widgets/event-calendar.php:784
+#: modules/flogia/widgets/flogia.php:581 modules/fluent/widgets/fluent.php:731
+#: modules/general/widgets/general.php:2820
+#: modules/isolate/widgets/isolate.php:2562 modules/mount/widgets/mount.php:589
+#: modules/multiscroll/widgets/multiscroll.php:651
+#: modules/pagepiling/widgets/pagepiling.php:633
+#: modules/sequester/widgets/sequester.php:530
+#: modules/woocommerce/widgets/woocommerce.php:747
+#: modules/wooexpand/widgets/wooexpand.php:534
+#: modules/woolamp/widgets/woolamp.php:502
+#: modules/woostand/widgets/woostand.php:601
+msgid "Text Stroke"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:2541 modules/dragon/widgets/dragon.php:626
+#: modules/flogia/widgets/flogia.php:607 modules/mount/widgets/mount.php:655
+#: modules/pagepiling/widgets/pagepiling.php:659
+#: modules/sequester/widgets/sequester.php:556
+msgid "First Word Color"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:2564 modules/dragon/widgets/dragon.php:649
+#: modules/flogia/widgets/flogia.php:630 modules/fluent/widgets/fluent.php:769
+#: modules/fluent/widgets/fluent.php:1128
+#: modules/general/widgets/general.php:2858
+#: modules/isolate/widgets/isolate.php:2599 modules/mount/widgets/mount.php:627
+#: modules/pagepiling/widgets/pagepiling.php:694
+#: modules/sequester/widgets/sequester.php:582
+#: modules/woocommerce/widgets/woocommerce.php:785
+#: modules/wooexpand/widgets/wooexpand.php:572
+#: modules/woolamp/widgets/woolamp.php:540
+#: modules/woostand/widgets/woostand.php:639
+msgid "Title Spacing"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:2584
+msgid "Separetor Color"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:2601 modules/dragon/widgets/dragon.php:231
+#: modules/dragon/widgets/dragon.php:723
+#: modules/event-calendar/widgets/event-calendar.php:886
+#: modules/flogia/widgets/flogia.php:652
+#: modules/general/widgets/general.php:1216
+#: modules/general/widgets/general.php:1708
+#: modules/general/widgets/general.php:3016
+#: modules/isolate/widgets/isolate.php:1193
+#: modules/isolate/widgets/isolate.php:2748
+#: modules/pagepiling/widgets/pagepiling.php:128
+#: modules/pagepiling/widgets/pagepiling.php:768
+#: modules/sequester/widgets/sequester.php:258
+#: modules/sequester/widgets/sequester.php:656
+#: modules/woocommerce/widgets/woocommerce.php:952
+#: modules/woolamp/widgets/woolamp.php:687
+msgid "Excerpt"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:2631 modules/dragon/widgets/dragon.php:783
+#: modules/flogia/widgets/flogia.php:682
+#: modules/general/widgets/general.php:3122
+#: modules/isolate/widgets/isolate.php:2792
+#: modules/multiscroll/widgets/multiscroll.php:1035
+#: modules/sequester/widgets/sequester.php:686
+#: modules/woocommerce/widgets/woocommerce.php:982
+msgid "Width (px)"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:2658 modules/dragon/widgets/dragon.php:810
+#: modules/flogia/widgets/flogia.php:709
+#: modules/general/widgets/general.php:3149
+#: modules/isolate/widgets/isolate.php:2819
+#: modules/pagepiling/widgets/pagepiling.php:798
+#: modules/sequester/widgets/sequester.php:713
+#: modules/woocommerce/widgets/woocommerce.php:1009
+#: modules/wooexpand/widgets/wooexpand.php:714
+#: modules/woolamp/widgets/woolamp.php:723
+msgid "Excerpt Spacing"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:2680 modules/dragon/widgets/dragon.php:832
+#: modules/event-calendar/widgets/event-calendar.php:936
+#: modules/general/widgets/general.php:3171
+#: modules/isolate/widgets/isolate.php:2841 modules/knily/widgets/knily.php:767
+#: modules/multiscroll/widgets/multiscroll.php:787
+#: modules/pagepiling/widgets/pagepiling.php:820
+#: modules/sequester/widgets/sequester.php:735
+#: modules/storker/widgets/storker.php:707
+msgid "Button"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:2909 modules/custom/widgets/custom.php:784
+#: modules/custom/widgets/custom.php:955 modules/fluent/widgets/fluent.php:1244
+#: modules/general/widgets/general.php:3645
+#: modules/isolate/widgets/isolate.php:3300
+msgid "Icon Size"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:2968 modules/custom/widgets/custom.php:1033
+#: modules/fluent/widgets/fluent.php:1293
+#: modules/general/widgets/general.php:3714
+#: modules/isolate/widgets/isolate.php:3333
+msgid "Show Tooltip"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:3096
+#: modules/event-calendar/widgets/event-calendar.php:538
+#: modules/fiestar/widgets/fiestar.php:471
+#: modules/flogia/widgets/flogia.php:731 modules/fluent/widgets/fluent.php:883
+#: modules/fluent/widgets/fluent.php:1069 modules/knily/widgets/knily.php:906
+#: modules/marble/widgets/marble.php:452
+#: modules/mercury/widgets/mercury.php:668
+#: modules/storker/widgets/storker.php:846
+#: modules/woocommerce/widgets/woocommerce.php:807
+#: modules/woolamp/widgets/woolamp.php:562
+#: modules/woostand/widgets/woostand.php:661
+#: traits/global-widget-controls.php:254
+msgid "Category"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:3172
+msgid "Box Shadow"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:3240
+msgid "Slide Meta"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:3251 modules/knily/widgets/knily.php:1624
+#: modules/knily/widgets/knily.php:1728
+#: modules/storker/widgets/storker.php:1530
+#: modules/storker/widgets/storker.php:1634
+msgid "Width(px)"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:3271
+#: modules/sequester/widgets/sequester.php:827
+#: modules/sequester/widgets/sequester.php:904
+msgid "Icon"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:3329 modules/dragon/widgets/dragon.php:1073
+#: modules/fiestar/widgets/fiestar.php:698
+#: modules/general/widgets/general.php:3354
+#: modules/knily/widgets/knily.php:1596 modules/knily/widgets/knily.php:1707
+#: modules/marble/widgets/marble.php:777
+#: modules/mercury/widgets/mercury.php:913
+#: modules/monster/widgets/monster.php:1293
+#: modules/monster/widgets/monster.php:1396
+#: modules/storker/widgets/storker.php:1502
+#: modules/storker/widgets/storker.php:1613
+msgid "Size"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:3340 modules/blog/widgets/blog.php:3474
+#: modules/dragon/widgets/dragon.php:976
+#: modules/event-calendar/widgets/event-calendar.php:824
+#: modules/event-calendar/widgets/event-calendar.php:917
+#: modules/event-calendar/widgets/event-calendar.php:1155
+#: modules/event-calendar/widgets/event-calendar.php:1269
+#: modules/fiestar/widgets/fiestar.php:482
+#: modules/flexure/widgets/flexure.php:775
+#: modules/flogia/widgets/flogia.php:805 modules/fluent/widgets/fluent.php:851
+#: modules/fluent/widgets/fluent.php:957 modules/knily/widgets/knily.php:578
+#: modules/knily/widgets/knily.php:722 modules/knily/widgets/knily.php:917
+#: modules/marble/widgets/marble.php:463
+#: modules/mercury/widgets/mercury.php:496
+#: modules/mercury/widgets/mercury.php:679
+#: modules/monster/widgets/monster.php:902
+#: modules/monster/widgets/monster.php:948
+#: modules/monster/widgets/monster.php:1048
+#: modules/monster/widgets/monster.php:1174
+#: modules/monster/widgets/monster.php:1313
+#: modules/monster/widgets/monster.php:1334 modules/mount/widgets/mount.php:903
+#: modules/multiscroll/widgets/multiscroll.php:671
+#: modules/multiscroll/widgets/multiscroll.php:723
+#: modules/multiscroll/widgets/multiscroll.php:766
+#: modules/multiscroll/widgets/multiscroll.php:1109
+#: modules/pagepiling/widgets/pagepiling.php:1279
+#: modules/pagepiling/widgets/pagepiling.php:1293
+#: modules/sequester/widgets/sequester.php:1032
+#: modules/storker/widgets/storker.php:519
+#: modules/storker/widgets/storker.php:662
+#: modules/storker/widgets/storker.php:857
+#: modules/woocommerce/widgets/woocommerce.php:888
+#: modules/woocommerce/widgets/woocommerce.php:1123
+#: modules/wooexpand/widgets/wooexpand.php:656
+#: modules/wooexpand/widgets/wooexpand.php:828
+#: modules/wooexpand/widgets/wooexpand.php:892
+#: modules/wooexpand/widgets/wooexpand.php:952
+#: modules/woolamp/widgets/woolamp.php:634
+#: modules/woolamp/widgets/woolamp.php:837
+#: modules/woostand/widgets/woostand.php:743
+#: modules/woostand/widgets/woostand.php:908
+#: traits/global-widget-controls.php:68
+msgid "Spacing"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:3382 modules/flogia/widgets/flogia.php:861
+msgid "Featured Post"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:3403 modules/blog/widgets/blog.php:3809
+#: modules/woostand/widgets/woostand.php:547
+msgid "Glassmorphism"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:3405 modules/blog/widgets/blog.php:3811
+#: modules/woostand/widgets/woostand.php:549
+#, php-format
+msgid ""
+"This feature will not work in the Firefox browser untill you enable browser "
+"compatibility so please %1s look here %2s"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:3413 modules/blog/widgets/blog.php:3819
+#: modules/woostand/widgets/woostand.php:557
+msgid "Blur Level"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:3531 modules/general/widgets/general.php:3037
+#: modules/knily/widgets/knily.php:1458
+#: modules/multiscroll/widgets/multiscroll.php:264
+#: modules/storker/widgets/storker.php:1238
+#: modules/storker/widgets/storker.php:1335
+#: modules/wooexpand/widgets/wooexpand.php:1106
+msgid "Title Color"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:3559
+msgid "Admin Meta"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:3584 modules/custom/widgets/custom.php:284
+#: modules/custom/widgets/custom.php:1111
+#: modules/dragon/widgets/dragon.php:1021
+#: modules/event-calendar/widgets/event-calendar.php:565
+#: modules/event-calendar/widgets/event-calendar.php:572
+#: modules/event-calendar/widgets/event-calendar.php:1331
+#: modules/fiestar/widgets/fiestar.php:642
+#: modules/flexure/widgets/flexure.php:847
+#: modules/flogia/widgets/flogia.php:960 modules/fluent/widgets/fluent.php:1388
+#: modules/general/widgets/general.php:3844
+#: modules/isolate/widgets/isolate.php:3546
+#: modules/knily/widgets/knily.php:1477 modules/marble/widgets/marble.php:721
+#: modules/mercury/widgets/mercury.php:857
+#: modules/monster/widgets/monster.php:1246 modules/mount/widgets/mount.php:975
+#: modules/multiscroll/widgets/multiscroll.php:521
+#: modules/multiscroll/widgets/multiscroll.php:972
+#: modules/pagepiling/widgets/pagepiling.php:1205
+#: modules/sequester/widgets/sequester.php:1105
+#: modules/storker/widgets/storker.php:1408
+#: modules/woocommerce/widgets/woocommerce.php:1589
+#: modules/woolamp/widgets/woolamp.php:1241
+#: modules/woostand/widgets/woostand.php:1156
+msgid "Navigation"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:3629 modules/blog/widgets/blog.php:3741
+#: modules/event-calendar/widgets/event-calendar.php:1390
+#: modules/flogia/widgets/flogia.php:980 modules/flogia/widgets/flogia.php:1022
+#: modules/fluent/widgets/fluent.php:1408
+#: modules/fluent/widgets/fluent.php:1460
+#: modules/general/widgets/general.php:3876
+#: modules/general/widgets/general.php:4026
+#: modules/isolate/widgets/isolate.php:3578
+#: modules/isolate/widgets/isolate.php:3705 modules/mount/widgets/mount.php:983
+#: modules/sequester/widgets/sequester.php:1122
+#: modules/sequester/widgets/sequester.php:1244
+#: modules/woocommerce/widgets/woocommerce.php:1606
+#: modules/woocommerce/widgets/woocommerce.php:1694
+msgid "Arrows Color"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:3683 modules/general/widgets/general.php:3950
+#: modules/general/widgets/general.php:3967
+#: modules/isolate/widgets/isolate.php:3648
+#: modules/sequester/widgets/sequester.php:1189
+msgid "Active Dot Color"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:3701
+msgid "Dot Number Color"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:3717 modules/general/widgets/general.php:3999
+#: modules/isolate/widgets/isolate.php:3680
+#: modules/mount/widgets/mount.php:1013
+#: modules/woocommerce/widgets/woocommerce.php:1671
+msgid "Active Number Color"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:3790
+#: modules/woostand/widgets/woostand.php:1303
+msgid "Additional"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:3801
+msgid "Meta Content"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:4141 modules/general/widgets/general.php:4366
+#: modules/isolate/widgets/isolate.php:3967
+msgid ""
+"Ops you don't select or enter any content! Add your offcanvas content from "
+"editor."
+msgstr ""
+
+#: modules/blog/widgets/blog.php:4317
+#: modules/pagepiling/widgets/pagepiling.php:470
+msgid "Follow Us"
+msgstr ""
+
+#: modules/blog/widgets/blog.php:4504
+msgid "Written by"
+msgstr ""
+
+#: modules/custom/widgets/custom.php:112
+msgid "Scroll to Section"
+msgstr ""
+
+#: modules/custom/widgets/custom.php:134
+msgid "Scroll to Section Icon"
+msgstr ""
+
+#: modules/custom/widgets/custom.php:163
+msgid "Title ( Optional )"
+msgstr ""
+
+#: modules/custom/widgets/custom.php:184 modules/dragon/widgets/dragon.php:254
+#: modules/general/widgets/general.php:1311
+#: modules/isolate/widgets/isolate.php:1231
+#: modules/monster/widgets/monster.php:282 modules/mount/widgets/mount.php:228
+#: modules/pagepiling/widgets/pagepiling.php:166
+#: modules/sequester/widgets/sequester.php:281
+msgid "Slider Items"
+msgstr ""
+
+#: modules/custom/widgets/custom.php:189
+msgid "Slide #1"
+msgstr ""
+
+#: modules/custom/widgets/custom.php:192
+msgid "Slide #2"
+msgstr ""
+
+#: modules/custom/widgets/custom.php:195
+msgid "Slide #3"
+msgstr ""
+
+#: modules/custom/widgets/custom.php:304 modules/custom/widgets/custom.php:1148
+#: modules/event-calendar/widgets/event-calendar.php:577
+#: modules/flexure/widgets/flexure.php:908
+#: modules/monster/widgets/monster.php:1254
+#: modules/woostand/widgets/woostand.php:1174
+msgid "Arrows"
+msgstr ""
+
+#: modules/custom/widgets/custom.php:318 modules/custom/widgets/custom.php:341
+#: modules/custom/widgets/custom.php:1650
+#: modules/isolate/skins/skin-locate.php:69
+msgid "Next"
+msgstr ""
+
+#: modules/custom/widgets/custom.php:325 modules/custom/widgets/custom.php:417
+#: modules/flexure/widgets/flexure.php:920
+msgid "Arrows Icon"
+msgstr ""
+
+#: modules/custom/widgets/custom.php:339 modules/custom/widgets/custom.php:431
+msgid "Custom Text"
+msgstr ""
+
+#: modules/custom/widgets/custom.php:351 modules/custom/widgets/custom.php:443
+#: modules/custom/widgets/custom.php:512 modules/custom/widgets/custom.php:972
+msgid "Position"
+msgstr ""
+
+#: modules/custom/widgets/custom.php:368 modules/custom/widgets/custom.php:460
+#: modules/custom/widgets/custom.php:550 modules/custom/widgets/custom.php:982
+#: modules/general/widgets/general.php:3394
+#: modules/knily/widgets/knily.php:1341
+#: modules/woolamp/widgets/woolamp.php:1164
+#: modules/woolamp/widgets/woolamp.php:1304
+msgid "Horizontal Spacing"
+msgstr ""
+
+#: modules/custom/widgets/custom.php:388
+msgid "Next Vertical Spacing"
+msgstr ""
+
+#: modules/custom/widgets/custom.php:410
+msgid "Previous"
+msgstr ""
+
+#: modules/custom/widgets/custom.php:433 modules/custom/widgets/custom.php:1640
+#: modules/isolate/skins/skin-locate.php:66
+msgid "Prev"
+msgstr ""
+
+#: modules/custom/widgets/custom.php:480
+msgid "Prev Vertical Spacing"
+msgstr ""
+
+#: modules/custom/widgets/custom.php:502 modules/custom/widgets/custom.php:1370
+#: modules/event-calendar/widgets/event-calendar.php:578
+#: modules/woostand/widgets/woostand.php:1211
+msgid "Dots"
+msgstr ""
+
+#: modules/custom/widgets/custom.php:574
+#: modules/event-calendar/widgets/event-calendar.php:642
+#: modules/fiestar/widgets/fiestar.php:244
+#: modules/flexure/widgets/flexure.php:273 modules/knily/widgets/knily.php:404
+#: modules/marble/widgets/marble.php:227
+#: modules/mercury/widgets/mercury.php:325
+#: modules/monster/widgets/monster.php:381
+#: modules/storker/widgets/storker.php:345
+msgid "Slider Settings"
+msgstr ""
+
+#: modules/custom/widgets/custom.php:599
+#: modules/isolate/widgets/isolate.php:1506
+#: modules/sequester/widgets/sequester.php:409
+msgid "Autoplay Interval"
+msgstr ""
+
+#: modules/custom/widgets/custom.php:634
+#: modules/general/widgets/general.php:1661
+msgid "Slider Animations"
+msgstr ""
+
+#: modules/custom/widgets/custom.php:641
+#: modules/general/widgets/general.php:1668
+#: modules/general/widgets/general.php:1790
+#: modules/monster/widgets/monster.php:542
+msgid "Scale"
+msgstr ""
+
+#: modules/custom/widgets/custom.php:643
+#: modules/general/widgets/general.php:1670
+msgid "Pull"
+msgstr ""
+
+#: modules/custom/widgets/custom.php:655
+msgid "Slider"
+msgstr ""
+
+#: modules/custom/widgets/custom.php:687
+msgid "Scroll to Top"
+msgstr ""
+
+#: modules/custom/widgets/custom.php:801
+msgid "Bottom Space"
+msgstr ""
+
+#: modules/custom/widgets/custom.php:1042
+msgid "Tooltip Position"
+msgstr ""
+
+#: modules/custom/widgets/custom.php:1048
+#: modules/flexure/widgets/flexure.php:401
+#: modules/isolate/widgets/isolate.php:283 modules/knily/widgets/knily.php:1788
+#: modules/storker/widgets/storker.php:1694
+msgid "Top"
+msgstr ""
+
+#: modules/custom/widgets/custom.php:1049
+#: modules/isolate/widgets/isolate.php:287 modules/knily/widgets/knily.php:1796
+#: modules/pagepiling/widgets/pagepiling.php:553
+#: modules/storker/widgets/storker.php:1702
+msgid "Bottom"
+msgstr ""
+
+#: modules/custom/widgets/custom.php:1132
+msgid "Select Navigation Style"
+msgstr ""
+
+#: modules/custom/widgets/custom.php:1137
+#: modules/flexure/widgets/flexure.php:925
+msgid "Style 1"
+msgstr ""
+
+#: modules/custom/widgets/custom.php:1138
+#: modules/flexure/widgets/flexure.php:926
+msgid "Style 2"
+msgstr ""
+
+#: modules/custom/widgets/custom.php:1139
+#: modules/flexure/widgets/flexure.php:927
+msgid "Style 3"
+msgstr ""
+
+#: modules/custom/widgets/custom.php:1140
+#: modules/flexure/widgets/flexure.php:928
+msgid "Style 4"
+msgstr ""
+
+#: modules/custom/widgets/custom.php:1228
+#: modules/event-calendar/widgets/event-calendar.php:1008
+#: modules/multiscroll/widgets/multiscroll.php:850
+msgid "Advanced Radius"
+msgstr ""
+
+#: modules/custom/widgets/custom.php:1240
+#, php-format
+msgid ""
+"For example: <b>%1s</b> or Go <a href=\"%2s\" target=\"_blank\">this link</"
+"a> and copy and paste the radius value."
+msgstr ""
+
+#: modules/custom/widgets/custom.php:1273
+#: modules/event-calendar/widgets/event-calendar.php:1342
+#: modules/fluent/widgets/fluent.php:1419
+msgid "Arrows Size"
+msgstr ""
+
+#: modules/custom/widgets/custom.php:1408
+#: modules/custom/widgets/custom.php:1550
+msgid "Dots Height"
+msgstr ""
+
+#: modules/custom/widgets/custom.php:1428
+msgid "Dots Width"
+msgstr ""
+
+#: modules/custom/widgets/custom.php:1511
+#: modules/flogia/widgets/flogia.php:1053 modules/knily/widgets/knily.php:1689
+#: modules/marble/widgets/marble.php:680
+#: modules/multiscroll/widgets/multiscroll.php:1128
+#: modules/storker/widgets/storker.php:1306
+#: modules/storker/widgets/storker.php:1595
+#: traits/global-widget-controls.php:167
+msgid "Active"
+msgstr ""
+
+#: modules/custom/widgets/custom.php:1750
+msgid "Please Select Template From Sliders Section. "
+msgstr ""
+
+#: modules/dragon/widgets/dragon.php:94 modules/flexure/widgets/flexure.php:339
+#: modules/general/widgets/general.php:195
+#: modules/isolate/widgets/isolate.php:137 modules/mount/widgets/mount.php:97
+#: modules/multiscroll/widgets/multiscroll.php:420
+#: modules/pagepiling/widgets/pagepiling.php:322
+#: modules/sequester/widgets/sequester.php:95
+msgid "Show Sub Title"
+msgstr ""
+
+#: modules/dragon/widgets/dragon.php:112
+#: modules/event-calendar/widgets/event-calendar.php:131
+#: modules/general/widgets/general.php:235
+#: modules/isolate/widgets/isolate.php:155
+#: modules/pagepiling/widgets/pagepiling.php:340
+#: modules/sequester/widgets/sequester.php:113
+#: modules/woocommerce/widgets/woocommerce.php:243
+#: modules/wooexpand/widgets/wooexpand.php:267
+#: modules/woolamp/widgets/woolamp.php:161
+msgid "Show Excerpt"
+msgstr ""
+
+#: modules/dragon/widgets/dragon.php:152
+msgid "Show Blur Effect"
+msgstr ""
+
+#: modules/dragon/widgets/dragon.php:173 modules/dragon/widgets/dragon.php:671
+#: modules/general/widgets/general.php:1158
+#: modules/general/widgets/general.php:1706
+#: modules/general/widgets/general.php:2964
+#: modules/isolate/widgets/isolate.php:1135
+#: modules/isolate/widgets/isolate.php:2696 modules/mount/widgets/mount.php:182
+#: modules/mount/widgets/mount.php:748
+#: modules/multiscroll/widgets/multiscroll.php:72
+#: modules/pagepiling/widgets/pagepiling.php:68
+#: modules/pagepiling/widgets/pagepiling.php:716
+#: modules/sequester/widgets/sequester.php:198
+#: modules/sequester/widgets/sequester.php:604
+msgid "Sub Title"
+msgstr ""
+
+#: modules/dragon/widgets/dragon.php:193 modules/flexure/widgets/flexure.php:74
+#: modules/general/widgets/general.php:1179
+#: modules/isolate/widgets/isolate.php:1155
+#: modules/monster/widgets/monster.php:256 modules/mount/widgets/mount.php:202
+#: modules/multiscroll/widgets/multiscroll.php:94
+#: modules/pagepiling/widgets/pagepiling.php:90
+#: modules/sequester/widgets/sequester.php:220
+msgid "Title Link"
+msgstr ""
+
+#: modules/dragon/widgets/dragon.php:209
+#: modules/general/widgets/general.php:1195
+#: modules/isolate/widgets/isolate.php:1171
+msgid "Details"
+msgstr ""
+
+#: modules/dragon/widgets/dragon.php:218
+#: modules/general/widgets/general.php:1204
+#: modules/isolate/widgets/isolate.php:1180
+#: modules/multiscroll/widgets/multiscroll.php:130
+#: modules/pagepiling/widgets/pagepiling.php:115
+#: modules/sequester/widgets/sequester.php:245
+msgid "Button Link"
+msgstr ""
+
+#: modules/dragon/widgets/dragon.php:233
+#: modules/general/widgets/general.php:1218
+#: modules/isolate/widgets/isolate.php:1195
+#: modules/pagepiling/widgets/pagepiling.php:130
+#: modules/sequester/widgets/sequester.php:260
+msgid ""
+"Sed ut perspiciatis unde omnis iste natus error sit voluptatem, totam rem "
+"aperiam, eaque ipsa quae ab illo inventore et quasi architecto beatae vitae "
+"dicta sunt explicabo."
+msgstr ""
+
+#: modules/dragon/widgets/dragon.php:259 modules/dragon/widgets/dragon.php:264
+#: modules/pagepiling/widgets/pagepiling.php:171
+#: modules/pagepiling/widgets/pagepiling.php:176
+msgid "Addons For Elementor"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#: modules/dragon/widgets/dragon.php:260
+#: modules/pagepiling/widgets/pagepiling.php:172
+msgid "Prime Slider"
+msgstr ""
+
+#: modules/dragon/widgets/dragon.php:265
+#: modules/pagepiling/widgets/pagepiling.php:177
+msgid "Element Pack"
+msgstr ""
+
+#: modules/dragon/widgets/dragon.php:269
+#: modules/pagepiling/widgets/pagepiling.php:181
+msgid "Discover your Talents"
+msgstr ""
+
+#: modules/dragon/widgets/dragon.php:270
+msgid "On Elementor"
+msgstr ""
+
+#: modules/dragon/widgets/dragon.php:292
+#: modules/event-calendar/widgets/event-calendar.php:195
+#: modules/flexure/widgets/flexure.php:162
+#: modules/general/widgets/general.php:1344 modules/mount/widgets/mount.php:266
+#: modules/pagepiling/widgets/pagepiling.php:193
+#: modules/woocommerce/widgets/woocommerce.php:115
+#: modules/wooexpand/widgets/wooexpand.php:126
+msgid "Image Settings"
+msgstr ""
+
+#: modules/dragon/widgets/dragon.php:404
+#: modules/flexure/widgets/flexure.php:446
+#: modules/flexure/widgets/flexure.php:675 modules/knily/widgets/knily.php:350
+#: modules/knily/widgets/knily.php:1076 modules/monster/widgets/monster.php:327
+#: modules/monster/widgets/monster.php:1074 modules/mount/widgets/mount.php:378
+#: modules/mount/widgets/mount.php:803
+#: modules/pagepiling/widgets/pagepiling.php:458
+#: modules/pagepiling/widgets/pagepiling.php:972
+#: modules/sequester/widgets/sequester.php:329
+#: modules/sequester/widgets/sequester.php:940
+#: modules/woocommerce/widgets/woocommerce.php:469
+#: modules/woocommerce/widgets/woocommerce.php:1366
+#: modules/woolamp/widgets/woolamp.php:217
+#: modules/woolamp/widgets/woolamp.php:1080
+msgid "Social Share"
+msgstr ""
+
+#: modules/dragon/widgets/dragon.php:701
+#: modules/general/widgets/general.php:2994
+#: modules/isolate/widgets/isolate.php:2726 modules/mount/widgets/mount.php:777
+#: modules/pagepiling/widgets/pagepiling.php:746
+#: modules/sequester/widgets/sequester.php:634
+msgid "Sub Title Spacing"
+msgstr ""
+
+#: modules/dragon/widgets/dragon.php:864
+#: modules/pagepiling/widgets/pagepiling.php:850
+#: modules/pagepiling/widgets/pagepiling.php:932
+#: modules/wooexpand/widgets/wooexpand.php:989
+#: modules/wooexpand/widgets/wooexpand.php:1095
+msgid "Icon Color"
+msgstr ""
+
+#: modules/dragon/widgets/dragon.php:876 modules/dragon/widgets/dragon.php:917
+#: modules/dragon/widgets/dragon.php:965
+msgid "Circle Color"
+msgstr ""
+
+#: modules/dragon/widgets/dragon.php:1044
+#: modules/event-calendar/widgets/event-calendar.php:804
+#: modules/event-calendar/widgets/event-calendar.php:1135
+#: modules/fiestar/widgets/fiestar.php:440
+#: modules/flexure/widgets/flexure.php:523 modules/knily/widgets/knily.php:567
+#: modules/knily/widgets/knily.php:711 modules/knily/widgets/knily.php:1508
+#: modules/marble/widgets/marble.php:421
+#: modules/mercury/widgets/mercury.php:485
+#: modules/mercury/widgets/mercury.php:628
+#: modules/monster/widgets/monster.php:937
+#: modules/monster/widgets/monster.php:1279
+#: modules/storker/widgets/storker.php:508
+#: modules/storker/widgets/storker.php:651
+#: modules/wooexpand/widgets/wooexpand.php:618
+#: modules/woolamp/widgets/woolamp.php:1263
+#: modules/woostand/widgets/woostand.php:1195
+msgid "Hover Color"
+msgstr ""
+
+#: modules/dragon/widgets/dragon.php:1087
+msgid "Line Width"
+msgstr ""
+
+#: modules/event-calendar/widgets/event-calendar.php:70
+#: modules/fiestar/widgets/fiestar.php:120
+#: modules/flexure/widgets/flexure.php:281 modules/knily/widgets/knily.php:81
+#: modules/knily/widgets/knily.php:1236 modules/marble/widgets/marble.php:93
+#: modules/pagepiling/widgets/pagepiling.php:1251
+#: modules/storker/widgets/storker.php:78
+#: modules/wooexpand/widgets/wooexpand.php:57
+msgid "Height"
+msgstr ""
+
+#: modules/event-calendar/widgets/event-calendar.php:140
+msgid "Excerpt Length"
+msgstr ""
+
+#: modules/event-calendar/widgets/event-calendar.php:152
+msgid "Show Buy Button"
+msgstr ""
+
+#: modules/event-calendar/widgets/event-calendar.php:162
+msgid "When you use Buy Button, Please type your custom link."
+msgstr ""
+
+#: modules/event-calendar/widgets/event-calendar.php:176
+msgid "Show Location"
+msgstr ""
+
+#: modules/event-calendar/widgets/event-calendar.php:304
+msgid "Event Countdown"
+msgstr ""
+
+#: modules/event-calendar/widgets/event-calendar.php:313
+#: modules/event-calendar/widgets/event-calendar.php:370
+#: modules/event-calendar/widgets/event-calendar.php:372
+#: modules/event-calendar/widgets/event-calendar.php:373
+#: modules/event-calendar/widgets/event-calendar.php:2202
+msgid "Days"
+msgstr ""
+
+#: modules/event-calendar/widgets/event-calendar.php:322
+#: modules/event-calendar/widgets/event-calendar.php:385
+#: modules/event-calendar/widgets/event-calendar.php:387
+#: modules/event-calendar/widgets/event-calendar.php:388
+#: modules/event-calendar/widgets/event-calendar.php:2203
+msgid "Hours"
+msgstr ""
+
+#: modules/event-calendar/widgets/event-calendar.php:331
+#: modules/event-calendar/widgets/event-calendar.php:400
+#: modules/event-calendar/widgets/event-calendar.php:402
+#: modules/event-calendar/widgets/event-calendar.php:403
+#: modules/event-calendar/widgets/event-calendar.php:2204
+msgid "Minutes"
+msgstr ""
+
+#: modules/event-calendar/widgets/event-calendar.php:340
+#: modules/event-calendar/widgets/event-calendar.php:415
+#: modules/event-calendar/widgets/event-calendar.php:417
+#: modules/event-calendar/widgets/event-calendar.php:418
+#: modules/event-calendar/widgets/event-calendar.php:2205
+msgid "Seconds"
+msgstr ""
+
+#: modules/event-calendar/widgets/event-calendar.php:349
+#: modules/monster/widgets/monster.php:126
+msgid "Show Label"
+msgstr ""
+
+#: modules/event-calendar/widgets/event-calendar.php:358
+#: modules/knily/widgets/knily.php:380 modules/woolamp/widgets/woolamp.php:247
+msgid "Custom Label"
+msgstr ""
+
+#: modules/event-calendar/widgets/event-calendar.php:440
+#: modules/woocommerce/widgets/woocommerce.php:353
+#: modules/wooexpand/widgets/wooexpand.php:374
+#: modules/woolamp/widgets/woolamp.php:278
+#: modules/woostand/widgets/woostand.php:338
+#: traits/global-widget-controls.php:211
+msgctxt "Posts Query Control"
+msgid "Source"
+msgstr ""
+
+#: modules/event-calendar/widgets/event-calendar.php:443
+#: modules/woocommerce/widgets/woocommerce.php:356
+#: modules/wooexpand/widgets/wooexpand.php:377
+#: modules/woolamp/widgets/woolamp.php:281
+#: modules/woostand/widgets/woostand.php:341
+#: traits/global-widget-controls.php:214
+msgid "Show All"
+msgstr ""
+
+#: modules/event-calendar/widgets/event-calendar.php:444
+#: modules/woocommerce/widgets/woocommerce.php:357
+#: modules/wooexpand/widgets/wooexpand.php:378
+#: modules/woolamp/widgets/woolamp.php:282
+#: modules/woostand/widgets/woostand.php:342
+#: traits/global-widget-controls.php:215
+#: traits/query-controls/group-query/group-control-query.php:166
+#: traits/query-controls/group-query/group-control-query.php:688
+msgid "Manual Selection"
+msgstr ""
+
+#: modules/event-calendar/widgets/event-calendar.php:453
+#: modules/woocommerce/widgets/woocommerce.php:374
+#: modules/wooexpand/widgets/wooexpand.php:395
+#: modules/woolamp/widgets/woolamp.php:299
+#: modules/woostand/widgets/woostand.php:359
+#: traits/global-widget-controls.php:224
+msgid "Categories"
+msgstr ""
+
+#: modules/event-calendar/widgets/event-calendar.php:469
+msgid "Start Date"
+msgstr ""
+
+#: modules/event-calendar/widgets/event-calendar.php:472
+#: modules/event-calendar/widgets/event-calendar.php:499
+msgid "Any Time"
+msgstr ""
+
+#: modules/event-calendar/widgets/event-calendar.php:473
+#: modules/event-calendar/widgets/event-calendar.php:500
+msgid "Now"
+msgstr ""
+
+#: modules/event-calendar/widgets/event-calendar.php:474
+#: modules/event-calendar/widgets/event-calendar.php:501
+msgid "Today"
+msgstr ""
+
+#: modules/event-calendar/widgets/event-calendar.php:475
+#: modules/event-calendar/widgets/event-calendar.php:502
+msgid "Last Month"
+msgstr ""
+
+#: modules/event-calendar/widgets/event-calendar.php:485
+msgid "Custom Start Date"
+msgstr ""
+
+#: modules/event-calendar/widgets/event-calendar.php:496
+msgid "End Date"
+msgstr ""
+
+#: modules/event-calendar/widgets/event-calendar.php:512
+msgid "Custom End Date"
+msgstr ""
+
+#: modules/event-calendar/widgets/event-calendar.php:523
+#: traits/global-widget-controls.php:239
+#: traits/query-controls/group-query/group-control-query.php:41
+msgid "Limit"
+msgstr ""
+
+#: modules/event-calendar/widgets/event-calendar.php:532
+#: modules/woocommerce/widgets/woocommerce.php:439
+#: modules/wooexpand/widgets/wooexpand.php:460
+#: modules/woolamp/widgets/woolamp.php:364
+#: modules/woostand/widgets/woostand.php:424
+#: traits/global-widget-controls.php:248
+msgid "Order by"
+msgstr ""
+
+#: modules/event-calendar/widgets/event-calendar.php:536
+msgid "Event Date"
+msgstr ""
+
+#: modules/event-calendar/widgets/event-calendar.php:539
+#: modules/woocommerce/widgets/woocommerce.php:446
+#: modules/wooexpand/widgets/wooexpand.php:467
+#: modules/woolamp/widgets/woolamp.php:371
+#: modules/woostand/widgets/woostand.php:431
+#: traits/global-widget-controls.php:255
+#: traits/query-controls/group-query/group-control-query.php:309
+msgid "Random"
+msgstr ""
+
+#: modules/event-calendar/widgets/event-calendar.php:547
+#: modules/woocommerce/widgets/woocommerce.php:454
+#: modules/wooexpand/widgets/wooexpand.php:475
+#: modules/woolamp/widgets/woolamp.php:379
+#: modules/woostand/widgets/woostand.php:439
+#: traits/global-widget-controls.php:263
+#: traits/query-controls/group-query/group-control-query.php:321
+msgid "Order"
+msgstr ""
+
+#: modules/event-calendar/widgets/event-calendar.php:551
+#: modules/woocommerce/widgets/woocommerce.php:458
+#: modules/wooexpand/widgets/wooexpand.php:479
+#: modules/woolamp/widgets/woolamp.php:383
+#: modules/woostand/widgets/woostand.php:443
+#: traits/global-widget-controls.php:267
+msgid "Descending"
+msgstr ""
+
+#: modules/event-calendar/widgets/event-calendar.php:552
+#: modules/woocommerce/widgets/woocommerce.php:459
+#: modules/wooexpand/widgets/wooexpand.php:480
+#: modules/woolamp/widgets/woolamp.php:384
+#: modules/woostand/widgets/woostand.php:444
+#: traits/global-widget-controls.php:268
+msgid "Ascending"
+msgstr ""
+
+#: modules/event-calendar/widgets/event-calendar.php:576
+msgid "Arrows and Dots"
+msgstr ""
+
+#: modules/event-calendar/widgets/event-calendar.php:589
+msgid "Arrows and Dots Position"
+msgstr ""
+
+#: modules/event-calendar/widgets/event-calendar.php:602
+msgid "Arrows Position"
+msgstr ""
+
+#: modules/event-calendar/widgets/event-calendar.php:615
+msgid "Hide Arrows on Moblile ?"
+msgstr ""
+
+#: modules/event-calendar/widgets/event-calendar.php:627
+msgid "Dots Position"
+msgstr ""
+
+#: modules/event-calendar/widgets/event-calendar.php:659
+msgid "Autoplay Speed (ms)"
+msgstr ""
+
+#: modules/event-calendar/widgets/event-calendar.php:680
+#: modules/fiestar/widgets/fiestar.php:282
+#: modules/marble/widgets/marble.php:265
+#: modules/monster/widgets/monster.php:592
+msgid "Slides to Scroll"
+msgstr ""
+
+#: modules/event-calendar/widgets/event-calendar.php:707
+#: modules/fiestar/widgets/fiestar.php:337 modules/knily/widgets/knily.php:460
+#: modules/marble/widgets/marble.php:320
+#: modules/mercury/widgets/mercury.php:393
+#: modules/monster/widgets/monster.php:638
+#: modules/storker/widgets/storker.php:401
+msgid "Animation Speed (ms)"
+msgstr ""
+
+#: modules/event-calendar/widgets/event-calendar.php:723
+#: modules/fiestar/widgets/fiestar.php:353 modules/knily/widgets/knily.php:478
+#: modules/marble/widgets/marble.php:336
+#: modules/mercury/widgets/mercury.php:411
+#: modules/monster/widgets/monster.php:654
+#: modules/storker/widgets/storker.php:419
+msgid "Observer"
+msgstr ""
+
+#: modules/event-calendar/widgets/event-calendar.php:724
+#: modules/fiestar/widgets/fiestar.php:354 modules/knily/widgets/knily.php:479
+#: modules/marble/widgets/marble.php:337
+#: modules/mercury/widgets/mercury.php:412
+#: modules/monster/widgets/monster.php:655
+#: modules/storker/widgets/storker.php:420
+msgid ""
+"When you use carousel in any hidden place (in tabs, accordion etc) keep it "
+"yes."
+msgstr ""
+
+#: modules/event-calendar/widgets/event-calendar.php:735
+#: modules/mercury/widgets/mercury.php:433
+msgid "Items"
+msgstr ""
+
+#: modules/event-calendar/widgets/event-calendar.php:754
+#: modules/knily/widgets/knily.php:650 modules/mercury/widgets/mercury.php:568
+#: modules/storker/widgets/storker.php:591
+msgid "Max Width"
+msgstr ""
+
+#: modules/event-calendar/widgets/event-calendar.php:843
+#: modules/fluent/widgets/fluent.php:1008 modules/knily/widgets/knily.php:272
+#: modules/mercury/widgets/mercury.php:278
+#: modules/storker/widgets/storker.php:277
+#: modules/woocommerce/widgets/woocommerce.php:443
+#: modules/wooexpand/widgets/wooexpand.php:464
+#: modules/woolamp/widgets/woolamp.php:368
+#: modules/woostand/widgets/woostand.php:428
+#: traits/global-widget-controls.php:252
+#: traits/query-controls/group-query/group-control-query.php:251
+#: traits/query-controls/group-query/group-control-query.php:305
+msgid "Date"
+msgstr ""
+
+#: modules/event-calendar/widgets/event-calendar.php:865
+msgid "background Color"
+msgstr ""
+
+#: modules/event-calendar/widgets/event-calendar.php:1017
+#: modules/multiscroll/widgets/multiscroll.php:859
+#, php-format
+msgid ""
+"For example: %1s or Go %2s this link %3s and copy and paste the radius value."
+msgstr ""
+
+#: modules/event-calendar/widgets/event-calendar.php:1074
+#: modules/general/widgets/general.php:3099
+#: modules/isolate/widgets/isolate.php:2666
+#: modules/isolate/widgets/isolate.php:3213
+#: modules/multiscroll/widgets/multiscroll.php:947
+#: modules/sequester/widgets/sequester.php:971
+#: modules/wooexpand/widgets/wooexpand.php:866
+#: modules/wooexpand/widgets/wooexpand.php:1036
+#: modules/wooexpand/widgets/wooexpand.php:1117
+#: modules/woolamp/widgets/woolamp.php:591
+msgid "Line Color"
+msgstr ""
+
+#: modules/event-calendar/widgets/event-calendar.php:1113
+msgid "Location"
+msgstr ""
+
+#: modules/event-calendar/widgets/event-calendar.php:1174
+msgid "Countdown"
+msgstr ""
+
+#: modules/event-calendar/widgets/event-calendar.php:1244
+msgid "Number Typography"
+msgstr ""
+
+#: modules/event-calendar/widgets/event-calendar.php:1253
+msgid "Text Typography"
+msgstr ""
+
+#: modules/event-calendar/widgets/event-calendar.php:1376
+msgid "Hover Background Color"
+msgstr ""
+
+#: modules/event-calendar/widgets/event-calendar.php:1404
+#: modules/mount/widgets/mount.php:998
+msgid "Arrows Hover Color"
+msgstr ""
+
+#: modules/event-calendar/widgets/event-calendar.php:1418
+msgid "Space"
+msgstr ""
+
+#: modules/event-calendar/widgets/event-calendar.php:1477
+msgid "Dots Size"
+msgstr ""
+
+#: modules/event-calendar/widgets/event-calendar.php:1497
+msgid "Active Size"
+msgstr ""
+
+#: modules/event-calendar/widgets/event-calendar.php:1517
+#: modules/flogia/widgets/flogia.php:994 modules/flogia/widgets/flogia.php:1036
+#: modules/flogia/widgets/flogia.php:1063
+msgid "Dots Color"
+msgstr ""
+
+#: modules/event-calendar/widgets/event-calendar.php:1531
+msgid "Active Dots Color"
+msgstr ""
+
+#: modules/event-calendar/widgets/event-calendar.php:1545
+msgid "Dots Border Radius"
+msgstr ""
+
+#: modules/event-calendar/widgets/event-calendar.php:1561
+#: modules/event-calendar/widgets/event-calendar.php:1624
+#: modules/event-calendar/widgets/event-calendar.php:1657
+#: modules/event-calendar/widgets/event-calendar.php:1720
+#: modules/fiestar/widgets/fiestar.php:709
+#: modules/mercury/widgets/mercury.php:924
+#: modules/multiscroll/widgets/multiscroll.php:1069
+#: modules/multiscroll/widgets/multiscroll.php:1089
+#: modules/pagepiling/widgets/pagepiling.php:1032
+msgid "Horizontal Offset"
+msgstr ""
+
+#: modules/event-calendar/widgets/event-calendar.php:1591
+#: modules/event-calendar/widgets/event-calendar.php:1687
+#: modules/event-calendar/widgets/event-calendar.php:1750
+#: modules/flexure/widgets/flexure.php:605
+msgid "Vertical Offset"
+msgstr ""
+
+#: modules/event-calendar/widgets/event-calendar.php:1783
+msgid "Arrows Offset"
+msgstr ""
+
+#: modules/event-calendar/widgets/event-calendar.php:1816
+msgid "Dots Offset"
+msgstr ""
+
+#: modules/event-calendar/widgets/event-calendar.php:1937
+msgid "Start Date:"
+msgstr ""
+
+#: modules/event-calendar/widgets/event-calendar.php:1937
+msgid "End Date:"
+msgstr ""
+
+#: modules/event-calendar/widgets/event-calendar.php:1989
+msgid "Buy Ticket Online"
+msgstr ""
+
+#: modules/event-calendar/widgets/event-calendar.php:2000
+msgid " View Location"
+msgstr ""
+
+#: modules/event-calendar/widgets/event-calendar.php:2200
+msgid "Months"
+msgstr ""
+
+#: modules/event-calendar/widgets/event-calendar.php:2201
+msgid "Weeks"
+msgstr ""
+
+#: modules/fiestar/widgets/fiestar.php:78
+#: modules/flexure/widgets/flexure.php:298 modules/marble/widgets/marble.php:77
+#: modules/monster/widgets/monster.php:64
+msgid "Columns"
+msgstr ""
+
+#: modules/fiestar/widgets/fiestar.php:97
+#: modules/monster/widgets/monster.php:83
+msgid "Item Gap"
+msgstr ""
+
+#: modules/fiestar/widgets/fiestar.php:261 modules/knily/widgets/knily.php:421
+#: modules/marble/widgets/marble.php:244
+#: modules/mercury/widgets/mercury.php:355
+#: modules/monster/widgets/monster.php:571
+#: modules/storker/widgets/storker.php:362
+msgid "Autoplay Speed"
+msgstr ""
+
+#: modules/fiestar/widgets/fiestar.php:300
+#: modules/marble/widgets/marble.php:283
+#: modules/monster/widgets/monster.php:610
+msgid "Center Slide"
+msgstr ""
+
+#: modules/fiestar/widgets/fiestar.php:301
+#: modules/marble/widgets/marble.php:284
+#: modules/monster/widgets/monster.php:611
+msgid "Use even items from Layout > Columns settings for better preview."
+msgstr ""
+
+#: modules/fiestar/widgets/fiestar.php:310 modules/knily/widgets/knily.php:441
+#: modules/marble/widgets/marble.php:293
+#: modules/mercury/widgets/mercury.php:375
+#: modules/monster/widgets/monster.php:619
+#: modules/storker/widgets/storker.php:382
+msgid "Grab Cursor"
+msgstr ""
+
+#: modules/fiestar/widgets/fiestar.php:318
+#: modules/marble/widgets/marble.php:301
+msgid "Drag free Mode"
+msgstr ""
+
+#: modules/fiestar/widgets/fiestar.php:373
+msgid "Ovarlay Color"
+msgstr ""
+
+#: modules/fiestar/widgets/fiestar.php:461
+#: modules/general/widgets/general.php:2899 modules/knily/widgets/knily.php:605
+#: modules/marble/widgets/marble.php:442
+#: modules/mercury/widgets/mercury.php:523
+#: modules/monster/widgets/monster.php:968 modules/mount/widgets/mount.php:683
+#: modules/multiscroll/widgets/multiscroll.php:683
+#: modules/pagepiling/widgets/pagepiling.php:674
+#: modules/storker/widgets/storker.php:546
+msgid "Text Shadow"
+msgstr ""
+
+#: modules/fiestar/widgets/fiestar.php:559 modules/knily/widgets/knily.php:739
+#: modules/knily/widgets/knily.php:994 modules/knily/widgets/knily.php:1519
+#: modules/knily/widgets/knily.php:1585 modules/marble/widgets/marble.php:540
+#: modules/mercury/widgets/mercury.php:639
+#: modules/mercury/widgets/mercury.php:774
+#: modules/storker/widgets/storker.php:679
+#: modules/storker/widgets/storker.php:934
+#: modules/storker/widgets/storker.php:1491
+#: modules/woolamp/widgets/woolamp.php:1153
+#: modules/woolamp/widgets/woolamp.php:1293
+msgid "Space Between"
+msgstr ""
+
+#: modules/fiestar/widgets/fiestar.php:730
+#: modules/marble/widgets/marble.php:797
+#: modules/mercury/widgets/mercury.php:945
+msgid "Icon Typography"
+msgstr ""
+
+#: modules/flexure/widgets/flexure.php:66
+msgid "Tab Title"
+msgstr ""
+
+#: modules/flexure/widgets/flexure.php:91
+msgid "Box Content"
+msgstr ""
+
+#: modules/flexure/widgets/flexure.php:98
+msgid "Background Image"
+msgstr ""
+
+#: modules/flexure/widgets/flexure.php:114
+msgid "Flexure One"
+msgstr ""
+
+#: modules/flexure/widgets/flexure.php:115
+#: modules/flexure/widgets/flexure.php:120
+#: modules/flexure/widgets/flexure.php:125
+#: modules/flexure/widgets/flexure.php:130
+#: modules/flexure/widgets/flexure.php:135
+#: modules/flexure/widgets/flexure.php:140
+msgid ""
+"Lorem ipsum dolor sit amet consect voluptate repell endus kilo gram magni "
+"illo ea animi."
+msgstr ""
+
+#: modules/flexure/widgets/flexure.php:119
+msgid "Flexure Two"
+msgstr ""
+
+#: modules/flexure/widgets/flexure.php:124
+msgid "Flexure Three"
+msgstr ""
+
+#: modules/flexure/widgets/flexure.php:129
+msgid "Flexure Four"
+msgstr ""
+
+#: modules/flexure/widgets/flexure.php:134
+msgid "Flexure Five"
+msgstr ""
+
+#: modules/flexure/widgets/flexure.php:139
+msgid "Flexure Six"
+msgstr ""
+
+#: modules/flexure/widgets/flexure.php:317
+msgid "Select Event "
+msgstr ""
+
+#: modules/flexure/widgets/flexure.php:321
+#: modules/wooexpand/widgets/wooexpand.php:316
+msgid "Click"
+msgstr ""
+
+#: modules/flexure/widgets/flexure.php:348
+#: modules/multiscroll/widgets/multiscroll.php:437
+msgid "Show Description"
+msgstr ""
+
+#: modules/flexure/widgets/flexure.php:357 modules/knily/widgets/knily.php:338
+#: modules/monster/widgets/monster.php:135 modules/mount/widgets/mount.php:106
+#: modules/pagepiling/widgets/pagepiling.php:358
+#: modules/sequester/widgets/sequester.php:122
+#: modules/woocommerce/widgets/woocommerce.php:270
+#: modules/woolamp/widgets/woolamp.php:197
+msgid "Show Social Share"
+msgstr ""
+
+#: modules/flexure/widgets/flexure.php:375
+#: modules/monster/widgets/monster.php:165
+#: modules/woostand/widgets/woostand.php:262
+msgid "Show Pagination"
+msgstr ""
+
+#: modules/flexure/widgets/flexure.php:397
+msgid "Title Position"
+msgstr ""
+
+#: modules/flexure/widgets/flexure.php:410
+msgid "Active Item"
+msgstr ""
+
+#: modules/flexure/widgets/flexure.php:420
+msgid "Image Effect"
+msgstr ""
+
+#: modules/flexure/widgets/flexure.php:553
+msgid "Vertical Offset(%)"
+msgstr ""
+
+#: modules/flexure/widgets/flexure.php:566
+#: modules/multiscroll/widgets/multiscroll.php:108
+#: modules/multiscroll/widgets/multiscroll.php:744
+msgid "Description"
+msgstr ""
+
+#: modules/flexure/widgets/flexure.php:630
+msgid "Divider"
+msgstr ""
+
+#: modules/flexure/widgets/flexure.php:662
+msgid "Shadow Color"
+msgstr ""
+
+#: modules/flexure/widgets/flexure.php:855
+#: modules/monster/widgets/monster.php:1356
+#: modules/woostand/widgets/woostand.php:1248
+msgid "Pagination"
+msgstr ""
+
+#: modules/flexure/widgets/flexure.php:894
+#: modules/pagepiling/widgets/pagepiling.php:1004
+msgid "Divider Color"
+msgstr ""
+
+#: modules/flexure/widgets/flexure.php:929
+msgid "Style 5"
+msgstr ""
+
+#: modules/flexure/widgets/flexure.php:930
+msgid "Style 6"
+msgstr ""
+
+#: modules/flexure/widgets/flexure.php:931
+msgid "Style 7"
+msgstr ""
+
+#: modules/flexure/widgets/flexure.php:932
+msgid "Style 8"
+msgstr ""
+
+#: modules/flexure/widgets/flexure.php:933
+msgid "Style 9"
+msgstr ""
+
+#: modules/flexure/widgets/flexure.php:934
+msgid "Style 10"
+msgstr ""
+
+#: modules/flexure/widgets/flexure.php:935
+msgid "Style 11"
+msgstr ""
+
+#: modules/flexure/widgets/flexure.php:936
+msgid "Style 12"
+msgstr ""
+
+#: modules/flexure/widgets/flexure.php:937
+msgid "Style 13"
+msgstr ""
+
+#: modules/flexure/widgets/flexure.php:938
+msgid "Style 14"
+msgstr ""
+
+#: modules/flexure/widgets/flexure.php:939
+msgid "Style 15"
+msgstr ""
+
+#: modules/flexure/widgets/flexure.php:940
+msgid "Style 16"
+msgstr ""
+
+#: modules/flexure/widgets/flexure.php:941
+msgid "Style 17"
+msgstr ""
+
+#: modules/flexure/widgets/flexure.php:942
+msgid "Style 18"
+msgstr ""
+
+#: modules/flexure/widgets/flexure.php:943
+msgid "Style 19"
+msgstr ""
+
+#: modules/flexure/widgets/flexure.php:944
+msgid "Style 20"
+msgstr ""
+
+#: modules/flexure/widgets/flexure.php:945
+msgid "Style 21"
+msgstr ""
+
+#: modules/flexure/widgets/flexure.php:946
+msgid "Style 22"
+msgstr ""
+
+#: modules/flexure/widgets/flexure.php:947
+msgid "Style 23"
+msgstr ""
+
+#: modules/flogia/widgets/flogia.php:265
+msgid "Show Author Meta"
+msgstr ""
+
+#: modules/flogia/widgets/flogia.php:274
+msgid "Published By"
+msgstr ""
+
+#: modules/flogia/widgets/flogia.php:286
+msgid "Show Thumbnav"
+msgstr ""
+
+#: modules/flogia/widgets/flogia.php:295
+msgid "Show Navigation Arrows/Dots"
+msgstr ""
+
+#: modules/flogia/widgets/flogia.php:540 modules/fluent/widgets/fluent.php:690
+#: modules/woostand/widgets/woostand.php:1311
+msgid "Content Inner Padding"
+msgstr ""
+
+#: modules/flogia/widgets/flogia.php:824 modules/fluent/widgets/fluent.php:976
+#: modules/knily/widgets/knily.php:678 modules/mercury/widgets/mercury.php:596
+#: modules/storker/widgets/storker.php:619
+#: modules/wooexpand/widgets/wooexpand.php:594
+msgid "Meta"
+msgstr ""
+
+#: modules/flogia/widgets/flogia.php:1077
+msgid "Dots Border Color"
+msgstr ""
+
+#: modules/flogia/widgets/flogia.php:1354
+#: modules/fluent/widgets/fluent.php:1802
+msgid "Published by "
+msgstr ""
+
+#: modules/fluent/widgets/fluent.php:284
+msgid "Show Admin Meta"
+msgstr ""
+
+#: modules/fluent/widgets/fluent.php:311
+msgid "Show Thumb Scroller"
+msgstr ""
+
+#: modules/fluent/widgets/fluent.php:320
+msgid "Show Navigation Arrows"
+msgstr ""
+
+#: modules/fluent/widgets/fluent.php:493
+msgid "http://www.vimeo.com//bdthemes/"
+msgstr ""
+
+#: modules/fluent/widgets/fluent.php:789
+#: modules/isolate/widgets/isolate.php:2642
+msgid "First Word Style"
+msgstr ""
+
+#: modules/fluent/widgets/fluent.php:1045
+msgid "Thumb Scroller"
+msgstr ""
+
+#: modules/fluent/widgets/fluent.php:1364
+msgid "Primary Color"
+msgstr ""
+
+#: modules/fluent/widgets/fluent.php:1375
+msgid "Secondary Color"
+msgstr ""
+
+#: modules/fluent/widgets/fluent.php:1435
+msgid "Arrows Spacing"
+msgstr ""
+
+#: modules/general/skins/skin-crelly.php:16
+msgid "Crelly"
+msgstr ""
+
+#: modules/general/skins/skin-meteor.php:21
+msgid "Meteor"
+msgstr ""
+
+#: modules/general/widgets/general.php:176
+msgid "Hide Offcanvas Desktop?"
+msgstr ""
+
+#: modules/general/widgets/general.php:244
+msgid "Show Otherview Text"
+msgstr ""
+
+#: modules/general/widgets/general.php:256
+msgid "Alter Button and Excerpt"
+msgstr ""
+
+#: modules/general/widgets/general.php:720
+msgid "Button Alignment"
+msgstr ""
+
+#: modules/general/widgets/general.php:1160
+msgid "Sub title goes here"
+msgstr ""
+
+#: modules/general/widgets/general.php:1241
+msgid "Video"
+msgstr ""
+
+#: modules/general/widgets/general.php:1245
+msgid "Youtube"
+msgstr ""
+
+#: modules/general/widgets/general.php:1285
+msgid "Video Link"
+msgstr ""
+
+#: modules/general/widgets/general.php:1298
+msgid "Youtube Link"
+msgstr ""
+
+#: modules/general/widgets/general.php:1316
+#: modules/isolate/widgets/isolate.php:1236
+msgid "Slide Item 1"
+msgstr ""
+
+#: modules/general/widgets/general.php:1319
+#: modules/isolate/widgets/isolate.php:1240
+msgid "Slide Item 2"
+msgstr ""
+
+#: modules/general/widgets/general.php:1322
+#: modules/isolate/widgets/isolate.php:1244
+msgid "Slide Item 3"
+msgstr ""
+
+#: modules/general/widgets/general.php:1681
+msgid "Parallax Animation"
+msgstr ""
+
+#: modules/general/widgets/general.php:1693
+msgid "Advanced Animation"
+msgstr ""
+
+#: modules/general/widgets/general.php:1702
+msgid "Animation Of"
+msgstr ""
+
+#: modules/general/widgets/general.php:1720
+msgid "Animation On"
+msgstr ""
+
+#: modules/general/widgets/general.php:1737
+msgid "Animation Options"
+msgstr ""
+
+#: modules/general/widgets/general.php:1754
+msgid "Perspective"
+msgstr ""
+
+#: modules/general/widgets/general.php:1772
+msgid "Transition Duration"
+msgstr ""
+
+#: modules/general/widgets/general.php:1807
+msgid "rotationY"
+msgstr ""
+
+#: modules/general/widgets/general.php:1824
+msgid "rotationX"
+msgstr ""
+
+#: modules/general/widgets/general.php:1841
+msgid "Transform Origin"
+msgstr ""
+
+#: modules/general/widgets/general.php:1957
+msgid "Shape Color"
+msgstr ""
+
+#: modules/general/widgets/general.php:2474
+#: modules/general/widgets/general.php:3071
+#: modules/general/widgets/general.php:3700
+#: modules/isolate/widgets/isolate.php:2488
+msgid "Primary Background"
+msgstr ""
+
+#: modules/general/widgets/general.php:2878 modules/mount/widgets/mount.php:647
+msgid "Advanced Style"
+msgstr ""
+
+#: modules/general/widgets/general.php:3051
+msgid "Top Spacing"
+msgstr ""
+
+#: modules/general/widgets/general.php:3085
+msgid "Style Color"
+msgstr ""
+
+#: modules/general/widgets/general.php:3181
+msgid "NORMAL"
+msgstr ""
+
+#: modules/general/widgets/general.php:3272
+msgid "Icon Custom Style"
+msgstr ""
+
+#: modules/general/widgets/general.php:3292
+#: modules/general/widgets/general.php:3490
+msgid "Icon Style"
+msgstr ""
+
+#: modules/general/widgets/general.php:3425
+msgid "HOVER"
+msgstr ""
+
+#: modules/general/widgets/general.php:3447
+msgid "Custom Background"
+msgstr ""
+
+#: modules/general/widgets/general.php:3934
+#: modules/isolate/widgets/isolate.php:3632
+#: modules/sequester/widgets/sequester.php:1175
+msgid "Dot Color"
+msgstr ""
+
+#: modules/general/widgets/general.php:3984
+msgid "Number Color"
+msgstr ""
+
+#: modules/general/widgets/general.php:4474
+#: modules/isolate/skins/skin-locate.php:37
+msgid "Share Us"
+msgstr ""
+
+#: modules/isolate/skins/skin-locate.php:18
+msgid "Locate"
+msgstr ""
+
+#: modules/isolate/skins/skin-slice.php:19
+msgid "Slice"
+msgstr ""
+
+#: modules/isolate/widgets/isolate.php:164
+#: modules/pagepiling/widgets/pagepiling.php:349
+msgid "Show Play Button"
+msgstr ""
+
+#: modules/isolate/widgets/isolate.php:255
+#: modules/multiscroll/widgets/multiscroll.php:340
+#: modules/woostand/widgets/woostand.php:308
+msgid "Content Position"
+msgstr ""
+
+#: modules/isolate/widgets/isolate.php:279
+msgid "Column Position"
+msgstr ""
+
+#: modules/isolate/widgets/isolate.php:1216
+#: modules/pagepiling/widgets/pagepiling.php:151
+msgid "Lightbox Source"
+msgstr ""
+
+#: modules/isolate/widgets/isolate.php:1266
+#: modules/sequester/widgets/sequester.php:316
+msgid "Image Match Height"
+msgstr ""
+
+#: modules/isolate/widgets/isolate.php:1282
+msgid "Desktop"
+msgstr ""
+
+#: modules/isolate/widgets/isolate.php:1296
+msgid "Tablet"
+msgstr ""
+
+#: modules/isolate/widgets/isolate.php:1310
+msgid "Mobile"
+msgstr ""
+
+#: modules/isolate/widgets/isolate.php:1325
+msgid ""
+"If you turn on this option, then no need to set exact sized image, otherwise "
+"image will set by ratio of its actual size."
+msgstr ""
+
+#: modules/isolate/widgets/isolate.php:2446
+msgid "Primary Background Color"
+msgstr ""
+
+#: modules/isolate/widgets/isolate.php:2460
+msgid "Secondary Background Color"
+msgstr ""
+
+#: modules/isolate/widgets/isolate.php:2502
+msgid "Secondary Background"
+msgstr ""
+
+#: modules/isolate/widgets/isolate.php:2516
+msgid "Image Size(%)"
+msgstr ""
+
+#: modules/isolate/widgets/isolate.php:2619
+msgid "Left Spacing"
+msgstr ""
+
+#: modules/isolate/widgets/isolate.php:3018
+#: modules/pagepiling/widgets/pagepiling.php:1083
+msgid "Lightbox Play Button"
+msgstr ""
+
+#: modules/isolate/widgets/isolate.php:3034
+msgid "Shadow Pulse"
+msgstr ""
+
+#: modules/isolate/widgets/isolate.php:3035
+msgid "Multi Shadow"
+msgstr ""
+
+#: modules/isolate/widgets/isolate.php:3036
+msgid "Line Bounce"
+msgstr ""
+
+#: modules/isolate/widgets/isolate.php:3047
+msgid "Animated Border Color"
+msgstr ""
+
+#: modules/isolate/widgets/isolate.php:3062
+msgid "Animated Shadow Color"
+msgstr ""
+
+#: modules/knily/widgets/knily.php:103 modules/mercury/widgets/mercury.php:99
+#: modules/multiscroll/widgets/multiscroll.php:364
+#: modules/pagepiling/widgets/pagepiling.php:391
+#: modules/storker/widgets/storker.php:100
+msgid "Content Max Width"
+msgstr ""
+
+#: modules/knily/widgets/knily.php:177 modules/mercury/widgets/mercury.php:183
+#: modules/multiscroll/widgets/multiscroll.php:495
+#: modules/pagepiling/widgets/pagepiling.php:522
+#: modules/storker/widgets/storker.php:182
+msgid "Additional Settings"
+msgstr ""
+
+#: modules/knily/widgets/knily.php:262 modules/mercury/widgets/mercury.php:268
+#: modules/storker/widgets/storker.php:267
+msgid "Separator"
+msgstr ""
+
+#: modules/knily/widgets/knily.php:281 modules/mercury/widgets/mercury.php:287
+#: modules/storker/widgets/storker.php:286
+msgid "Human Different Time"
+msgstr ""
+
+#: modules/knily/widgets/knily.php:292 modules/mercury/widgets/mercury.php:298
+#: modules/storker/widgets/storker.php:297
+msgid "Time Short Format"
+msgstr ""
+
+#: modules/knily/widgets/knily.php:293 modules/mercury/widgets/mercury.php:299
+#: modules/storker/widgets/storker.php:298
+msgid "This will work for Hours, Minute and Seconds"
+msgstr ""
+
+#: modules/knily/widgets/knily.php:305 modules/mercury/widgets/mercury.php:311
+#: modules/storker/widgets/storker.php:310
+msgid "Show Time"
+msgstr ""
+
+#: modules/knily/widgets/knily.php:329 modules/knily/widgets/knily.php:330
+#: modules/storker/widgets/storker.php:334
+#: modules/storker/widgets/storker.php:335
+msgid "More Details"
+msgstr ""
+
+#: modules/knily/widgets/knily.php:366 modules/woolamp/widgets/woolamp.php:233
+msgid "Social Media"
+msgstr ""
+
+#: modules/knily/widgets/knily.php:487 modules/storker/widgets/storker.php:428
+msgid "Show Navigation Dots"
+msgstr ""
+
+#: modules/knily/widgets/knily.php:519 modules/marble/widgets/marble.php:356
+#: modules/mercury/widgets/mercury.php:449
+#: modules/monster/widgets/monster.php:722 modules/mount/widgets/mount.php:544
+#: modules/storker/widgets/storker.php:460
+#: modules/woocommerce/widgets/woocommerce.php:703
+#: modules/wooexpand/widgets/wooexpand.php:510
+#: modules/woolamp/widgets/woolamp.php:477
+msgid "Content Padding"
+msgstr ""
+
+#: modules/knily/widgets/knily.php:531 modules/storker/widgets/storker.php:472
+msgid "Content Margin"
+msgstr ""
+
+#: modules/knily/widgets/knily.php:1228
+#: modules/storker/widgets/storker.php:1017
+msgid "Thumbs Slider"
+msgstr ""
+
+#: modules/knily/widgets/knily.php:1332
+msgid "C O U N T E R"
+msgstr ""
+
+#: modules/knily/widgets/knily.php:1375 modules/knily/widgets/knily.php:1447
+msgid "Counter Color"
+msgstr ""
+
+#: modules/knily/widgets/knily.php:1395
+#: modules/storker/widgets/storker.php:1109
+msgid "T I T L E"
+msgstr ""
+
+#: modules/knily/widgets/knily.php:1488
+msgid "A R R O W"
+msgstr ""
+
+#: modules/knily/widgets/knily.php:1539
+msgid "D 0 T S"
+msgstr ""
+
+#: modules/knily/widgets/knily.php:1548
+#: modules/storker/widgets/storker.php:1445
+msgid "Dots Vertical Offset"
+msgstr ""
+
+#: modules/knily/widgets/knily.php:1616
+#: modules/storker/widgets/storker.php:1522
+msgid "Advanced Size"
+msgstr ""
+
+#: modules/knily/widgets/knily.php:1644 modules/knily/widgets/knily.php:1748
+#: modules/storker/widgets/storker.php:1550
+#: modules/storker/widgets/storker.php:1654
+msgid "Height(px)"
+msgstr ""
+
+#: modules/knily/widgets/knily.php:1942
+#: modules/mercury/widgets/mercury.php:1130
+#: modules/storker/widgets/storker.php:1848
+msgid "by"
+msgstr ""
+
+#: modules/marble/widgets/marble.php:195
+msgid "Show Count"
+msgstr ""
+
+#: modules/marble/widgets/marble.php:368
+msgid "Border Line Color"
+msgstr ""
+
+#: modules/marble/widgets/marble.php:380
+msgid "Border Line Type"
+msgstr ""
+
+#: modules/marble/widgets/marble.php:384
+msgid "Solid"
+msgstr ""
+
+#: modules/marble/widgets/marble.php:385
+msgid "Dashed"
+msgstr ""
+
+#: modules/marble/widgets/marble.php:386
+msgid "Dotted"
+msgstr ""
+
+#: modules/marble/widgets/marble.php:622
+msgid "Counter"
+msgstr ""
+
+#: modules/mercury/widgets/mercury.php:77
+msgid "Image Height"
+msgstr ""
+
+#: modules/mercury/widgets/mercury.php:116
+msgid "Content Reverse"
+msgstr ""
+
+#: modules/mercury/widgets/mercury.php:332
+msgid "Effect"
+msgstr ""
+
+#: modules/mercury/widgets/mercury.php:420
+msgid "Show Navigation"
+msgstr ""
+
+#: modules/monster/widgets/monster.php:25
+msgid "monster"
+msgstr ""
+
+#: modules/monster/widgets/monster.php:153
+msgid "Center Arrows"
+msgstr ""
+
+#: modules/monster/widgets/monster.php:174
+msgid "Pagination Hide on Mobile"
+msgstr ""
+
+#: modules/monster/widgets/monster.php:236
+#: modules/monster/widgets/monster.php:978
+msgid "Label"
+msgstr ""
+
+#: modules/monster/widgets/monster.php:287
+#: modules/monster/widgets/monster.php:292
+#: modules/monster/widgets/monster.php:297
+#: modules/monster/widgets/monster.php:302 modules/mount/widgets/mount.php:233
+#: modules/mount/widgets/mount.php:238 modules/mount/widgets/mount.php:243
+#: modules/sequester/widgets/sequester.php:199
+msgid "This is a Label"
+msgstr ""
+
+#: modules/monster/widgets/monster.php:288
+msgid "Monster Slider Item One"
+msgstr ""
+
+#: modules/monster/widgets/monster.php:293
+msgid "Monster Slider Item Two"
+msgstr ""
+
+#: modules/monster/widgets/monster.php:298
+msgid "Monster Slider Item Three"
+msgstr ""
+
+#: modules/monster/widgets/monster.php:303
+msgid "Monster Slider Item Four"
+msgstr ""
+
+#: modules/monster/widgets/monster.php:392
+msgid "Carousel"
+msgstr ""
+
+#: modules/monster/widgets/monster.php:393
+msgid "Coverflow"
+msgstr ""
+
+#: modules/monster/widgets/monster.php:403
+msgid "Coverflow Effect"
+msgstr ""
+
+#: modules/monster/widgets/monster.php:417
+msgid "Rotate"
+msgstr ""
+
+#: modules/monster/widgets/monster.php:439
+msgid "Stretch"
+msgstr ""
+
+#: modules/monster/widgets/monster.php:461
+msgid "Modifier"
+msgstr ""
+
+#: modules/monster/widgets/monster.php:483
+msgid "Depth"
+msgstr ""
+
+#: modules/monster/widgets/monster.php:505
+msgid "Slide Shadows"
+msgstr ""
+
+#: modules/monster/widgets/monster.php:527
+msgid "Show Lightbox"
+msgstr ""
+
+#: modules/monster/widgets/monster.php:536
+msgid "Lightbox Animation"
+msgstr ""
+
+#: modules/monster/widgets/monster.php:553
+msgid "Item Match Height"
+msgstr ""
+
+#: modules/monster/widgets/monster.php:776
+msgid "Match Padding"
+msgstr ""
+
+#: modules/monster/widgets/monster.php:777
+msgid ""
+"You have to add padding for matching overlaping normal/hover box shadow when "
+"you used Box Shadow option."
+msgstr ""
+
+#: modules/monster/widgets/monster.php:860
+msgid "Opacity (%)"
+msgstr ""
+
+#: modules/monster/widgets/monster.php:881
+msgid "Hover Opacity (%)"
+msgstr ""
+
+#: modules/mount/widgets/mount.php:234
+msgid "Mount Slider Item One"
+msgstr ""
+
+#: modules/mount/widgets/mount.php:239
+msgid "Mount Slider Item Two"
+msgstr ""
+
+#: modules/mount/widgets/mount.php:244
+msgid "Mount Slider Item Three"
+msgstr ""
+
+#: modules/multiscroll/widgets/multiscroll.php:62
+msgid "Multiscroll Layout"
+msgstr ""
+
+#: modules/multiscroll/widgets/multiscroll.php:74
+msgid "Subtitle Goes Here"
+msgstr ""
+
+#: modules/multiscroll/widgets/multiscroll.php:85
+msgid "Slide Title Here"
+msgstr ""
+
+#: modules/multiscroll/widgets/multiscroll.php:110
+msgid "Lorem ipsum dolor sit amet."
+msgstr ""
+
+#: modules/multiscroll/widgets/multiscroll.php:121
+msgid "View Details"
+msgstr ""
+
+#: modules/multiscroll/widgets/multiscroll.php:156
+msgid "Left Background"
+msgstr ""
+
+#: modules/multiscroll/widgets/multiscroll.php:204
+msgid "Right Background"
+msgstr ""
+
+#: modules/multiscroll/widgets/multiscroll.php:252
+msgid "Custom Style"
+msgstr ""
+
+#: modules/multiscroll/widgets/multiscroll.php:275
+msgid "Sub Title Color"
+msgstr ""
+
+#: modules/multiscroll/widgets/multiscroll.php:299
+msgid "Item"
+msgstr ""
+
+#: modules/multiscroll/widgets/multiscroll.php:304
+#: modules/multiscroll/widgets/multiscroll.php:310
+#: modules/multiscroll/widgets/multiscroll.php:316
+msgid "MultiScroll"
+msgstr ""
+
+#: modules/multiscroll/widgets/multiscroll.php:345
+msgid "Text Left and Image Right"
+msgstr ""
+
+#: modules/multiscroll/widgets/multiscroll.php:349
+msgid "All Content Center"
+msgstr ""
+
+#: modules/multiscroll/widgets/multiscroll.php:353
+msgid "Image Left and Text Right"
+msgstr ""
+
+#: modules/multiscroll/widgets/multiscroll.php:398
+#: modules/pagepiling/widgets/pagepiling.php:443
+#: modules/wooexpand/widgets/wooexpand.php:101
+msgid "Justified"
+msgstr ""
+
+#: modules/multiscroll/widgets/multiscroll.php:411
+msgid "Show Image"
+msgstr ""
+
+#: modules/multiscroll/widgets/multiscroll.php:455
+msgid "Button Position"
+msgstr ""
+
+#: modules/multiscroll/widgets/multiscroll.php:471
+msgid "Show Shadow Title"
+msgstr ""
+
+#: modules/multiscroll/widgets/multiscroll.php:503
+#: modules/pagepiling/widgets/pagepiling.php:530
+msgid "Scrolling Speed"
+msgstr ""
+
+#: modules/multiscroll/widgets/multiscroll.php:530
+#: modules/pagepiling/widgets/pagepiling.php:548
+msgid "Navigation Position"
+msgstr ""
+
+#: modules/multiscroll/widgets/multiscroll.php:546
+#: modules/pagepiling/widgets/pagepiling.php:561
+msgid "loop Bottom"
+msgstr ""
+
+#: modules/multiscroll/widgets/multiscroll.php:555
+#: modules/pagepiling/widgets/pagepiling.php:570
+msgid "loop Top"
+msgstr ""
+
+#: modules/multiscroll/widgets/multiscroll.php:564
+msgid "Easing Effect"
+msgstr ""
+
+#: modules/multiscroll/widgets/multiscroll.php:576
+msgid "Multiscroll Content"
+msgstr ""
+
+#: modules/multiscroll/widgets/multiscroll.php:595
+msgid "Shadow Title Color"
+msgstr ""
+
+#: modules/multiscroll/widgets/multiscroll.php:701
+msgid "Subtitle"
+msgstr ""
+
+#: modules/multiscroll/widgets/multiscroll.php:1052
+msgid "Height (px)"
+msgstr ""
+
+#: modules/pagepiling/widgets/pagepiling.php:69
+msgid "This is a label"
+msgstr ""
+
+#: modules/pagepiling/widgets/pagepiling.php:81
+#: modules/sequester/widgets/sequester.php:211
+msgid "Slide Title"
+msgstr ""
+
+#: modules/pagepiling/widgets/pagepiling.php:106
+msgid "Show Project"
+msgstr ""
+
+#: modules/pagepiling/widgets/pagepiling.php:139
+msgid "Slide Image"
+msgstr ""
+
+#: modules/pagepiling/widgets/pagepiling.php:182
+msgid "On Prime Slider"
+msgstr ""
+
+#: modules/pagepiling/widgets/pagepiling.php:468
+msgid "Social Text"
+msgstr ""
+
+#: modules/sequester/module.info.php:5
+msgid "sequester"
+msgstr ""
+
+#: modules/sequester/widgets/sequester.php:236
+msgid "See Details"
+msgstr ""
+
+#: modules/sequester/widgets/sequester.php:286
+msgid "Sequester Slide One"
+msgstr ""
+
+#: modules/sequester/widgets/sequester.php:290
+msgid "Sequester Slide Two"
+msgstr ""
+
+#: modules/sequester/widgets/sequester.php:294
+msgid "Sequester Slide Three"
+msgstr ""
+
+#: modules/sequester/widgets/sequester.php:455
+msgid "Custom Overlay"
+msgstr ""
+
+#: modules/sequester/widgets/sequester.php:477
+msgid "Opacity"
+msgstr ""
+
+#: modules/sequester/widgets/sequester.php:1163
+msgid "D O T S"
+msgstr ""
+
+#: modules/sequester/widgets/sequester.php:1220
+msgid "Active Border Color"
+msgstr ""
+
+#: modules/storker/widgets/storker.php:1025
+msgid "Height(%)"
+msgstr ""
+
+#: modules/storker/widgets/storker.php:1049
+msgid "Animated Line Color"
+msgstr ""
+
+#: modules/storker/widgets/storker.php:1138
+#: modules/storker/widgets/storker.php:1250
+#: modules/storker/widgets/storker.php:1347
+msgid "A R R O W S"
+msgstr ""
+
+#: modules/storker/widgets/storker.php:1419
+msgid "Dots Horizontal Offset"
+msgstr ""
+
+#: modules/woocommerce/module.info.php:5
+msgid "Woocommerce"
+msgstr ""
+
+#: modules/woocommerce/widgets/woocommerce.php:87
+msgid "Image Width"
+msgstr ""
+
+#: modules/woocommerce/widgets/woocommerce.php:252
+#: modules/woocommerce/widgets/woocommerce.php:444
+#: modules/woocommerce/widgets/woocommerce.php:1031
+#: modules/wooexpand/widgets/wooexpand.php:465
+#: modules/wooexpand/widgets/wooexpand.php:736
+#: modules/woolamp/widgets/woolamp.php:170
+#: modules/woolamp/widgets/woolamp.php:369
+#: modules/woolamp/widgets/woolamp.php:745
+#: modules/woostand/widgets/woostand.php:226
+#: modules/woostand/widgets/woostand.php:429
+#: modules/woostand/widgets/woostand.php:816
+msgid "Price"
+msgstr ""
+
+#: modules/woocommerce/widgets/woocommerce.php:261
+#: modules/wooexpand/widgets/wooexpand.php:285
+#: modules/wooexpand/widgets/wooexpand.php:978
+#: modules/woolamp/widgets/woolamp.php:179
+#: modules/woostand/widgets/woostand.php:235
+msgid "Add to Cart"
+msgstr ""
+
+#: modules/woocommerce/widgets/woocommerce.php:389
+#: modules/wooexpand/widgets/wooexpand.php:410
+#: modules/woolamp/widgets/woolamp.php:314
+#: modules/woostand/widgets/woostand.php:374
+msgid "Exclude Product(s)"
+msgstr ""
+
+#: modules/woocommerce/widgets/woocommerce.php:393
+#: modules/wooexpand/widgets/wooexpand.php:414
+#: modules/woolamp/widgets/woolamp.php:318
+#: modules/woostand/widgets/woostand.php:378
+msgid ""
+"Write product id here, if you want to exclude multiple products so use comma "
+"as separator. Such as 1 , 2"
+msgstr ""
+
+#: modules/woocommerce/widgets/woocommerce.php:400
+#: modules/wooexpand/widgets/wooexpand.php:421
+#: modules/woolamp/widgets/woolamp.php:325
+#: modules/woostand/widgets/woostand.php:385
+msgid "Product Limit"
+msgstr ""
+
+#: modules/woocommerce/widgets/woocommerce.php:409
+#: modules/wooexpand/widgets/wooexpand.php:430
+#: modules/woolamp/widgets/woolamp.php:334
+#: modules/woostand/widgets/woostand.php:394
+msgid "Show Product"
+msgstr ""
+
+#: modules/woocommerce/widgets/woocommerce.php:413
+#: modules/wooexpand/widgets/wooexpand.php:434
+#: modules/woolamp/widgets/woolamp.php:338
+#: modules/woostand/widgets/woostand.php:398
+msgid "All Products"
+msgstr ""
+
+#: modules/woocommerce/widgets/woocommerce.php:414
+#: modules/wooexpand/widgets/wooexpand.php:435
+#: modules/woolamp/widgets/woolamp.php:339
+#: modules/woostand/widgets/woostand.php:399
+msgid "On Sale"
+msgstr ""
+
+#: modules/woocommerce/widgets/woocommerce.php:415
+#: modules/wooexpand/widgets/wooexpand.php:436
+#: modules/woolamp/widgets/woolamp.php:340
+#: modules/woostand/widgets/woostand.php:400
+msgid "Featured"
+msgstr ""
+
+#: modules/woocommerce/widgets/woocommerce.php:423
+#: modules/wooexpand/widgets/wooexpand.php:444
+#: modules/woolamp/widgets/woolamp.php:348
+#: modules/woostand/widgets/woostand.php:408
+msgid "Hide Free"
+msgstr ""
+
+#: modules/woocommerce/widgets/woocommerce.php:431
+#: modules/wooexpand/widgets/wooexpand.php:452
+#: modules/woolamp/widgets/woolamp.php:356
+#: modules/woostand/widgets/woostand.php:416
+msgid "Hide Out of Stock"
+msgstr ""
+
+#: modules/woocommerce/widgets/woocommerce.php:445
+#: modules/wooexpand/widgets/wooexpand.php:466
+#: modules/woolamp/widgets/woolamp.php:370
+#: modules/woostand/widgets/woostand.php:430
+msgid "Sales"
+msgstr ""
+
+#: modules/woocommerce/widgets/woocommerce.php:1041
+#: modules/wooexpand/widgets/wooexpand.php:746
+#: modules/woolamp/widgets/woolamp.php:755
+#: modules/woostand/widgets/woostand.php:826
+msgid "Old Price"
+msgstr ""
+
+#: modules/woocommerce/widgets/woocommerce.php:1081
+#: modules/wooexpand/widgets/wooexpand.php:786
+#: modules/woolamp/widgets/woolamp.php:795
+#: modules/woostand/widgets/woostand.php:866
+msgid "Sale Price"
+msgstr ""
+
+#: modules/woocommerce/widgets/woocommerce.php:1141
+#: modules/woolamp/widgets/woolamp.php:855
+#: modules/woostand/widgets/woostand.php:926
+msgid "Add to Cart Button"
+msgstr ""
+
+#: modules/woocommerce/widgets/woocommerce.php:1281
+#: modules/woolamp/widgets/woolamp.php:995
+#: modules/woostand/widgets/woostand.php:1068
+msgid "Quantity"
+msgstr ""
+
+#: modules/woocommerce/widgets/woocommerce.php:1655
+msgid "Total Number Color"
+msgstr ""
+
+#: modules/wooexpand/widgets/wooexpand.php:74
+msgid "Content Width"
+msgstr ""
+
+#: modules/wooexpand/widgets/wooexpand.php:258
+msgid "Show Rating"
+msgstr ""
+
+#: modules/wooexpand/widgets/wooexpand.php:276
+msgid "Show Price"
+msgstr ""
+
+#: modules/wooexpand/widgets/wooexpand.php:294
+msgid "Add Meta"
+msgstr ""
+
+#: modules/wooexpand/widgets/wooexpand.php:303
+msgid "Show Badge"
+msgstr ""
+
+#: modules/wooexpand/widgets/wooexpand.php:312
+msgid "Select Event"
+msgstr ""
+
+#: modules/wooexpand/widgets/wooexpand.php:326
+msgid "Show Scrollspy"
+msgstr ""
+
+#: modules/wooexpand/widgets/wooexpand.php:336
+msgctxt "bdthemes-prime-slider"
+msgid "Delay(ms)"
+msgstr ""
+
+#: modules/wooexpand/widgets/wooexpand.php:348
+msgctxt "bdthemes-prime-slider"
+msgid "Animation"
+msgstr ""
+
+#: modules/wooexpand/widgets/wooexpand.php:352
+msgctxt "bdthemes-prime-slider"
+msgid "Fade"
+msgstr ""
+
+#: modules/wooexpand/widgets/wooexpand.php:353
+msgctxt "bdthemes-prime-slider"
+msgid "Slide Top"
+msgstr ""
+
+#: modules/wooexpand/widgets/wooexpand.php:354
+msgctxt "bdthemes-prime-slider"
+msgid "Slide Bottom"
+msgstr ""
+
+#: modules/wooexpand/widgets/wooexpand.php:645
+msgid "Left Typography"
+msgstr ""
+
+#: modules/wooexpand/widgets/wooexpand.php:842
+msgid "Badge"
+msgstr ""
+
+#: modules/wooexpand/widgets/wooexpand.php:914
+msgid "rating"
+msgstr ""
+
+#: modules/wooexpand/widgets/wooexpand.php:1001
+msgid "Hover Icon Color"
+msgstr ""
+
+#: modules/wooexpand/widgets/wooexpand.php:1025
+msgid "Hover Border Color"
+msgstr ""
+
+#: modules/wooexpand/widgets/wooexpand.php:1050
+msgid "Counter/Plus Title"
+msgstr ""
+
+#: modules/wooexpand/widgets/wooexpand.php:1058
+msgid "Counter Number"
+msgstr ""
+
+#: modules/wooexpand/widgets/wooexpand.php:1086
+msgid "Plus Title"
+msgstr ""
+
+#: modules/wooexpand/widgets/wooexpand.php:1307
+msgid "SKU:"
+msgstr ""
+
+#: modules/wooexpand/widgets/wooexpand.php:1309
+msgid "N/A"
+msgstr ""
+
+#: modules/wooexpand/widgets/wooexpand.php:1312
+msgid "<span class=\"bdt-meta-name\">Category:</span>"
+msgid_plural "<span class=\"bdt-meta-name\">Categories:</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: modules/wooexpand/widgets/wooexpand.php:1313
+msgid "<span class=\"bdt-meta-name\">Tag:</span>"
+msgid_plural "<span class=\"bdt-meta-name\">Tags:</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: modules/wooexpand/widgets/wooexpand.php:1323
+msgid "Out of Stock!"
+msgstr ""
+
+#: modules/wooexpand/widgets/wooexpand.php:1328
+msgid "In Stock!"
+msgstr ""
+
+#: modules/woolamp/widgets/woolamp.php:206
+msgid "Social Share Hide on Mobile"
+msgstr ""
+
+#: modules/woolamp/widgets/woolamp.php:465
+msgid "Image Overlay Color"
+msgstr ""
+
+#: modules/woolamp/widgets/woolamp.php:467
+msgid "NOTE: It just works on Mobile Device."
+msgstr ""
+
+#: modules/woostand/module.info.php:5 modules/woostand/widgets/woostand.php:23
+msgid "Woostand"
+msgstr ""
+
+#: modules/woostand/widgets/woostand.php:805
+msgid "Hide Comma"
+msgstr ""
+
+#: modules/woostand/widgets/woostand.php:1283
+msgid "Separator Color"
+msgstr ""
+
+#: traits/global-widget-controls.php:102
+msgid "Arrow Size"
+msgstr ""
+
+#: traits/query-controls/group-query/group-control-query.php:19
+msgid "Replaced Deprecated Query?"
+msgstr ""
+
+#: traits/query-controls/group-query/group-control-query.php:28
+msgid "Source"
+msgstr ""
+
+#: traits/query-controls/group-query/group-control-query.php:53
+#: traits/query-controls/group-query/group-control-query.php:178
+msgid "Search & Select"
+msgstr ""
+
+#: traits/query-controls/group-query/group-control-query.php:80
+msgid "Include"
+msgstr ""
+
+#: traits/query-controls/group-query/group-control-query.php:91
+msgid "Include By"
+msgstr ""
+
+#: traits/query-controls/group-query/group-control-query.php:96
+#: traits/query-controls/group-query/group-control-query.php:108
+#: traits/query-controls/group-query/group-control-query.php:164
+#: traits/query-controls/group-query/group-control-query.php:198
+msgid "Authors"
+msgstr ""
+
+#: traits/query-controls/group-query/group-control-query.php:97
+#: traits/query-controls/group-query/group-control-query.php:125
+#: traits/query-controls/group-query/group-control-query.php:167
+#: traits/query-controls/group-query/group-control-query.php:215
+msgid "Terms"
+msgstr ""
+
+#: traits/query-controls/group-query/group-control-query.php:126
+#: traits/query-controls/group-query/group-control-query.php:216
+msgid ""
+"Terms are items in a taxonomy. The available taxonomies are: Categories, "
+"Tags, Formats and custom taxonomies."
+msgstr ""
+
+#: traits/query-controls/group-query/group-control-query.php:130
+#: traits/query-controls/group-query/group-control-query.php:220
+msgid "Type and select terms"
+msgstr ""
+
+#: traits/query-controls/group-query/group-control-query.php:149
+msgid "Exclude"
+msgstr ""
+
+#: traits/query-controls/group-query/group-control-query.php:159
+msgid "Exclude By"
+msgstr ""
+
+#: traits/query-controls/group-query/group-control-query.php:165
+msgid "Current Post"
+msgstr ""
+
+#: traits/query-controls/group-query/group-control-query.php:255
+msgid "All"
+msgstr ""
+
+#: traits/query-controls/group-query/group-control-query.php:256
+msgid "Past Day"
+msgstr ""
+
+#: traits/query-controls/group-query/group-control-query.php:257
+msgid "Past Week"
+msgstr ""
+
+#: traits/query-controls/group-query/group-control-query.php:258
+msgid "Past Month"
+msgstr ""
+
+#: traits/query-controls/group-query/group-control-query.php:259
+msgid "Past Quarter"
+msgstr ""
+
+#: traits/query-controls/group-query/group-control-query.php:260
+msgid "Past Year"
+msgstr ""
+
+#: traits/query-controls/group-query/group-control-query.php:275
+msgid ""
+"Setting a ‘Before’ date will show all the posts published until the chosen "
+"date (inclusive)."
+msgstr ""
+
+#: traits/query-controls/group-query/group-control-query.php:288
+msgid ""
+"Setting an ‘After’ date will show all the posts published since the chosen "
+"date (inclusive)."
+msgstr ""
+
+#: traits/query-controls/group-query/group-control-query.php:299
+msgid "Order By"
+msgstr ""
+
+#: traits/query-controls/group-query/group-control-query.php:304
+msgid "ID"
+msgstr ""
+
+#: traits/query-controls/group-query/group-control-query.php:306
+msgid "Author"
+msgstr ""
+
+#: traits/query-controls/group-query/group-control-query.php:307
+msgid "Comment Count"
+msgstr ""
+
+#: traits/query-controls/group-query/group-control-query.php:308
+msgid "Menu Order"
+msgstr ""
+
+#: traits/query-controls/group-query/group-control-query.php:325
+msgid "ASC"
+msgstr ""
+
+#: traits/query-controls/group-query/group-control-query.php:326
+msgid "DESC"
+msgstr ""
+
+#: traits/query-controls/group-query/group-control-query.php:338
+msgid "Ignore Sticky Posts"
+msgstr ""
+
+#: traits/query-controls/group-query/group-control-query.php:352
+msgid "Only Featured Image Post"
+msgstr ""
+
+#: traits/query-controls/group-query/group-control-query.php:353
+msgid "Enable to display posts only when featured image is present."
+msgstr ""
+
+#: traits/query-controls/group-query/group-control-query.php:366
+msgid "Query ID"
+msgstr ""
+
+#: traits/query-controls/group-query/group-control-query.php:367
+msgid "Give your Query a custom unique id to allow server side filtering"
+msgstr ""
+
+#: traits/query-controls/group-query/group-control-query.php:689
+msgid "Current Query"
+msgstr ""
+
+#: traits/query-controls/group-query/group-control-query.php:690
+msgid "Related"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://primeslider.pro/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Prime Slider is a packed of elementor widget that gives you some awesome "
+"header and slider combination for your website."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "BdThemes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://bdthemes.com/"
+msgstr ""
